@@ -212,7 +212,7 @@
  {
   "Cases": 1139,
   "Cases_Last_Week": 984,
-  "Cases_Last_Week_Doubling_Time": 1.9,
+  "Cases_Last_Week_Doubling_Time": 1.8,
   "Cases_Last_Week_Per_100000": 1.1,
   "Cases_Last_Week_Per_Million": 11,
   "Cases_New": 237,
@@ -233,7 +233,7 @@
  {
   "Cases": 1296,
   "Cases_Last_Week": 1100,
-  "Cases_Last_Week_Doubling_Time": 2.5,
+  "Cases_Last_Week_Doubling_Time": 2.2,
   "Cases_Last_Week_Per_100000": 1.3,
   "Cases_Last_Week_Per_Million": 13,
   "Cases_New": 157,
@@ -254,7 +254,7 @@
  {
   "Cases": 1567,
   "Cases_Last_Week": 1305,
-  "Cases_Last_Week_Doubling_Time": 3.2,
+  "Cases_Last_Week_Doubling_Time": 2.6,
   "Cases_Last_Week_Per_100000": 1.5,
   "Cases_Last_Week_Per_Million": 15,
   "Cases_New": 271,
@@ -275,7 +275,7 @@
  {
   "Cases": 2369,
   "Cases_Last_Week": 1969,
-  "Cases_Last_Week_Doubling_Time": 3.2,
+  "Cases_Last_Week_Doubling_Time": 2.5,
   "Cases_Last_Week_Per_100000": 2.3,
   "Cases_Last_Week_Per_Million": 23,
   "Cases_New": 802,
@@ -296,7 +296,7 @@
  {
   "Cases": 3062,
   "Cases_Last_Week": 2423,
-  "Cases_Last_Week_Doubling_Time": 2.8,
+  "Cases_Last_Week_Doubling_Time": 2.5,
   "Cases_Last_Week_Per_100000": 2.9,
   "Cases_Last_Week_Per_Million": 29,
   "Cases_New": 693,
@@ -317,7 +317,7 @@
  {
   "Cases": 3795,
   "Cases_Last_Week": 3000,
-  "Cases_Last_Week_Doubling_Time": 2.8,
+  "Cases_Last_Week_Doubling_Time": 2.6,
   "Cases_Last_Week_Per_100000": 3.6,
   "Cases_Last_Week_Per_Million": 36,
   "Cases_New": 733,
@@ -380,7 +380,7 @@
  {
   "Cases": 7156,
   "Cases_Last_Week": 5860,
-  "Cases_Last_Week_Doubling_Time": 3.0,
+  "Cases_Last_Week_Doubling_Time": 2.9,
   "Cases_Last_Week_Per_100000": 7.0,
   "Cases_Last_Week_Per_Million": 70,
   "Cases_New": 1144,
@@ -401,7 +401,7 @@
  {
   "Cases": 8198,
   "Cases_Last_Week": 6631,
-  "Cases_Last_Week_Doubling_Time": 3.5,
+  "Cases_Last_Week_Doubling_Time": 3.2,
   "Cases_Last_Week_Per_100000": 7.9,
   "Cases_Last_Week_Per_Million": 79,
   "Cases_New": 1042,
@@ -422,7 +422,7 @@
  {
   "Cases": 10999,
   "Cases_Last_Week": 8630,
-  "Cases_Last_Week_Doubling_Time": 3.5,
+  "Cases_Last_Week_Doubling_Time": 3.3,
   "Cases_Last_Week_Per_100000": 10.3,
   "Cases_Last_Week_Per_Million": 103,
   "Cases_New": 2801,
@@ -443,7 +443,7 @@
  {
   "Cases": 13957,
   "Cases_Last_Week": 10895,
-  "Cases_Last_Week_Doubling_Time": 3.3,
+  "Cases_Last_Week_Doubling_Time": 3.2,
   "Cases_Last_Week_Per_100000": 13.1,
   "Cases_Last_Week_Per_Million": 131,
   "Cases_New": 2958,
@@ -464,7 +464,7 @@
  {
   "Cases": 16662,
   "Cases_Last_Week": 12867,
-  "Cases_Last_Week_Doubling_Time": 3.4,
+  "Cases_Last_Week_Doubling_Time": 3.3,
   "Cases_Last_Week_Per_100000": 15.4,
   "Cases_Last_Week_Per_Million": 154,
   "Cases_New": 2705,
@@ -485,7 +485,7 @@
  {
   "Cases": 18610,
   "Cases_Last_Week": 13772,
-  "Cases_Last_Week_Doubling_Time": 3.9,
+  "Cases_Last_Week_Doubling_Time": 3.6,
   "Cases_Last_Week_Per_100000": 16.5,
   "Cases_Last_Week_Per_Million": 165,
   "Cases_New": 1948,
@@ -506,7 +506,7 @@
  {
   "Cases": 22672,
   "Cases_Last_Week": 16660,
-  "Cases_Last_Week_Doubling_Time": 4.1,
+  "Cases_Last_Week_Doubling_Time": 3.8,
   "Cases_Last_Week_Per_100000": 20.0,
   "Cases_Last_Week_Per_Million": 200,
   "Cases_New": 4062,
@@ -527,7 +527,7 @@
  {
   "Cases": 27436,
   "Cases_Last_Week": 20280,
-  "Cases_Last_Week_Doubling_Time": 4.1,
+  "Cases_Last_Week_Doubling_Time": 3.8,
   "Cases_Last_Week_Per_100000": 24.4,
   "Cases_Last_Week_Per_Million": 244,
   "Cases_New": 4764,
@@ -548,7 +548,7 @@
  {
   "Cases": 31554,
   "Cases_Last_Week": 23356,
-  "Cases_Last_Week_Doubling_Time": 4.3,
+  "Cases_Last_Week_Doubling_Time": 4.0,
   "Cases_Last_Week_Per_100000": 28.1,
   "Cases_Last_Week_Per_Million": 281,
   "Cases_New": 4118,
@@ -569,7 +569,7 @@
  {
   "Cases": 36508,
   "Cases_Last_Week": 25509,
-  "Cases_Last_Week_Doubling_Time": 4.7,
+  "Cases_Last_Week_Doubling_Time": 4.2,
   "Cases_Last_Week_Per_100000": 30.7,
   "Cases_Last_Week_Per_Million": 307,
   "Cases_New": 4954,
@@ -590,7 +590,7 @@
  {
   "Cases": 42288,
   "Cases_Last_Week": 28331,
-  "Cases_Last_Week_Doubling_Time": 5.1,
+  "Cases_Last_Week_Doubling_Time": 4.5,
   "Cases_Last_Week_Per_100000": 34.1,
   "Cases_Last_Week_Per_Million": 341,
   "Cases_New": 5780,
@@ -611,7 +611,7 @@
  {
   "Cases": 48582,
   "Cases_Last_Week": 31920,
-  "Cases_Last_Week_Doubling_Time": 5.4,
+  "Cases_Last_Week_Doubling_Time": 4.8,
   "Cases_Last_Week_Per_100000": 38.4,
   "Cases_Last_Week_Per_Million": 384,
   "Cases_New": 6294,
@@ -632,7 +632,7 @@
  {
   "Cases": 52547,
   "Cases_Last_Week": 33937,
-  "Cases_Last_Week_Doubling_Time": 6.3,
+  "Cases_Last_Week_Doubling_Time": 5.2,
   "Cases_Last_Week_Per_100000": 40.8,
   "Cases_Last_Week_Per_Million": 408,
   "Cases_New": 3965,
@@ -653,7 +653,7 @@
  {
   "Cases": 57298,
   "Cases_Last_Week": 34626,
-  "Cases_Last_Week_Doubling_Time": 7.9,
+  "Cases_Last_Week_Doubling_Time": 5.7,
   "Cases_Last_Week_Per_100000": 41.7,
   "Cases_Last_Week_Per_Million": 417,
   "Cases_New": 4751,
@@ -674,7 +674,7 @@
  {
   "Cases": 61913,
   "Cases_Last_Week": 34477,
-  "Cases_Last_Week_Doubling_Time": 10.6,
+  "Cases_Last_Week_Doubling_Time": 6.6,
   "Cases_Last_Week_Per_100000": 41.5,
   "Cases_Last_Week_Per_Million": 415,
   "Cases_New": 4615,
@@ -695,7 +695,7 @@
  {
   "Cases": 67366,
   "Cases_Last_Week": 35812,
-  "Cases_Last_Week_Doubling_Time": 14.0,
+  "Cases_Last_Week_Doubling_Time": 7.6,
   "Cases_Last_Week_Per_100000": 43.1,
   "Cases_Last_Week_Per_Million": 431,
   "Cases_New": 5453,
@@ -716,7 +716,7 @@
  {
   "Cases": 73522,
   "Cases_Last_Week": 37014,
-  "Cases_Last_Week_Doubling_Time": 19.4,
+  "Cases_Last_Week_Doubling_Time": 8.7,
   "Cases_Last_Week_Per_100000": 44.5,
   "Cases_Last_Week_Per_Million": 445,
   "Cases_New": 6156,
@@ -737,7 +737,7 @@
  {
   "Cases": 79696,
   "Cases_Last_Week": 37408,
-  "Cases_Last_Week_Doubling_Time": 28.7,
+  "Cases_Last_Week_Doubling_Time": 10.1,
   "Cases_Last_Week_Per_100000": 45.0,
   "Cases_Last_Week_Per_Million": 450,
   "Cases_New": 6174,
@@ -758,7 +758,7 @@
  {
   "Cases": 85778,
   "Cases_Last_Week": 37196,
-  "Cases_Last_Week_Doubling_Time": 38.8,
+  "Cases_Last_Week_Doubling_Time": 11.9,
   "Cases_Last_Week_Per_100000": 44.8,
   "Cases_Last_Week_Per_Million": 448,
   "Cases_New": 6082,
@@ -779,7 +779,7 @@
  {
   "Cases": 91714,
   "Cases_Last_Week": 39167,
-  "Cases_Last_Week_Doubling_Time": 34.5,
+  "Cases_Last_Week_Doubling_Time": 14.3,
   "Cases_Last_Week_Per_100000": 47.1,
   "Cases_Last_Week_Per_Million": 471,
   "Cases_New": 5936,
@@ -800,7 +800,7 @@
  {
   "Cases": 95391,
   "Cases_Last_Week": 38093,
-  "Cases_Last_Week_Doubling_Time": 41.2,
+  "Cases_Last_Week_Doubling_Time": 18.0,
   "Cases_Last_Week_Per_100000": 45.8,
   "Cases_Last_Week_Per_Million": 458,
   "Cases_New": 3677,
@@ -821,7 +821,7 @@
  {
   "Cases": 99225,
   "Cases_Last_Week": 37312,
-  "Cases_Last_Week_Doubling_Time": 87.6,
+  "Cases_Last_Week_Doubling_Time": 23.4,
   "Cases_Last_Week_Per_100000": 44.9,
   "Cases_Last_Week_Per_Million": 449,
   "Cases_New": 3834,
@@ -842,7 +842,7 @@
  {
   "Cases": 103228,
   "Cases_Last_Week": 35862,
-  "Cases_Last_Week_Doubling_Time": -261.6,
+  "Cases_Last_Week_Doubling_Time": 33.1,
   "Cases_Last_Week_Per_100000": 43.1,
   "Cases_Last_Week_Per_Million": 431,
   "Cases_New": 4003,
@@ -863,7 +863,7 @@
  {
   "Cases": 108202,
   "Cases_Last_Week": 34680,
-  "Cases_Last_Week_Doubling_Time": -57.0,
+  "Cases_Last_Week_Doubling_Time": 56.3,
   "Cases_Last_Week_Per_100000": 41.7,
   "Cases_Last_Week_Per_Million": 417,
   "Cases_New": 4974,
@@ -884,7 +884,7 @@
  {
   "Cases": 113525,
   "Cases_Last_Week": 33829,
-  "Cases_Last_Week_Doubling_Time": -33.6,
+  "Cases_Last_Week_Doubling_Time": 145.4,
   "Cases_Last_Week_Per_100000": 40.7,
   "Cases_Last_Week_Per_Million": 407,
   "Cases_New": 5323,
@@ -905,7 +905,7 @@
  {
   "Cases": 117658,
   "Cases_Last_Week": 31880,
-  "Cases_Last_Week_Doubling_Time": -21.3,
+  "Cases_Last_Week_Doubling_Time": -365.0,
   "Cases_Last_Week_Per_100000": 38.4,
   "Cases_Last_Week_Per_Million": 384,
   "Cases_New": 4133,
@@ -926,7 +926,7 @@
  {
   "Cases": 120479,
   "Cases_Last_Week": 28765,
-  "Cases_Last_Week_Doubling_Time": -16.6,
+  "Cases_Last_Week_Doubling_Time": -79.6,
   "Cases_Last_Week_Per_100000": 34.6,
   "Cases_Last_Week_Per_Million": 346,
   "Cases_New": 2821,
@@ -947,7 +947,7 @@
  {
   "Cases": 123016,
   "Cases_Last_Week": 27625,
-  "Cases_Last_Week_Doubling_Time": -14.0,
+  "Cases_Last_Week_Doubling_Time": -44.6,
   "Cases_Last_Week_Per_100000": 33.2,
   "Cases_Last_Week_Per_Million": 332,
   "Cases_New": 2537,
@@ -968,7 +968,7 @@
  {
   "Cases": 125098,
   "Cases_Last_Week": 25873,
-  "Cases_Last_Week_Doubling_Time": -12.5,
+  "Cases_Last_Week_Doubling_Time": -29.6,
   "Cases_Last_Week_Per_100000": 31.1,
   "Cases_Last_Week_Per_Million": 311,
   "Cases_New": 2082,
@@ -989,7 +989,7 @@
  {
   "Cases": 127584,
   "Cases_Last_Week": 24356,
-  "Cases_Last_Week_Doubling_Time": -11.2,
+  "Cases_Last_Week_Doubling_Time": -22.5,
   "Cases_Last_Week_Per_100000": 29.3,
   "Cases_Last_Week_Per_Million": 293,
   "Cases_New": 2486,
@@ -1010,7 +1010,7 @@
  {
   "Cases": 130450,
   "Cases_Last_Week": 22248,
-  "Cases_Last_Week_Doubling_Time": -10.1,
+  "Cases_Last_Week_Doubling_Time": -18.2,
   "Cases_Last_Week_Per_100000": 26.7,
   "Cases_Last_Week_Per_Million": 267,
   "Cases_New": 2866,
@@ -1031,7 +1031,7 @@
  {
   "Cases": 133830,
   "Cases_Last_Week": 20305,
-  "Cases_Last_Week_Doubling_Time": -9.8,
+  "Cases_Last_Week_Doubling_Time": -15.2,
   "Cases_Last_Week_Per_100000": 24.4,
   "Cases_Last_Week_Per_Million": 244,
   "Cases_New": 3380,
@@ -1052,7 +1052,7 @@
  {
   "Cases": 137439,
   "Cases_Last_Week": 19781,
-  "Cases_Last_Week_Doubling_Time": -10.4,
+  "Cases_Last_Week_Doubling_Time": -13.3,
   "Cases_Last_Week_Per_100000": 23.8,
   "Cases_Last_Week_Per_Million": 238,
   "Cases_New": 3609,
@@ -1073,7 +1073,7 @@
  {
   "Cases": 139897,
   "Cases_Last_Week": 19418,
-  "Cases_Last_Week_Doubling_Time": -10.6,
+  "Cases_Last_Week_Doubling_Time": -12.5,
   "Cases_Last_Week_Per_100000": 23.3,
   "Cases_Last_Week_Per_Million": 233,
   "Cases_New": 2458,
@@ -1094,7 +1094,7 @@
  {
   "Cases": 141672,
   "Cases_Last_Week": 18656,
-  "Cases_Last_Week_Doubling_Time": -12.0,
+  "Cases_Last_Week_Doubling_Time": -11.9,
   "Cases_Last_Week_Per_100000": 22.4,
   "Cases_Last_Week_Per_Million": 224,
   "Cases_New": 1775,
@@ -1115,7 +1115,7 @@
  {
   "Cases": 143457,
   "Cases_Last_Week": 18359,
-  "Cases_Last_Week_Doubling_Time": -14.8,
+  "Cases_Last_Week_Doubling_Time": -11.8,
   "Cases_Last_Week_Per_100000": 22.1,
   "Cases_Last_Week_Per_Million": 221,
   "Cases_New": 1785,
@@ -1136,7 +1136,7 @@
  {
   "Cases": 145694,
   "Cases_Last_Week": 18110,
-  "Cases_Last_Week_Doubling_Time": -21.7,
+  "Cases_Last_Week_Doubling_Time": -11.9,
   "Cases_Last_Week_Per_100000": 21.8,
   "Cases_Last_Week_Per_Million": 218,
   "Cases_New": 2237,
@@ -1157,7 +1157,7 @@
  {
   "Cases": 148046,
   "Cases_Last_Week": 17596,
-  "Cases_Last_Week_Doubling_Time": -29.1,
+  "Cases_Last_Week_Doubling_Time": -12.4,
   "Cases_Last_Week_Per_100000": 21.1,
   "Cases_Last_Week_Per_Million": 211,
   "Cases_New": 2352,
@@ -1178,7 +1178,7 @@
  {
   "Cases": 150383,
   "Cases_Last_Week": 16553,
-  "Cases_Last_Week_Doubling_Time": -25.7,
+  "Cases_Last_Week_Doubling_Time": -13.3,
   "Cases_Last_Week_Per_100000": 19.9,
   "Cases_Last_Week_Per_Million": 199,
   "Cases_New": 2337,
@@ -1199,7 +1199,7 @@
  {
   "Cases": 152438,
   "Cases_Last_Week": 14999,
-  "Cases_Last_Week_Doubling_Time": -19.2,
+  "Cases_Last_Week_Doubling_Time": -14.3,
   "Cases_Last_Week_Per_100000": 18.0,
   "Cases_Last_Week_Per_Million": 180,
   "Cases_New": 2055,
@@ -1220,7 +1220,7 @@
  {
   "Cases": 154175,
   "Cases_Last_Week": 14278,
-  "Cases_Last_Week_Doubling_Time": -15.5,
+  "Cases_Last_Week_Doubling_Time": -14.8,
   "Cases_Last_Week_Per_100000": 17.1,
   "Cases_Last_Week_Per_Million": 171,
   "Cases_New": 1737,
@@ -1243,7 +1243,7 @@
  {
   "Cases": 155193,
   "Cases_Last_Week": 13521,
-  "Cases_Last_Week_Doubling_Time": -12.7,
+  "Cases_Last_Week_Doubling_Time": -15.5,
   "Cases_Last_Week_Per_100000": 16.2,
   "Cases_Last_Week_Per_Million": 162,
   "Cases_New": 1018,
@@ -1266,7 +1266,7 @@
  {
   "Cases": 156337,
   "Cases_Last_Week": 12880,
-  "Cases_Last_Week_Doubling_Time": -11.4,
+  "Cases_Last_Week_Doubling_Time": -16.1,
   "Cases_Last_Week_Per_100000": 15.5,
   "Cases_Last_Week_Per_Million": 155,
   "Cases_New": 1144,
@@ -1289,7 +1289,7 @@
  {
   "Cases": 157641,
   "Cases_Last_Week": 11947,
-  "Cases_Last_Week_Doubling_Time": -10.8,
+  "Cases_Last_Week_Doubling_Time": -16.4,
   "Cases_Last_Week_Per_100000": 14.3,
   "Cases_Last_Week_Per_Million": 143,
   "Cases_New": 1304,
@@ -1312,7 +1312,7 @@
  {
   "Cases": 159119,
   "Cases_Last_Week": 11073,
-  "Cases_Last_Week_Doubling_Time": -10.9,
+  "Cases_Last_Week_Doubling_Time": -15.8,
   "Cases_Last_Week_Per_100000": 13.3,
   "Cases_Last_Week_Per_Million": 133,
   "Cases_New": 1478,
@@ -1335,7 +1335,7 @@
  {
   "Cases": 160758,
   "Cases_Last_Week": 10375,
-  "Cases_Last_Week_Doubling_Time": -11.3,
+  "Cases_Last_Week_Doubling_Time": -14.4,
   "Cases_Last_Week_Per_100000": 12.4,
   "Cases_Last_Week_Per_Million": 124,
   "Cases_New": 1639,
@@ -1358,7 +1358,7 @@
  {
   "Cases": 161703,
   "Cases_Last_Week": 9265,
-  "Cases_Last_Week_Doubling_Time": -10.1,
+  "Cases_Last_Week_Doubling_Time": -13.0,
   "Cases_Last_Week_Per_100000": 11.1,
   "Cases_Last_Week_Per_Million": 111,
   "Cases_New": 945,
@@ -1381,7 +1381,7 @@
  {
   "Cases": 162496,
   "Cases_Last_Week": 8321,
-  "Cases_Last_Week_Doubling_Time": -8.9,
+  "Cases_Last_Week_Doubling_Time": -11.8,
   "Cases_Last_Week_Per_100000": 10.0,
   "Cases_Last_Week_Per_Million": 100,
   "Cases_New": 793,
@@ -1404,7 +1404,7 @@
  {
   "Cases": 163175,
   "Cases_Last_Week": 7982,
-  "Cases_Last_Week_Doubling_Time": -8.4,
+  "Cases_Last_Week_Doubling_Time": -10.8,
   "Cases_Last_Week_Per_100000": 9.6,
   "Cases_Last_Week_Per_Million": 96,
   "Cases_New": 679,
@@ -1427,7 +1427,7 @@
  {
   "Cases": 163860,
   "Cases_Last_Week": 7523,
-  "Cases_Last_Week_Doubling_Time": -8.5,
+  "Cases_Last_Week_Doubling_Time": -10.2,
   "Cases_Last_Week_Per_100000": 9.0,
   "Cases_Last_Week_Per_Million": 90,
   "Cases_New": 685,
@@ -1450,7 +1450,7 @@
  {
   "Cases": 164807,
   "Cases_Last_Week": 7166,
-  "Cases_Last_Week_Doubling_Time": -9.0,
+  "Cases_Last_Week_Doubling_Time": -9.9,
   "Cases_Last_Week_Per_100000": 8.6,
   "Cases_Last_Week_Per_Million": 86,
   "Cases_New": 947,
@@ -1473,7 +1473,7 @@
  {
   "Cases": 166091,
   "Cases_Last_Week": 6972,
-  "Cases_Last_Week_Doubling_Time": -10.2,
+  "Cases_Last_Week_Doubling_Time": -9.9,
   "Cases_Last_Week_Per_100000": 8.3,
   "Cases_Last_Week_Per_Million": 83,
   "Cases_New": 1284,
@@ -1496,7 +1496,7 @@
  {
   "Cases": 167300,
   "Cases_Last_Week": 6542,
-  "Cases_Last_Week_Doubling_Time": -12.3,
+  "Cases_Last_Week_Doubling_Time": -10.1,
   "Cases_Last_Week_Per_100000": 7.8,
   "Cases_Last_Week_Per_Million": 78,
   "Cases_New": 1209,
@@ -1519,7 +1519,7 @@
  {
   "Cases": 168551,
   "Cases_Last_Week": 6848,
-  "Cases_Last_Week_Doubling_Time": -17.3,
+  "Cases_Last_Week_Doubling_Time": -10.2,
   "Cases_Last_Week_Per_100000": 8.2,
   "Cases_Last_Week_Per_Million": 82,
   "Cases_New": 1251,
@@ -1542,7 +1542,7 @@
  {
   "Cases": 169218,
   "Cases_Last_Week": 6722,
-  "Cases_Last_Week_Doubling_Time": -22.4,
+  "Cases_Last_Week_Doubling_Time": -10.6,
   "Cases_Last_Week_Per_100000": 8.0,
   "Cases_Last_Week_Per_Million": 80,
   "Cases_New": 667,
@@ -1565,7 +1565,7 @@
  {
   "Cases": 169575,
   "Cases_Last_Week": 6400,
-  "Cases_Last_Week_Doubling_Time": -30.3,
+  "Cases_Last_Week_Doubling_Time": -11.4,
   "Cases_Last_Week_Per_100000": 7.7,
   "Cases_Last_Week_Per_Million": 77,
   "Cases_New": 357,
@@ -1588,7 +1588,7 @@
  {
   "Cases": 170508,
   "Cases_Last_Week": 6648,
-  "Cases_Last_Week_Doubling_Time": -55.4,
+  "Cases_Last_Week_Doubling_Time": -13.1,
   "Cases_Last_Week_Per_100000": 8.0,
   "Cases_Last_Week_Per_Million": 80,
   "Cases_New": 933,
@@ -1611,7 +1611,7 @@
  {
   "Cases": 171306,
   "Cases_Last_Week": 6499,
-  "Cases_Last_Week_Doubling_Time": -96.3,
+  "Cases_Last_Week_Doubling_Time": -15.5,
   "Cases_Last_Week_Per_100000": 7.8,
   "Cases_Last_Week_Per_Million": 78,
   "Cases_New": 798,
@@ -1634,7 +1634,7 @@
  {
   "Cases": 172239,
   "Cases_Last_Week": 6148,
-  "Cases_Last_Week_Doubling_Time": -77.1,
+  "Cases_Last_Week_Doubling_Time": -18.9,
   "Cases_Last_Week_Per_100000": 7.4,
   "Cases_Last_Week_Per_Million": 74,
   "Cases_New": 933,
@@ -1657,7 +1657,7 @@
  {
   "Cases": 173152,
   "Cases_Last_Week": 5852,
-  "Cases_Last_Week_Doubling_Time": -32.3,
+  "Cases_Last_Week_Doubling_Time": -23.4,
   "Cases_Last_Week_Per_100000": 7.0,
   "Cases_Last_Week_Per_Million": 70,
   "Cases_New": 913,
@@ -1680,7 +1680,7 @@
  {
   "Cases": 173772,
   "Cases_Last_Week": 5221,
-  "Cases_Last_Week_Doubling_Time": -20.1,
+  "Cases_Last_Week_Doubling_Time": -25.4,
   "Cases_Last_Week_Per_100000": 6.2,
   "Cases_Last_Week_Per_Million": 62,
   "Cases_New": 620,
@@ -1703,7 +1703,7 @@
  {
   "Cases": 174355,
   "Cases_Last_Week": 5137,
-  "Cases_Last_Week_Doubling_Time": -15.5,
+  "Cases_Last_Week_Doubling_Time": -25.5,
   "Cases_Last_Week_Per_100000": 6.1,
   "Cases_Last_Week_Per_Million": 61,
   "Cases_New": 583,
@@ -1726,7 +1726,7 @@
  {
   "Cases": 174697,
   "Cases_Last_Week": 5122,
-  "Cases_Last_Week_Doubling_Time": -13.0,
+  "Cases_Last_Week_Doubling_Time": -26.0,
   "Cases_Last_Week_Per_100000": 6.1,
   "Cases_Last_Week_Per_Million": 61,
   "Cases_New": 342,
@@ -1749,7 +1749,7 @@
  {
   "Cases": 175210,
   "Cases_Last_Week": 4702,
-  "Cases_Last_Week_Doubling_Time": -12.5,
+  "Cases_Last_Week_Doubling_Time": -24.2,
   "Cases_Last_Week_Per_100000": 5.6,
   "Cases_Last_Week_Per_Million": 56,
   "Cases_New": 513,
@@ -1772,7 +1772,7 @@
  {
   "Cases": 176007,
   "Cases_Last_Week": 4701,
-  "Cases_Last_Week_Doubling_Time": -14.4,
+  "Cases_Last_Week_Doubling_Time": -22.6,
   "Cases_Last_Week_Per_100000": 5.6,
   "Cases_Last_Week_Per_Million": 56,
   "Cases_New": 797,
@@ -1795,7 +1795,7 @@
  {
   "Cases": 176752,
   "Cases_Last_Week": 4513,
-  "Cases_Last_Week_Doubling_Time": -17.7,
+  "Cases_Last_Week_Doubling_Time": -20.9,
   "Cases_Last_Week_Per_100000": 5.4,
   "Cases_Last_Week_Per_Million": 54,
   "Cases_New": 745,
@@ -1818,7 +1818,7 @@
  {
   "Cases": 177212,
   "Cases_Last_Week": 4060,
-  "Cases_Last_Week_Doubling_Time": -18.4,
+  "Cases_Last_Week_Doubling_Time": -17.7,
   "Cases_Last_Week_Per_100000": 4.8,
   "Cases_Last_Week_Per_Million": 48,
   "Cases_New": 460,
@@ -1864,7 +1864,7 @@
  {
   "Cases": 178281,
   "Cases_Last_Week": 3926,
-  "Cases_Last_Week_Doubling_Time": -16.0,
+  "Cases_Last_Week_Doubling_Time": -15.9,
   "Cases_Last_Week_Per_100000": 4.7,
   "Cases_Last_Week_Per_Million": 47,
   "Cases_New": 431,
@@ -1887,7 +1887,7 @@
  {
   "Cases": 178570,
   "Cases_Last_Week": 3873,
-  "Cases_Last_Week_Doubling_Time": -18.5,
+  "Cases_Last_Week_Doubling_Time": -15.2,
   "Cases_Last_Week_Per_100000": 4.6,
   "Cases_Last_Week_Per_Million": 46,
   "Cases_New": 289,
@@ -1910,7 +1910,7 @@
  {
   "Cases": 179002,
   "Cases_Last_Week": 3792,
-  "Cases_Last_Week_Doubling_Time": -18.8,
+  "Cases_Last_Week_Doubling_Time": -15.8,
   "Cases_Last_Week_Per_100000": 4.5,
   "Cases_Last_Week_Per_Million": 45,
   "Cases_New": 432,
@@ -1933,7 +1933,7 @@
  {
   "Cases": 179364,
   "Cases_Last_Week": 3357,
-  "Cases_Last_Week_Doubling_Time": -17.9,
+  "Cases_Last_Week_Doubling_Time": -16.3,
   "Cases_Last_Week_Per_100000": 4.0,
   "Cases_Last_Week_Per_Million": 40,
   "Cases_New": 362,
@@ -1956,7 +1956,7 @@
  {
   "Cases": 179717,
   "Cases_Last_Week": 2965,
-  "Cases_Last_Week_Doubling_Time": -15.1,
+  "Cases_Last_Week_Doubling_Time": -16.2,
   "Cases_Last_Week_Per_100000": 3.5,
   "Cases_Last_Week_Per_Million": 35,
   "Cases_New": 353,
@@ -1979,7 +1979,7 @@
  {
   "Cases": 180458,
   "Cases_Last_Week": 3246,
-  "Cases_Last_Week_Doubling_Time": -13.9,
+  "Cases_Last_Week_Doubling_Time": -17.2,
   "Cases_Last_Week_Per_100000": 3.9,
   "Cases_Last_Week_Per_Million": 39,
   "Cases_New": 741,
@@ -2002,7 +2002,7 @@
  {
   "Cases": 181196,
   "Cases_Last_Week": 3346,
-  "Cases_Last_Week_Doubling_Time": -17.5,
+  "Cases_Last_Week_Doubling_Time": -17.4,
   "Cases_Last_Week_Per_100000": 4.0,
   "Cases_Last_Week_Per_Million": 40,
   "Cases_New": 738,
@@ -2025,7 +2025,7 @@
  {
   "Cases": 181482,
   "Cases_Last_Week": 3201,
-  "Cases_Last_Week_Doubling_Time": -21.6,
+  "Cases_Last_Week_Doubling_Time": -17.8,
   "Cases_Last_Week_Per_100000": 3.8,
   "Cases_Last_Week_Per_Million": 38,
   "Cases_New": 286,
@@ -2048,7 +2048,7 @@
  {
   "Cases": 181815,
   "Cases_Last_Week": 3245,
-  "Cases_Last_Week_Doubling_Time": -43.4,
+  "Cases_Last_Week_Doubling_Time": -19.8,
   "Cases_Last_Week_Per_100000": 3.9,
   "Cases_Last_Week_Per_Million": 39,
   "Cases_New": 333,
@@ -2071,7 +2071,7 @@
  {
   "Cases": 182028,
   "Cases_Last_Week": 3026,
-  "Cases_Last_Week_Doubling_Time": "",
+  "Cases_Last_Week_Doubling_Time": -20.4,
   "Cases_Last_Week_Per_100000": 3.6,
   "Cases_Last_Week_Per_Million": 36,
   "Cases_New": 213,
@@ -2094,7 +2094,7 @@
  {
   "Cases": 182370,
   "Cases_Last_Week": 3006,
-  "Cases_Last_Week_Doubling_Time": "",
+  "Cases_Last_Week_Doubling_Time": -22.7,
   "Cases_Last_Week_Per_100000": 3.6,
   "Cases_Last_Week_Per_Million": 36,
   "Cases_New": 342,
@@ -2117,7 +2117,7 @@
  {
   "Cases": 182764,
   "Cases_Last_Week": 3047,
-  "Cases_Last_Week_Doubling_Time": -38.6,
+  "Cases_Last_Week_Doubling_Time": -26.4,
   "Cases_Last_Week_Per_100000": 3.6,
   "Cases_Last_Week_Per_Million": 36,
   "Cases_New": 394,
@@ -2140,7 +2140,7 @@
  {
   "Cases": 183271,
   "Cases_Last_Week": 2813,
-  "Cases_Last_Week_Doubling_Time": -25.7,
+  "Cases_Last_Week_Doubling_Time": -25.8,
   "Cases_Last_Week_Per_100000": 3.3,
   "Cases_Last_Week_Per_Million": 33,
   "Cases_New": 507,
@@ -2163,7 +2163,7 @@
  {
   "Cases": 183678,
   "Cases_Last_Week": 2482,
-  "Cases_Last_Week_Doubling_Time": -18.0,
+  "Cases_Last_Week_Doubling_Time": -25.0,
   "Cases_Last_Week_Per_100000": 2.9,
   "Cases_Last_Week_Per_Million": 29,
   "Cases_New": 407,
@@ -2186,7 +2186,7 @@
  {
   "Cases": 183979,
   "Cases_Last_Week": 2497,
-  "Cases_Last_Week_Doubling_Time": -15.2,
+  "Cases_Last_Week_Doubling_Time": -25.3,
   "Cases_Last_Week_Per_100000": 3.0,
   "Cases_Last_Week_Per_Million": 30,
   "Cases_New": 301,
@@ -2209,7 +2209,7 @@
  {
   "Cases": 184193,
   "Cases_Last_Week": 2378,
-  "Cases_Last_Week_Doubling_Time": -14.8,
+  "Cases_Last_Week_Doubling_Time": -25.4,
   "Cases_Last_Week_Per_100000": 2.8,
   "Cases_Last_Week_Per_Million": 28,
   "Cases_New": 214,
@@ -2232,7 +2232,7 @@
  {
   "Cases": 184543,
   "Cases_Last_Week": 2515,
-  "Cases_Last_Week_Doubling_Time": -16.2,
+  "Cases_Last_Week_Doubling_Time": -28.4,
   "Cases_Last_Week_Per_100000": 3.0,
   "Cases_Last_Week_Per_Million": 30,
   "Cases_New": 350,
@@ -2255,7 +2255,7 @@
  {
   "Cases": 184861,
   "Cases_Last_Week": 2491,
-  "Cases_Last_Week_Doubling_Time": -22.9,
+  "Cases_Last_Week_Doubling_Time": -28.5,
   "Cases_Last_Week_Per_100000": 3.0,
   "Cases_Last_Week_Per_Million": 30,
   "Cases_New": 318,
@@ -2278,7 +2278,7 @@
  {
   "Cases": 185416,
   "Cases_Last_Week": 2652,
-  "Cases_Last_Week_Doubling_Time": "",
+  "Cases_Last_Week_Doubling_Time": -25.3,
   "Cases_Last_Week_Per_100000": 3.1,
   "Cases_Last_Week_Per_Million": 31,
   "Cases_New": 555,
@@ -2301,7 +2301,7 @@
  {
   "Cases": 185674,
   "Cases_Last_Week": 2403,
-  "Cases_Last_Week_Doubling_Time": 0.0,
+  "Cases_Last_Week_Doubling_Time": -24.5,
   "Cases_Last_Week_Per_100000": 2.8,
   "Cases_Last_Week_Per_Million": 28,
   "Cases_New": 258,
@@ -2324,7 +2324,7 @@
  {
   "Cases": 186022,
   "Cases_Last_Week": 2344,
-  "Cases_Last_Week_Doubling_Time": "",
+  "Cases_Last_Week_Doubling_Time": -26.0,
   "Cases_Last_Week_Per_100000": 2.8,
   "Cases_Last_Week_Per_Million": 28,
   "Cases_New": 348,
@@ -2347,7 +2347,7 @@
  {
   "Cases": 186269,
   "Cases_Last_Week": 2290,
-  "Cases_Last_Week_Doubling_Time": -64.0,
+  "Cases_Last_Week_Doubling_Time": -26.4,
   "Cases_Last_Week_Per_100000": 2.7,
   "Cases_Last_Week_Per_Million": 27,
   "Cases_New": 247,
@@ -2370,7 +2370,7 @@
  {
   "Cases": 186461,
   "Cases_Last_Week": 2268,
-  "Cases_Last_Week_Doubling_Time": -31.1,
+  "Cases_Last_Week_Doubling_Time": -30.4,
   "Cases_Last_Week_Per_100000": 2.7,
   "Cases_Last_Week_Per_Million": 27,
   "Cases_New": 192,
@@ -2393,7 +2393,7 @@
  {
   "Cases": 186839,
   "Cases_Last_Week": 2296,
-  "Cases_Last_Week_Doubling_Time": -30.2,
+  "Cases_Last_Week_Doubling_Time": -33.2,
   "Cases_Last_Week_Per_100000": 2.7,
   "Cases_Last_Week_Per_Million": 27,
   "Cases_New": 378,
@@ -2416,7 +2416,7 @@
  {
   "Cases": 187184,
   "Cases_Last_Week": 2323,
-  "Cases_Last_Week_Doubling_Time": -35.3,
+  "Cases_Last_Week_Doubling_Time": -40.0,
   "Cases_Last_Week_Per_100000": 2.7,
   "Cases_Last_Week_Per_Million": 27,
   "Cases_New": 345,
@@ -2462,7 +2462,7 @@
  {
   "Cases": 188534,
   "Cases_Last_Week": 2860,
-  "Cases_Last_Week_Doubling_Time": 26.1,
+  "Cases_Last_Week_Doubling_Time": "",
   "Cases_Last_Week_Per_100000": 3.4,
   "Cases_Last_Week_Per_Million": 34,
   "Cases_New": 770,
@@ -2485,7 +2485,7 @@
  {
   "Cases": 189135,
   "Cases_Last_Week": 3113,
-  "Cases_Last_Week_Doubling_Time": 12.0,
+  "Cases_Last_Week_Doubling_Time": 0.0,
   "Cases_Last_Week_Per_100000": 3.7,
   "Cases_Last_Week_Per_Million": 37,
   "Cases_New": 601,
@@ -2508,7 +2508,7 @@
  {
   "Cases": 189822,
   "Cases_Last_Week": 3553,
-  "Cases_Last_Week_Doubling_Time": 8.1,
+  "Cases_Last_Week_Doubling_Time": 32.8,
   "Cases_Last_Week_Per_100000": 4.2,
   "Cases_Last_Week_Per_Million": 42,
   "Cases_New": 687,
@@ -2531,7 +2531,7 @@
  {
   "Cases": 190359,
   "Cases_Last_Week": 3898,
-  "Cases_Last_Week_Doubling_Time": 6.8,
+  "Cases_Last_Week_Doubling_Time": 20.2,
   "Cases_Last_Week_Per_100000": 4.6,
   "Cases_Last_Week_Per_Million": 46,
   "Cases_New": 537,
@@ -2554,7 +2554,7 @@
  {
   "Cases": 190862,
   "Cases_Last_Week": 4023,
-  "Cases_Last_Week_Doubling_Time": 6.9,
+  "Cases_Last_Week_Doubling_Time": 14.7,
   "Cases_Last_Week_Per_100000": 4.8,
   "Cases_Last_Week_Per_Million": 48,
   "Cases_New": 503,
@@ -2577,7 +2577,7 @@
  {
   "Cases": 191449,
   "Cases_Last_Week": 4265,
-  "Cases_Last_Week_Doubling_Time": 7.7,
+  "Cases_Last_Week_Doubling_Time": 11.9,
   "Cases_Last_Week_Per_100000": 5.1,
   "Cases_Last_Week_Per_Million": 51,
   "Cases_New": 587,
@@ -2600,7 +2600,7 @@
  {
   "Cases": 192079,
   "Cases_Last_Week": 4315,
-  "Cases_Last_Week_Doubling_Time": 10.4,
+  "Cases_Last_Week_Doubling_Time": 10.8,
   "Cases_Last_Week_Per_100000": 5.1,
   "Cases_Last_Week_Per_Million": 51,
   "Cases_New": 630,
@@ -2623,7 +2623,7 @@
  {
   "Cases": 192556,
   "Cases_Last_Week": 4022,
-  "Cases_Last_Week_Doubling_Time": 16.7,
+  "Cases_Last_Week_Doubling_Time": 11.3,
   "Cases_Last_Week_Per_100000": 4.8,
   "Cases_Last_Week_Per_Million": 48,
   "Cases_New": 477,
@@ -2646,7 +2646,7 @@
  {
   "Cases": 193243,
   "Cases_Last_Week": 4108,
-  "Cases_Last_Week_Doubling_Time": 34.3,
+  "Cases_Last_Week_Doubling_Time": 12.1,
   "Cases_Last_Week_Per_100000": 4.9,
   "Cases_Last_Week_Per_Million": 49,
   "Cases_New": 687,
@@ -2669,7 +2669,7 @@
  {
   "Cases": 193499,
   "Cases_Last_Week": 3677,
-  "Cases_Last_Week_Doubling_Time": -138.5,
+  "Cases_Last_Week_Doubling_Time": 14.5,
   "Cases_Last_Week_Per_100000": 4.4,
   "Cases_Last_Week_Per_Million": 44,
   "Cases_New": 256,
@@ -2692,7 +2692,7 @@
  {
   "Cases": 193761,
   "Cases_Last_Week": 3402,
-  "Cases_Last_Week_Doubling_Time": -23.9,
+  "Cases_Last_Week_Doubling_Time": 19.3,
   "Cases_Last_Week_Per_100000": 4.0,
   "Cases_Last_Week_Per_Million": 40,
   "Cases_New": 262,
@@ -2715,7 +2715,7 @@
  {
   "Cases": 194259,
   "Cases_Last_Week": 3397,
-  "Cases_Last_Week_Doubling_Time": -15.4,
+  "Cases_Last_Week_Doubling_Time": 28.4,
   "Cases_Last_Week_Per_100000": 4.0,
   "Cases_Last_Week_Per_Million": 40,
   "Cases_New": 498,
@@ -2738,7 +2738,7 @@
  {
   "Cases": 194725,
   "Cases_Last_Week": 3276,
-  "Cases_Last_Week_Doubling_Time": -14.1,
+  "Cases_Last_Week_Doubling_Time": 57.0,
   "Cases_Last_Week_Per_100000": 3.9,
   "Cases_Last_Week_Per_Million": 39,
   "Cases_New": 466,
@@ -2761,7 +2761,7 @@
  {
   "Cases": 195228,
   "Cases_Last_Week": 3149,
-  "Cases_Last_Week_Doubling_Time": -14.3,
+  "Cases_Last_Week_Doubling_Time": "",
   "Cases_Last_Week_Per_100000": 3.7,
   "Cases_Last_Week_Per_Million": 37,
   "Cases_New": 503,
@@ -2784,7 +2784,7 @@
  {
   "Cases": 195674,
   "Cases_Last_Week": 3118,
-  "Cases_Last_Week_Doubling_Time": -15.1,
+  "Cases_Last_Week_Doubling_Time": -59.5,
   "Cases_Last_Week_Per_100000": 3.7,
   "Cases_Last_Week_Per_Million": 37,
   "Cases_New": 446,
@@ -2807,7 +2807,7 @@
  {
   "Cases": 196096,
   "Cases_Last_Week": 2853,
-  "Cases_Last_Week_Doubling_Time": -19.2,
+  "Cases_Last_Week_Doubling_Time": -30.7,
   "Cases_Last_Week_Per_100000": 3.4,
   "Cases_Last_Week_Per_Million": 34,
   "Cases_New": 422,
@@ -2830,7 +2830,7 @@
  {
   "Cases": 196335,
   "Cases_Last_Week": 2836,
-  "Cases_Last_Week_Doubling_Time": -22.8,
+  "Cases_Last_Week_Doubling_Time": -22.7,
   "Cases_Last_Week_Per_100000": 3.4,
   "Cases_Last_Week_Per_Million": 34,
   "Cases_New": 239,
@@ -2853,7 +2853,7 @@
  {
   "Cases": 196554,
   "Cases_Last_Week": 2793,
-  "Cases_Last_Week_Doubling_Time": -20.6,
+  "Cases_Last_Week_Doubling_Time": -19.3,
   "Cases_Last_Week_Per_100000": 3.3,
   "Cases_Last_Week_Per_Million": 33,
   "Cases_New": 219,
@@ -2876,7 +2876,7 @@
  {
   "Cases": 196944,
   "Cases_Last_Week": 2685,
-  "Cases_Last_Week_Doubling_Time": -21.2,
+  "Cases_Last_Week_Doubling_Time": -17.5,
   "Cases_Last_Week_Per_100000": 3.2,
   "Cases_Last_Week_Per_Million": 32,
   "Cases_New": 390,
@@ -2899,7 +2899,7 @@
  {
   "Cases": 197341,
   "Cases_Last_Week": 2616,
-  "Cases_Last_Week_Doubling_Time": -22.7,
+  "Cases_Last_Week_Doubling_Time": -17.5,
   "Cases_Last_Week_Per_100000": 3.1,
   "Cases_Last_Week_Per_Million": 31,
   "Cases_New": 397,
@@ -2922,7 +2922,7 @@
  {
   "Cases": 197783,
   "Cases_Last_Week": 2555,
-  "Cases_Last_Week_Doubling_Time": -22.0,
+  "Cases_Last_Week_Doubling_Time": -18.4,
   "Cases_Last_Week_Per_100000": 3.0,
   "Cases_Last_Week_Per_Million": 30,
   "Cases_New": 442,
@@ -2945,7 +2945,7 @@
  {
   "Cases": 198178,
   "Cases_Last_Week": 2504,
-  "Cases_Last_Week_Doubling_Time": -28.2,
+  "Cases_Last_Week_Doubling_Time": -19.3,
   "Cases_Last_Week_Per_100000": 3.0,
   "Cases_Last_Week_Per_Million": 30,
   "Cases_New": 395,
@@ -2968,7 +2968,7 @@
  {
   "Cases": 198556,
   "Cases_Last_Week": 2460,
-  "Cases_Last_Week_Doubling_Time": -26.3,
+  "Cases_Last_Week_Doubling_Time": -22.3,
   "Cases_Last_Week_Per_100000": 2.9,
   "Cases_Last_Week_Per_Million": 29,
   "Cases_New": 378,
@@ -2991,7 +2991,7 @@
  {
   "Cases": 198804,
   "Cases_Last_Week": 2469,
-  "Cases_Last_Week_Doubling_Time": -31.0,
+  "Cases_Last_Week_Doubling_Time": -24.6,
   "Cases_Last_Week_Per_100000": 2.9,
   "Cases_Last_Week_Per_Million": 29,
   "Cases_New": 248,
@@ -3014,7 +3014,7 @@
  {
   "Cases": 198963,
   "Cases_Last_Week": 2409,
-  "Cases_Last_Week_Doubling_Time": -41.2,
+  "Cases_Last_Week_Doubling_Time": -25.4,
   "Cases_Last_Week_Per_100000": 2.9,
   "Cases_Last_Week_Per_Million": 29,
   "Cases_New": 159,
@@ -3037,7 +3037,7 @@
  {
   "Cases": 199375,
   "Cases_Last_Week": 2431,
-  "Cases_Last_Week_Doubling_Time": -63.2,
+  "Cases_Last_Week_Doubling_Time": -28.1,
   "Cases_Last_Week_Per_100000": 2.9,
   "Cases_Last_Week_Per_Million": 29,
   "Cases_New": 412,
@@ -3060,7 +3060,7 @@
  {
   "Cases": 199726,
   "Cases_Last_Week": 2385,
-  "Cases_Last_Week_Doubling_Time": -70.7,
+  "Cases_Last_Week_Doubling_Time": -31.3,
   "Cases_Last_Week_Per_100000": 2.8,
   "Cases_Last_Week_Per_Million": 28,
   "Cases_New": 351,
@@ -3083,7 +3083,7 @@
  {
   "Cases": 200260,
   "Cases_Last_Week": 2477,
-  "Cases_Last_Week_Doubling_Time": "",
+  "Cases_Last_Week_Doubling_Time": -36.1,
   "Cases_Last_Week_Per_100000": 2.9,
   "Cases_Last_Week_Per_Million": 29,
   "Cases_New": 534,
@@ -3106,7 +3106,7 @@
  {
   "Cases": 200843,
   "Cases_Last_Week": 2665,
-  "Cases_Last_Week_Doubling_Time": 69.5,
+  "Cases_Last_Week_Doubling_Time": "",
   "Cases_Last_Week_Per_100000": 3.2,
   "Cases_Last_Week_Per_Million": 32,
   "Cases_New": 583,
@@ -3129,7 +3129,7 @@
  {
   "Cases": 201372,
   "Cases_Last_Week": 2816,
-  "Cases_Last_Week_Doubling_Time": 31.3,
+  "Cases_Last_Week_Doubling_Time": "",
   "Cases_Last_Week_Per_100000": 3.3,
   "Cases_Last_Week_Per_Million": 33,
   "Cases_New": 529,
@@ -3152,7 +3152,7 @@
  {
   "Cases": 201574,
   "Cases_Last_Week": 2770,
-  "Cases_Last_Week_Doubling_Time": 24.2,
+  "Cases_Last_Week_Doubling_Time": 0.0,
   "Cases_Last_Week_Per_100000": 3.3,
   "Cases_Last_Week_Per_Million": 33,
   "Cases_New": 202,
@@ -3175,7 +3175,7 @@
  {
   "Cases": 201823,
   "Cases_Last_Week": 2860,
-  "Cases_Last_Week_Doubling_Time": 20.8,
+  "Cases_Last_Week_Doubling_Time": 0.0,
   "Cases_Last_Week_Per_100000": 3.4,
   "Cases_Last_Week_Per_Million": 34,
   "Cases_New": 249,
@@ -3198,7 +3198,7 @@
  {
   "Cases": 202345,
   "Cases_Last_Week": 2970,
-  "Cases_Last_Week_Doubling_Time": 19.7,
+  "Cases_Last_Week_Doubling_Time": 56.5,
   "Cases_Last_Week_Per_100000": 3.5,
   "Cases_Last_Week_Per_Million": 35,
   "Cases_New": 522,
@@ -3221,7 +3221,7 @@
  {
   "Cases": 202799,
   "Cases_Last_Week": 3073,
-  "Cases_Last_Week_Doubling_Time": 20.9,
+  "Cases_Last_Week_Doubling_Time": 38.1,
   "Cases_Last_Week_Per_100000": 3.7,
   "Cases_Last_Week_Per_Million": 37,
   "Cases_New": 454,
@@ -3244,7 +3244,7 @@
  {
   "Cases": 203368,
   "Cases_Last_Week": 3108,
-  "Cases_Last_Week_Doubling_Time": 26.6,
+  "Cases_Last_Week_Doubling_Time": 31.8,
   "Cases_Last_Week_Per_100000": 3.7,
   "Cases_Last_Week_Per_Million": 37,
   "Cases_New": 569,
@@ -3267,7 +3267,7 @@
  {
   "Cases": 204183,
   "Cases_Last_Week": 3340,
-  "Cases_Last_Week_Doubling_Time": 21.3,
+  "Cases_Last_Week_Doubling_Time": 25.7,
   "Cases_Last_Week_Per_100000": 4.0,
   "Cases_Last_Week_Per_Million": 40,
   "Cases_New": 815,
@@ -3290,7 +3290,7 @@
  {
   "Cases": 204964,
   "Cases_Last_Week": 3592,
-  "Cases_Last_Week_Doubling_Time": 16.1,
+  "Cases_Last_Week_Doubling_Time": 21.7,
   "Cases_Last_Week_Per_100000": 4.3,
   "Cases_Last_Week_Per_Million": 43,
   "Cases_New": 781,
@@ -3313,7 +3313,7 @@
  {
   "Cases": 205269,
   "Cases_Last_Week": 3695,
-  "Cases_Last_Week_Doubling_Time": 15.1,
+  "Cases_Last_Week_Doubling_Time": 19.5,
   "Cases_Last_Week_Per_100000": 4.4,
   "Cases_Last_Week_Per_Million": 44,
   "Cases_New": 305,
@@ -3336,7 +3336,7 @@
  {
   "Cases": 205609,
   "Cases_Last_Week": 3786,
-  "Cases_Last_Week_Doubling_Time": 15.6,
+  "Cases_Last_Week_Doubling_Time": 18.5,
   "Cases_Last_Week_Per_100000": 4.5,
   "Cases_Last_Week_Per_Million": 45,
   "Cases_New": 340,
@@ -3359,7 +3359,7 @@
  {
   "Cases": 206242,
   "Cases_Last_Week": 3897,
-  "Cases_Last_Week_Doubling_Time": 17.4,
+  "Cases_Last_Week_Doubling_Time": 18.2,
   "Cases_Last_Week_Per_100000": 4.6,
   "Cases_Last_Week_Per_Million": 46,
   "Cases_New": 633,
@@ -3382,7 +3382,7 @@
  {
   "Cases": 206926,
   "Cases_Last_Week": 4127,
-  "Cases_Last_Week_Doubling_Time": 17.0,
+  "Cases_Last_Week_Doubling_Time": 18.2,
   "Cases_Last_Week_Per_100000": 4.9,
   "Cases_Last_Week_Per_Million": 49,
   "Cases_New": 684,
@@ -3405,7 +3405,7 @@
  {
   "Cases": 207828,
   "Cases_Last_Week": 4460,
-  "Cases_Last_Week_Doubling_Time": 16.6,
+  "Cases_Last_Week_Doubling_Time": 17.5,
   "Cases_Last_Week_Per_100000": 5.3,
   "Cases_Last_Week_Per_Million": 53,
   "Cases_New": 902,
@@ -3428,7 +3428,7 @@
  {
   "Cases": 208698,
   "Cases_Last_Week": 4515,
-  "Cases_Last_Week_Doubling_Time": 16.6,
+  "Cases_Last_Week_Doubling_Time": 16.8,
   "Cases_Last_Week_Per_100000": 5.4,
   "Cases_Last_Week_Per_Million": 54,
   "Cases_New": 870,
@@ -3451,7 +3451,7 @@
  {
   "Cases": 209653,
   "Cases_Last_Week": 4689,
-  "Cases_Last_Week_Doubling_Time": 15.7,
+  "Cases_Last_Week_Doubling_Time": 16.4,
   "Cases_Last_Week_Per_100000": 5.6,
   "Cases_Last_Week_Per_Million": 56,
   "Cases_New": 955,
@@ -3474,7 +3474,7 @@
  {
   "Cases": 209893,
   "Cases_Last_Week": 4624,
-  "Cases_Last_Week_Doubling_Time": 18.3,
+  "Cases_Last_Week_Doubling_Time": 17.2,
   "Cases_Last_Week_Per_100000": 5.5,
   "Cases_Last_Week_Per_Million": 55,
   "Cases_New": 240,
@@ -3497,7 +3497,7 @@
  {
   "Cases": 210402,
   "Cases_Last_Week": 4793,
-  "Cases_Last_Week_Doubling_Time": 21.8,
+  "Cases_Last_Week_Doubling_Time": 18.1,
   "Cases_Last_Week_Per_100000": 5.7,
   "Cases_Last_Week_Per_Million": 57,
   "Cases_New": 509,
@@ -3520,7 +3520,7 @@
  {
   "Cases": 211281,
   "Cases_Last_Week": 5039,
-  "Cases_Last_Week_Doubling_Time": 25.5,
+  "Cases_Last_Week_Doubling_Time": 18.7,
   "Cases_Last_Week_Per_100000": 6.0,
   "Cases_Last_Week_Per_Million": 60,
   "Cases_New": 879,
@@ -3543,7 +3543,7 @@
  {
   "Cases": 212022,
   "Cases_Last_Week": 5096,
-  "Cases_Last_Week_Doubling_Time": 29.5,
+  "Cases_Last_Week_Doubling_Time": 19.5,
   "Cases_Last_Week_Per_100000": 6.1,
   "Cases_Last_Week_Per_Million": 61,
   "Cases_New": 741,
@@ -3566,7 +3566,7 @@
  {
   "Cases": 213067,
   "Cases_Last_Week": 5239,
-  "Cases_Last_Week_Doubling_Time": 26.6,
+  "Cases_Last_Week_Doubling_Time": 20.8,
   "Cases_Last_Week_Per_100000": 6.3,
   "Cases_Last_Week_Per_Million": 63,
   "Cases_New": 1045,
@@ -3589,7 +3589,7 @@
  {
   "Cases": 214214,
   "Cases_Last_Week": 5516,
-  "Cases_Last_Week_Doubling_Time": 23.0,
+  "Cases_Last_Week_Doubling_Time": 21.3,
   "Cases_Last_Week_Per_100000": 6.6,
   "Cases_Last_Week_Per_Million": 66,
   "Cases_New": 1147,
@@ -3612,7 +3612,7 @@
  {
   "Cases": 215336,
   "Cases_Last_Week": 5683,
-  "Cases_Last_Week_Doubling_Time": 19.9,
+  "Cases_Last_Week_Doubling_Time": 21.3,
   "Cases_Last_Week_Per_100000": 6.8,
   "Cases_Last_Week_Per_Million": 68,
   "Cases_New": 1122,
@@ -3635,7 +3635,7 @@
  {
   "Cases": 215891,
   "Cases_Last_Week": 5998,
-  "Cases_Last_Week_Doubling_Time": 18.7,
+  "Cases_Last_Week_Doubling_Time": 20.9,
   "Cases_Last_Week_Per_100000": 7.2,
   "Cases_Last_Week_Per_Million": 72,
   "Cases_New": 555,
@@ -3658,7 +3658,7 @@
  {
   "Cases": 216327,
   "Cases_Last_Week": 5925,
-  "Cases_Last_Week_Doubling_Time": 21.3,
+  "Cases_Last_Week_Doubling_Time": 21.9,
   "Cases_Last_Week_Per_100000": 7.1,
   "Cases_Last_Week_Per_Million": 71,
   "Cases_New": 436,
@@ -3681,7 +3681,7 @@
  {
   "Cases": 217293,
   "Cases_Last_Week": 6012,
-  "Cases_Last_Week_Doubling_Time": 24.1,
+  "Cases_Last_Week_Doubling_Time": 23.6,
   "Cases_Last_Week_Per_100000": 7.2,
   "Cases_Last_Week_Per_Million": 72,
   "Cases_New": 966,
@@ -3704,7 +3704,7 @@
  {
   "Cases": 218519,
   "Cases_Last_Week": 6497,
-  "Cases_Last_Week_Doubling_Time": 22.7,
+  "Cases_Last_Week_Doubling_Time": 23.2,
   "Cases_Last_Week_Per_100000": 7.8,
   "Cases_Last_Week_Per_Million": 78,
   "Cases_New": 1226,
@@ -3727,7 +3727,7 @@
  {
   "Cases": 219964,
   "Cases_Last_Week": 6897,
-  "Cases_Last_Week_Doubling_Time": 19.6,
+  "Cases_Last_Week_Doubling_Time": 21.3,
   "Cases_Last_Week_Per_100000": 8.3,
   "Cases_Last_Week_Per_Million": 83,
   "Cases_New": 1445,
@@ -3750,7 +3750,7 @@
  {
   "Cases": 221413,
   "Cases_Last_Week": 7199,
-  "Cases_Last_Week_Doubling_Time": 17.4,
+  "Cases_Last_Week_Doubling_Time": 20.0,
   "Cases_Last_Week_Per_100000": 8.6,
   "Cases_Last_Week_Per_Million": 86,
   "Cases_New": 1449,
@@ -3773,7 +3773,7 @@
  {
   "Cases": 222828,
   "Cases_Last_Week": 7492,
-  "Cases_Last_Week_Doubling_Time": 15.9,
+  "Cases_Last_Week_Doubling_Time": 18.7,
   "Cases_Last_Week_Per_100000": 9.0,
   "Cases_Last_Week_Per_Million": 90,
   "Cases_New": 1415,
@@ -3796,7 +3796,7 @@
  {
   "Cases": 223453,
   "Cases_Last_Week": 7562,
-  "Cases_Last_Week_Doubling_Time": 15.3,
+  "Cases_Last_Week_Doubling_Time": 18.8,
   "Cases_Last_Week_Per_100000": 9.1,
   "Cases_Last_Week_Per_Million": 91,
   "Cases_New": 625,
@@ -3819,7 +3819,7 @@
  {
   "Cases": 224014,
   "Cases_Last_Week": 7687,
-  "Cases_Last_Week_Doubling_Time": 18.0,
+  "Cases_Last_Week_Doubling_Time": 19.3,
   "Cases_Last_Week_Per_100000": 9.2,
   "Cases_Last_Week_Per_Million": 92,
   "Cases_New": 561,
@@ -3842,7 +3842,7 @@
  {
   "Cases": 225404,
   "Cases_Last_Week": 8111,
-  "Cases_Last_Week_Doubling_Time": 21.5,
+  "Cases_Last_Week_Doubling_Time": 19.1,
   "Cases_Last_Week_Per_100000": 9.7,
   "Cases_Last_Week_Per_Million": 97,
   "Cases_New": 1390,
@@ -3865,7 +3865,7 @@
  {
   "Cases": 226914,
   "Cases_Last_Week": 8395,
-  "Cases_Last_Week_Doubling_Time": 22.7,
+  "Cases_Last_Week_Doubling_Time": 19.1,
   "Cases_Last_Week_Per_100000": 10.1,
   "Cases_Last_Week_Per_Million": 101,
   "Cases_New": 1510,
@@ -3888,7 +3888,7 @@
  {
   "Cases": 228621,
   "Cases_Last_Week": 8657,
-  "Cases_Last_Week_Doubling_Time": 22.2,
+  "Cases_Last_Week_Doubling_Time": 19.3,
   "Cases_Last_Week_Per_100000": 10.4,
   "Cases_Last_Week_Per_Million": 104,
   "Cases_New": 1707,
@@ -3911,7 +3911,7 @@
  {
   "Cases": 230048,
   "Cases_Last_Week": 8635,
-  "Cases_Last_Week_Doubling_Time": 24.4,
+  "Cases_Last_Week_Doubling_Time": 20.1,
   "Cases_Last_Week_Per_100000": 10.4,
   "Cases_Last_Week_Per_Million": 104,
   "Cases_New": 1427,
@@ -3934,7 +3934,7 @@
  {
   "Cases": 232082,
   "Cases_Last_Week": 9254,
-  "Cases_Last_Week_Doubling_Time": 21.3,
+  "Cases_Last_Week_Doubling_Time": 20.1,
   "Cases_Last_Week_Per_100000": 11.1,
   "Cases_Last_Week_Per_Million": 111,
   "Cases_New": 2034,
