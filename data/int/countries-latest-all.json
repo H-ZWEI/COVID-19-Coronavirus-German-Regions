@@ -1016,7 +1016,7 @@
   "Deaths_New": 19,
   "Deaths_Per_Million": 53,
   "Population": 98423595,
-  "Slope_Cases_New_Per_Million": 0.0,
+  "Slope_Cases_New_Per_Million": -0.0,
   "Slope_Deaths_New_Per_Million": -0.01
  },
  {
@@ -2417,7 +2417,7 @@
   "Deaths_Per_Million": 20,
   "Population": 6465513,
   "Slope_Cases_New_Per_Million": -0.03,
-  "Slope_Deaths_New_Per_Million": 0.0
+  "Slope_Deaths_New_Per_Million": -0.0
  },
  {
   "Cases": 1172,
