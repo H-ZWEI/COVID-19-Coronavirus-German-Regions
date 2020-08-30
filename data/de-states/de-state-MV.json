@@ -4124,6 +4124,8 @@
   "Cases_New": 3,
   "Cases_New_Per_Million": 1,
   "Cases_Per_Million": 625,
+  "DIVI_Intensivstationen_Betten_belegt_Prozent": 71.0,
+  "DIVI_Intensivstationen_Covid_Prozent": 0.0,
   "Date": "2020-08-30",
   "Days_Past": 0,
   "Days_Since_2nd_Death": 151,
