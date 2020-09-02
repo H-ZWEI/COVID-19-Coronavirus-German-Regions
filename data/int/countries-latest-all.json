@@ -75,6 +75,7 @@
   "Deaths_Last_Week_Per_Million": 0.0,
   "Deaths_New": 0,
   "Deaths_Per_Million": 688,
+  "DoublingTime_Cases_Last_Week_Per_100000": 8.7,
   "Population": 77006,
   "Slope_Cases_New_Per_Million": 10.36,
   "Slope_Deaths_New_Per_Million": 0.0
@@ -135,6 +136,7 @@
   "Deaths_Last_Week_Per_Million": 30.48,
   "Deaths_New": 259,
   "Deaths_Per_Million": 200,
+  "DoublingTime_Cases_Last_Week_Per_100000": 18.4,
   "Population": 44494502,
   "Slope_Cases_New_Per_Million": 5.0,
   "Slope_Deaths_New_Per_Million": -0.07
@@ -215,6 +217,7 @@
   "Deaths_Last_Week_Per_Million": 1.51,
   "Deaths_New": 2,
   "Deaths_Per_Million": 53,
+  "DoublingTime_Cases_Last_Week_Per_100000": 51.6,
   "Population": 9942334,
   "Slope_Cases_New_Per_Million": -0.12,
   "Slope_Deaths_New_Per_Million": 0.01
@@ -315,6 +318,7 @@
   "Deaths_Last_Week_Per_Million": 3.58,
   "Deaths_New": 5,
   "Deaths_Per_Million": 72,
+  "DoublingTime_Cases_Last_Week_Per_100000": 17.9,
   "Population": 9485386,
   "Slope_Cases_New_Per_Million": 0.07,
   "Slope_Deaths_New_Per_Million": -0.0
@@ -395,6 +399,7 @@
   "Deaths_Last_Week_Per_Million": 0.0,
   "Deaths_New": 0,
   "Deaths_Per_Million": 0,
+  "DoublingTime_Cases_Last_Week_Per_100000": 6.3,
   "Population": 754394,
   "Slope_Cases_New_Per_Million": 0.82,
   "Slope_Deaths_New_Per_Million": 0.0
@@ -455,6 +460,7 @@
   "Deaths_Last_Week_Per_Million": 1.33,
   "Deaths_New": 0,
   "Deaths_Per_Million": 2,
+  "DoublingTime_Cases_Last_Week_Per_100000": 25.5,
   "Population": 2254126,
   "Slope_Cases_New_Per_Million": 1.02,
   "Slope_Deaths_New_Per_Million": 0.03
@@ -575,6 +581,7 @@
   "Deaths_Last_Week_Per_Million": 5.52,
   "Deaths_New": 0,
   "Deaths_Per_Million": 73,
+  "DoublingTime_Cases_Last_Week_Per_100000": 39.6,
   "Population": 543767,
   "Slope_Cases_New_Per_Million": 1.58,
   "Slope_Deaths_New_Per_Million": 0.02
@@ -635,6 +642,7 @@
   "Deaths_Last_Week_Per_Million": 1.16,
   "Deaths_New": 6,
   "Deaths_Per_Million": 247,
+  "DoublingTime_Cases_Last_Week_Per_100000": 35.2,
   "Population": 37058856,
   "Slope_Cases_New_Per_Million": 0.5,
   "Slope_Deaths_New_Per_Million": 0.0
@@ -815,6 +823,7 @@
   "Deaths_Last_Week_Per_Million": 13.4,
   "Deaths_New": 7,
   "Deaths_Per_Million": 88,
+  "DoublingTime_Cases_Last_Week_Per_100000": 28.9,
   "Population": 4999441,
   "Slope_Cases_New_Per_Million": 3.34,
   "Slope_Deaths_New_Per_Million": 0.02
@@ -835,6 +844,7 @@
   "Deaths_Last_Week_Per_Million": 2.93,
   "Deaths_New": 1,
   "Deaths_Per_Million": 45,
+  "DoublingTime_Cases_Last_Week_Per_100000": 20.1,
   "Population": 4089400,
   "Slope_Cases_New_Per_Million": -0.57,
   "Slope_Deaths_New_Per_Million": 0.02
@@ -895,6 +905,7 @@
   "Deaths_Last_Week_Per_Million": 0.85,
   "Deaths_New": 1,
   "Deaths_Per_Million": 39,
+  "DoublingTime_Cases_Last_Week_Per_100000": 21.9,
   "Population": 10625695,
   "Slope_Cases_New_Per_Million": 0.63,
   "Slope_Deaths_New_Per_Million": -0.01
@@ -1095,6 +1106,7 @@
   "Deaths_Last_Week_Per_Million": 0.0,
   "Deaths_New": 0,
   "Deaths_Per_Million": 48,
+  "DoublingTime_Cases_Last_Week_Per_100000": 15.0,
   "Population": 1320884,
   "Slope_Cases_New_Per_Million": -0.02,
   "Slope_Deaths_New_Per_Million": -0.0
@@ -1195,6 +1207,7 @@
   "Deaths_Last_Week_Per_Million": 1.75,
   "Deaths_New": 26,
   "Deaths_Per_Million": 457,
+  "DoublingTime_Cases_Last_Week_Per_100000": 11.7,
   "Population": 66987244,
   "Slope_Cases_New_Per_Million": 1.98,
   "Slope_Deaths_New_Per_Million": 0.0
@@ -1415,6 +1428,7 @@
   "Deaths_Last_Week_Per_Million": 12.84,
   "Deaths_New": 2,
   "Deaths_Per_Million": 52,
+  "DoublingTime_Cases_Last_Week_Per_100000": 26.9,
   "Population": 779004,
   "Slope_Cases_New_Per_Million": 0.64,
   "Slope_Deaths_New_Per_Million": 0.06
@@ -1455,6 +1469,7 @@
   "Deaths_Last_Week_Per_Million": 19.3,
   "Deaths_New": 15,
   "Deaths_Per_Million": 196,
+  "DoublingTime_Cases_Last_Week_Per_100000": 17.3,
   "Population": 9587522,
   "Slope_Cases_New_Per_Million": 2.32,
   "Slope_Deaths_New_Per_Million": 0.06
@@ -1475,6 +1490,7 @@
   "Deaths_Last_Week_Per_Million": 0.2,
   "Deaths_New": 1,
   "Deaths_Per_Million": 63,
+  "DoublingTime_Cases_Last_Week_Per_100000": 3.9,
   "Population": 9768785,
   "Slope_Cases_New_Per_Million": 1.44,
   "Slope_Deaths_New_Per_Million": -0.0
@@ -1515,6 +1531,7 @@
   "Deaths_Last_Week_Per_Million": 5.16,
   "Deaths_New": 1045,
   "Deaths_Per_Million": 49,
+  "DoublingTime_Cases_Last_Week_Per_100000": 44.6,
   "Population": 1352617328,
   "Slope_Cases_New_Per_Million": 0.69,
   "Slope_Deaths_New_Per_Million": 0.0
@@ -1535,6 +1552,7 @@
   "Deaths_Last_Week_Per_Million": 2.42,
   "Deaths_New": 88,
   "Deaths_Per_Million": 28,
+  "DoublingTime_Cases_Last_Week_Per_100000": 23.0,
   "Population": 267663435,
   "Slope_Cases_New_Per_Million": 0.31,
   "Slope_Deaths_New_Per_Million": 0.0
@@ -1615,6 +1633,7 @@
   "Deaths_Last_Week_Per_Million": 11.03,
   "Deaths_New": 18,
   "Deaths_Per_Million": 107,
+  "DoublingTime_Cases_Last_Week_Per_100000": 35.0,
   "Population": 8883800,
   "Slope_Cases_New_Per_Million": 4.18,
   "Slope_Deaths_New_Per_Million": -0.17
@@ -1635,6 +1654,7 @@
   "Deaths_Last_Week_Per_Million": 0.76,
   "Deaths_New": 8,
   "Deaths_Per_Million": 587,
+  "DoublingTime_Cases_Last_Week_Per_100000": 10.2,
   "Population": 60431283,
   "Slope_Cases_New_Per_Million": 0.59,
   "Slope_Deaths_New_Per_Million": -0.0
@@ -1675,6 +1695,7 @@
   "Deaths_Last_Week_Per_Million": 0.68,
   "Deaths_New": 0,
   "Deaths_Per_Million": 7,
+  "DoublingTime_Cases_Last_Week_Per_100000": 7.4,
   "Population": 2934855,
   "Slope_Cases_New_Per_Million": 1.16,
   "Slope_Deaths_New_Per_Million": -0.01
@@ -1715,6 +1736,7 @@
   "Deaths_Last_Week_Per_Million": 0.1,
   "Deaths_New": 0,
   "Deaths_Per_Million": 1,
+  "DoublingTime_Cases_Last_Week_Per_100000": 11.2,
   "Population": 9956011,
   "Slope_Cases_New_Per_Million": 0.26,
   "Slope_Deaths_New_Per_Million": -0.0
@@ -1855,6 +1877,7 @@
   "Deaths_Last_Week_Per_Million": 0.52,
   "Deaths_New": 0,
   "Deaths_Per_Million": 17,
+  "DoublingTime_Cases_Last_Week_Per_100000": 5.5,
   "Population": 1926542,
   "Slope_Cases_New_Per_Million": 0.3,
   "Slope_Deaths_New_Per_Million": 0.0
@@ -1875,6 +1898,7 @@
   "Deaths_Last_Week_Per_Million": 4.82,
   "Deaths_New": 4,
   "Deaths_Per_Million": 24,
+  "DoublingTime_Cases_Last_Week_Per_100000": 35.8,
   "Population": 6848925,
   "Slope_Cases_New_Per_Million": -0.58,
   "Slope_Deaths_New_Per_Million": 0.03
@@ -1975,6 +1999,7 @@
   "Deaths_Last_Week_Per_Million": 0.36,
   "Deaths_New": 0,
   "Deaths_Per_Million": 30,
+  "DoublingTime_Cases_Last_Week_Per_100000": 43.4,
   "Population": 2789533,
   "Slope_Cases_New_Per_Million": 0.06,
   "Slope_Deaths_New_Per_Million": -0.02
@@ -2255,6 +2280,7 @@
   "Deaths_Last_Week_Per_Million": 24.1,
   "Deaths_New": 2,
   "Deaths_Per_Million": 163,
+  "DoublingTime_Cases_Last_Week_Per_100000": 25.1,
   "Population": 622345,
   "Slope_Cases_New_Per_Million": 4.14,
   "Slope_Deaths_New_Per_Million": 0.29
@@ -2355,6 +2381,7 @@
   "Deaths_Last_Week_Per_Million": 2.67,
   "Deaths_New": 11,
   "Deaths_Per_Million": 8,
+  "DoublingTime_Cases_Last_Week_Per_100000": 21.0,
   "Population": 28087871,
   "Slope_Cases_New_Per_Million": 1.12,
   "Slope_Deaths_New_Per_Million": 0.01
@@ -2515,6 +2542,7 @@
   "Deaths_Last_Week_Per_Million": 9.73,
   "Deaths_New": 4,
   "Deaths_Per_Million": 142,
+  "DoublingTime_Cases_Last_Week_Per_100000": 31.9,
   "Population": 4829483,
   "Slope_Cases_New_Per_Million": 1.64,
   "Slope_Deaths_New_Per_Million": 0.08
@@ -2555,6 +2583,7 @@
   "Deaths_Last_Week_Per_Million": 5.69,
   "Deaths_New": 7,
   "Deaths_Per_Million": 34,
+  "DoublingTime_Cases_Last_Week_Per_100000": 18.0,
   "Population": 4569087,
   "Slope_Cases_New_Per_Million": 4.88,
   "Slope_Deaths_New_Per_Million": 0.01
@@ -2615,6 +2644,7 @@
   "Deaths_Last_Week_Per_Million": 16.82,
   "Deaths_New": 22,
   "Deaths_Per_Million": 50,
+  "DoublingTime_Cases_Last_Week_Per_100000": 50.6,
   "Population": 6956071,
   "Slope_Cases_New_Per_Million": 0.86,
   "Slope_Deaths_New_Per_Million": 0.14
@@ -2695,6 +2725,7 @@
   "Deaths_Last_Week_Per_Million": 1.85,
   "Deaths_New": 2,
   "Deaths_Per_Million": 177,
+  "DoublingTime_Cases_Last_Week_Per_100000": 15.3,
   "Population": 10281762,
   "Slope_Cases_New_Per_Million": 0.71,
   "Slope_Deaths_New_Per_Million": -0.0
@@ -2775,6 +2806,7 @@
   "Deaths_Last_Week_Per_Million": 0.08,
   "Deaths_New": 0,
   "Deaths_Per_Million": 1,
+  "DoublingTime_Cases_Last_Week_Per_100000": 19.8,
   "Population": 12301939,
   "Slope_Cases_New_Per_Million": -0.08,
   "Slope_Deaths_New_Per_Million": -0.0
@@ -2835,6 +2867,7 @@
   "Deaths_Last_Week_Per_Million": 0.0,
   "Deaths_New": 0,
   "Deaths_Per_Million": 0,
+  "DoublingTime_Cases_Last_Week_Per_100000": 4.8,
   "Population": 110211,
   "Slope_Cases_New_Per_Million": 0.38,
   "Slope_Deaths_New_Per_Million": 0.0
@@ -2855,6 +2888,7 @@
   "Deaths_Last_Week_Per_Million": 0.0,
   "Deaths_New": 0,
   "Deaths_Per_Million": 1243,
+  "DoublingTime_Cases_Last_Week_Per_100000": 21.5,
   "Population": 33785,
   "Slope_Cases_New_Per_Million": 1.48,
   "Slope_Deaths_New_Per_Million": 0.0
@@ -3015,6 +3049,7 @@
   "Deaths_Last_Week_Per_Million": 0.0,
   "Deaths_New": 0,
   "Deaths_Per_Million": 6,
+  "DoublingTime_Cases_Last_Week_Per_100000": 27.8,
   "Population": 5447011,
   "Slope_Cases_New_Per_Million": -0.4,
   "Slope_Deaths_New_Per_Million": -0.01
@@ -3135,6 +3170,7 @@
   "Deaths_Last_Week_Per_Million": 4.88,
   "Deaths_New": 58,
   "Deaths_Per_Million": 623,
+  "DoublingTime_Cases_Last_Week_Per_100000": 24.1,
   "Population": 46723749,
   "Slope_Cases_New_Per_Million": 6.94,
   "Slope_Deaths_New_Per_Million": -0.02
@@ -3235,6 +3271,7 @@
   "Deaths_Last_Week_Per_Million": 1.06,
   "Deaths_New": 5,
   "Deaths_Per_Million": 236,
+  "DoublingTime_Cases_Last_Week_Per_100000": 28.2,
   "Population": 8516543,
   "Slope_Cases_New_Per_Million": -0.19,
   "Slope_Deaths_New_Per_Million": -0.0
@@ -3395,6 +3432,7 @@
   "Deaths_Last_Week_Per_Million": 8.63,
   "Deaths_New": 5,
   "Deaths_Per_Million": 19,
+  "DoublingTime_Cases_Last_Week_Per_100000": 17.0,
   "Population": 1389858,
   "Slope_Cases_New_Per_Million": -1.02,
   "Slope_Deaths_New_Per_Million": 0.16
@@ -3415,6 +3453,7 @@
   "Deaths_Last_Week_Per_Million": 0.78,
   "Deaths_New": 3,
   "Deaths_Per_Million": 6,
+  "DoublingTime_Cases_Last_Week_Per_100000": 27.2,
   "Population": 11565204,
   "Slope_Cases_New_Per_Million": 0.24,
   "Slope_Deaths_New_Per_Million": -0.01
@@ -3435,6 +3474,7 @@
   "Deaths_Last_Week_Per_Million": 3.09,
   "Deaths_New": 47,
   "Deaths_Per_Million": 77,
+  "DoublingTime_Cases_Last_Week_Per_100000": 44.3,
   "Population": 82319724,
   "Slope_Cases_New_Per_Million": 0.33,
   "Slope_Deaths_New_Per_Million": 0.03
@@ -3475,6 +3515,7 @@
   "Deaths_Last_Week_Per_Million": 6.54,
   "Deaths_New": 49,
   "Deaths_Per_Million": 59,
+  "DoublingTime_Cases_Last_Week_Per_100000": 51.9,
   "Population": 44622516,
   "Slope_Cases_New_Per_Million": 0.37,
   "Slope_Deaths_New_Per_Million": 0.02
@@ -3495,6 +3536,7 @@
   "Deaths_Last_Week_Per_Million": 0.73,
   "Deaths_New": 0,
   "Deaths_Per_Million": 39,
+  "DoublingTime_Cases_Last_Week_Per_100000": 34.0,
   "Population": 9630959,
   "Slope_Cases_New_Per_Million": 0.72,
   "Slope_Deaths_New_Per_Million": -0.01
@@ -3515,6 +3557,7 @@
   "Deaths_Last_Week_Per_Million": 0.86,
   "Deaths_New": 3,
   "Deaths_Per_Million": 625,
+  "DoublingTime_Cases_Last_Week_Per_100000": 29.5,
   "Population": 66488991,
   "Slope_Cases_New_Per_Million": 0.58,
   "Slope_Deaths_New_Per_Million": -0.01
