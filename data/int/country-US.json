@@ -4660,11 +4660,11 @@
   "Deaths_Per_Million": 586
  },
  {
-  "Cases": 6443743,
-  "Cases_Last_Week": 243225,
+  "Cases": 6443652,
+  "Cases_Last_Week": 243134,
   "Cases_Last_Week_Per_100000": 74.3,
   "Cases_Last_Week_Per_Million": 743,
-  "Cases_New": 47643,
+  "Cases_New": 47552,
   "Cases_New_Per_Million": 145,
   "Cases_Per_Million": 19695,
   "Date": "2020-09-11",
@@ -4680,8 +4680,8 @@
   "Deaths_Per_Million": 589
  },
  {
-  "Cases": 6485214,
-  "Cases_Last_Week": 240244,
+  "Cases": 6485123,
+  "Cases_Last_Week": 240153,
   "Cases_Last_Week_Per_100000": 73.4,
   "Cases_Last_Week_Per_Million": 734,
   "Cases_New": 41471,
