@@ -4515,6 +4515,8 @@
   "Cases_New": 99,
   "Cases_New_Per_Million": 15,
   "Cases_Per_Million": 2726,
+  "DIVI_Intensivstationen_Betten_belegt_Prozent": 75.0,
+  "DIVI_Intensivstationen_Covid_Prozent": 0.9,
   "Date": "2020-09-16",
   "Days_Past": 0,
   "Days_Since_2nd_Death": 179,
