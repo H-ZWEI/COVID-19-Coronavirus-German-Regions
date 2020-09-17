@@ -1,413 +1,413 @@
 Landkreis	Bundesland	Population	Cases	Deaths	Cases_Per_Million	Deaths_Per_Million	DIVI_Intensivstationen_Covid_Prozent	DIVI_Intensivstationen_Betten_belegt_Prozent	DoublingTime_Cases_Last_Week_Per_100000
-Flensburg (Kreisfreie Stadt)	Schleswig-Holstein	89504	82	3	916	33	0.0	67.3	
-Kiel (Kreisfreie Stadt)	Schleswig-Holstein	247548	450	11	1817	44	0.0	51.5	
-Lübeck (Kreisfreie Stadt)	Schleswig-Holstein	217198	241	1	1109	4	0.0	53.5	
-Neumünster (Kreisfreie Stadt)	Schleswig-Holstein	79487	137	3	1723	37	0.0	72.0	
-Dithmarschen (Kreis)	Schleswig-Holstein	133210	168	5	1261	37	0.0	83.3	
-Herzogtum Lauenburg (Kreis)	Schleswig-Holstein	197264	330	18	1672	91	0.0	62.5	
+Flensburg (Kreisfreie Stadt)	Schleswig-Holstein	89504	83	3	927	33	0.0	70.9	
+Kiel (Kreisfreie Stadt)	Schleswig-Holstein	247548	450	11	1817	44	0.0	52.8	
+Lübeck (Kreisfreie Stadt)	Schleswig-Holstein	217198	241	1	1109	4	0.0	52.5	
+Neumünster (Kreisfreie Stadt)	Schleswig-Holstein	79487	143	3	1799	37	0.0	76.0	
+Dithmarschen (Kreis)	Schleswig-Holstein	133210	168	5	1261	37	0.0	81.5	
+Herzogtum Lauenburg (Kreis)	Schleswig-Holstein	197264	336	18	1703	91	0.0	54.2	
 Nordfriesland (Kreis)	Schleswig-Holstein	165507	112	2	676	12	0.0	74.4	
-Ostholstein (Kreis)	Schleswig-Holstein	200581	102	0	508	0	0.0	86.3	
-Pinneberg (Kreis)	Schleswig-Holstein	314391	785	47	2496	149	2.5	75.0	
-Plön (Kreis)	Schleswig-Holstein	128647	157	8	1220	62	0.0	33.3	
-Rendsburg-Eckernförde (Kreis)	Schleswig-Holstein	272775	335	14	1228	51	0.0	38.9	
-Schleswig-Flensburg (Kreis)	Schleswig-Holstein	200025	181	4	904	19	0.0	58.3	
-Segeberg (Kreis)	Schleswig-Holstein	276032	436	7	1579	25	0.0	65.8	
-Steinburg (Kreis)	Schleswig-Holstein	131347	202	3	1537	22	0.0	53.1	
-Stormarn (Kreis)	Schleswig-Holstein	243196	570	35	2343	143	0.0	67.3	
-Regionalverband Saarbrücken (Landkreis)	Saarland	329708	1393	114	4224	345	0.6	68.7	
-Merzig-Wadern (Landkreis)	Saarland	103366	273	2	2641	19	0.0	44.4	
-Neunkirchen (Landkreis)	Saarland	132206	318	11	2405	83	0.0	48.1	
-Saarlouis (Landkreis)	Saarland	195201	668	24	3422	122	0.0	61.9	
-Saarpfalz-Kreis (Landkreis)	Saarland	142631	402	18	2818	126	0.8	63.6	
-St. Wendel (Landkreis)	Saarland	87397	186	6	2128	68	0.0	76.9	
-Berlin Reinickendorf (Bezirk)	Berlin	265225	929	21	3502	79	1.1	84.8	
-Berlin Charlottenburg-Wilmersdorf (Bezirk)	Berlin	342332	1195	23	3490	67	1.1	84.8	
-Berlin Treptow-Köpenick (Bezirk)	Berlin	271153	516	11	1902	40	1.1	84.8	
-Berlin Pankow (Bezirk)	Berlin	407765	1102	37	2702	90	1.1	84.8	
-Berlin Neukölln (Bezirk)	Berlin	329691	1578	43	4786	130	1.1	84.8	
-Berlin Lichtenberg (Bezirk)	Berlin	291452	710	12	2436	41	1.1	84.8	
-Berlin Marzahn-Hellersdorf (Bezirk)	Berlin	268548	618	6	2301	22	1.1	84.8	
-Berlin Spandau (Bezirk)	Berlin	243977	694	9	2844	36	1.1	84.8	
-Berlin Steglitz-Zehlendorf (Bezirk)	Berlin	308697	798	13	2585	42	1.1	84.8	
-Berlin Mitte (Bezirk)	Berlin	384172	1959	18	5099	46	1.1	84.8	37.5
-Berlin Friedrichshain-Kreuzberg (Bezirk)	Berlin	289762	1193	9	4117	31	1.1	84.8	
-Berlin Tempelhof-Schöneberg (Bezirk)	Berlin	351644	1171	25	3330	71	1.1	84.8	
-Brandenburg an der Havel (Kreisfreie Stadt)	Brandenburg	72124	72	1	998	13	0.0	79.3	
-Cottbus (Kreisfreie Stadt)	Brandenburg	100219	48	0	478	0	0.0	77.1	
+Ostholstein (Kreis)	Schleswig-Holstein	200581	104	0	518	0	0.0	80.4	
+Pinneberg (Kreis)	Schleswig-Holstein	314391	787	47	2503	149	2.5	60.0	
+Plön (Kreis)	Schleswig-Holstein	128647	158	8	1228	62	0.0	58.3	
+Rendsburg-Eckernförde (Kreis)	Schleswig-Holstein	272775	335	14	1228	51	0.0	63.0	
+Schleswig-Flensburg (Kreis)	Schleswig-Holstein	200025	182	4	909	19	0.0	58.3	
+Segeberg (Kreis)	Schleswig-Holstein	276032	438	7	1586	25	0.0	71.7	
+Steinburg (Kreis)	Schleswig-Holstein	131347	202	3	1537	22	0.0	73.5	
+Stormarn (Kreis)	Schleswig-Holstein	243196	572	35	2352	143	0.0	63.6	
+Regionalverband Saarbrücken (Landkreis)	Saarland	329708	1398	114	4240	345	1.2	74.7	
+Merzig-Wadern (Landkreis)	Saarland	103366	275	3	2660	29	0.0	61.1	
+Neunkirchen (Landkreis)	Saarland	132206	321	11	2428	83	0.0	53.8	
+Saarlouis (Landkreis)	Saarland	195201	675	24	3457	122	0.0	65.1	
+Saarpfalz-Kreis (Landkreis)	Saarland	142631	407	18	2853	126	0.4	63.2	
+St. Wendel (Landkreis)	Saarland	87397	186	6	2128	68	0.0	92.3	
+Berlin Reinickendorf (Bezirk)	Berlin	265225	937	21	3532	79	1.2	85.0	
+Berlin Charlottenburg-Wilmersdorf (Bezirk)	Berlin	342332	1203	23	3514	67	1.2	85.0	
+Berlin Treptow-Köpenick (Bezirk)	Berlin	271153	523	11	1928	40	1.2	85.0	
+Berlin Pankow (Bezirk)	Berlin	407765	1109	37	2719	90	1.2	85.0	
+Berlin Neukölln (Bezirk)	Berlin	329691	1591	43	4825	130	1.2	85.0	
+Berlin Lichtenberg (Bezirk)	Berlin	291452	717	12	2460	41	1.2	85.0	
+Berlin Marzahn-Hellersdorf (Bezirk)	Berlin	268548	628	6	2338	22	1.2	85.0	
+Berlin Spandau (Bezirk)	Berlin	243977	698	9	2860	36	1.2	85.0	
+Berlin Steglitz-Zehlendorf (Bezirk)	Berlin	308697	813	13	2633	42	1.2	85.0	
+Berlin Mitte (Bezirk)	Berlin	384172	1988	18	5174	46	1.2	85.0	27.7
+Berlin Friedrichshain-Kreuzberg (Bezirk)	Berlin	289762	1207	9	4165	31	1.2	85.0	
+Berlin Tempelhof-Schöneberg (Bezirk)	Berlin	351644	1179	25	3352	71	1.2	85.0	
+Brandenburg an der Havel (Kreisfreie Stadt)	Brandenburg	72124	72	1	998	13	0.0	67.2	
+Cottbus (Kreisfreie Stadt)	Brandenburg	100219	48	0	478	0	0.0	74.3	
 Frankfurt (Oder) (Kreisfreie Stadt)	Brandenburg	57873	67	0	1157	0	0.0	60.0	
-Potsdam (Kreisfreie Stadt)	Brandenburg	178089	706	51	3964	286	0.0	85.5	
-Barnim (Landkreis)	Brandenburg	182760	471	29	2577	158	0.0	74.0	
-Dahme-Spreewald (Landkreis)	Brandenburg	169067	308	8	1821	47	0.0	78.7	
-Elbe-Elster (Landkreis)	Brandenburg	102638	95	3	925	29	0.0	59.0	
-Havelland (Landkreis)	Brandenburg	161909	232	6	1432	37	0.0	48.3	
-Märkisch-Oderland (Landkreis)	Brandenburg	194328	262	4	1348	20	0.0	65.2	
-Oberhavel (Landkreis)	Brandenburg	211249	368	9	1742	42	0.0	34.8	
-Oberspreewald-Lausitz (Landkreis)	Brandenburg	110476	72	2	651	18	0.0	100.0	
-Oder-Spree (Landkreis)	Brandenburg	178658	181	3	1013	16	0.0	63.6	
-Ostprignitz-Ruppin (Landkreis)	Brandenburg	99078	106	0	1069	0	0.0	64.5	
-Potsdam-Mittelmark (Landkreis)	Brandenburg	214664	634	38	2953	177	0.0	75.3	
-Prignitz (Landkreis)	Brandenburg	76508	47	0	614	0	0.0	40.0	
-Spree-Neiße (Landkreis)	Brandenburg	114429	69	0	602	0	0.0	89.5	
-Teltow-Fläming (Landkreis)	Brandenburg	168296	245	13	1455	77	0.0	72.2	
-Uckermark (Landkreis)	Brandenburg	119552	50	2	418	16	0.0	55.6	
-Rostock (Kreisfreie Stadt)	Mecklenburg-Vorpommern	208886	156	2	746	9	0.0	69.0	
-Schwerin (Kreisfreie Stadt)	Mecklenburg-Vorpommern	95818	127	0	1325	0	1.4	76.1	
-Mecklenburgische Seenplatte (Landkreis)	Mecklenburg-Vorpommern	259130	151	3	582	11	0.0	76.1	
-Rostock (Landkreis)	Mecklenburg-Vorpommern	215113	93	3	432	13	0.0	56.7	
-Vorpommern-Rügen (Landkreis)	Mecklenburg-Vorpommern	224684	115	2	511	8	0.0	78.7	
-Nordwestmecklenburg (Landkreis)	Mecklenburg-Vorpommern	156729	108	1	689	6	0.0	62.8	
-Vorpommern-Greifswald (Landkreis)	Mecklenburg-Vorpommern	236697	174	7	735	29	0.4	75.7	
-Ludwigslust-Parchim (Landkreis)	Mecklenburg-Vorpommern	212618	150	2	705	9	0.0	83.3	
-Chemnitz (Kreisfreie Stadt)	Sachsen	247237	275	6	1112	24	0.0	67.1	
-Erzgebirgskreis (Landkreis)	Sachsen	337696	645	43	1910	127	2.2	72.5	
-Mittelsachsen (Landkreis)	Sachsen	306185	371	9	1211	29	0.0	69.0	
-Vogtlandkreis (Landkreis)	Sachsen	227796	579	22	2541	96	1.0	57.6	
-Zwickau (Landkreis)	Sachsen	317531	936	52	2947	163	0.0	74.5	
-Dresden (Kreisfreie Stadt)	Sachsen	554649	758	10	1366	18	0.3	87.1	
-Bautzen (Landkreis)	Sachsen	300880	567	22	1884	73	1.5	60.3	
-Görlitz (Landkreis)	Sachsen	254894	361	24	1416	94	0.0	61.8	
-Meißen (Landkreis)	Sachsen	242165	271	20	1119	82	0.0	52.7	
-Sächsische Schweiz-Osterzgebirge (Landkreis)	Sachsen	245611	430	2	1750	8	2.5	37.0	
-Leipzig (Kreisfreie Stadt)	Sachsen	587857	821	12	1396	20	0.0	73.0	
-Leipzig (Landkreis)	Sachsen	257763	221	4	857	15	0.0	84.5	
-Nordsachsen (Landkreis)	Sachsen	197673	232	0	1173	0	0.0	49.3	
-Dessau-Roßlau (Kreisfreie Stadt)	Sachsen-Anhalt	81237	88	2	1083	24	0.0	51.9	
-Halle (Saale) (Kreisfreie Stadt)	Sachsen-Anhalt	239257	428	14	1788	58	0.0	77.5	
-Magdeburg (Kreisfreie Stadt)	Sachsen-Anhalt	238697	365	5	1529	20	0.4	83.2	
-Altmarkkreis Salzwedel (Landkreis)	Sachsen-Anhalt	83765	53	1	632	11	0.0	88.9	
-Anhalt-Bitterfeld (Landkreis)	Sachsen-Anhalt	159854	95	2	594	12	0.0	52.6	
-Börde (Landkreis)	Sachsen-Anhalt	171734	202	13	1176	75	0.0	40.6	
-Burgenlandkreis (Landkreis)	Sachsen-Anhalt	180190	160	3	887	16	0.0	42.2	
-Harz (Landkreis)	Sachsen-Anhalt	214446	278	5	1296	23	1.4	67.1	
+Potsdam (Kreisfreie Stadt)	Brandenburg	178089	708	51	3975	286	0.0	84.3	
+Barnim (Landkreis)	Brandenburg	182760	471	29	2577	158	0.0	83.6	
+Dahme-Spreewald (Landkreis)	Brandenburg	169067	309	8	1827	47	0.0	72.1	
+Elbe-Elster (Landkreis)	Brandenburg	102638	96	3	935	29	0.0	61.5	
+Havelland (Landkreis)	Brandenburg	161909	239	6	1476	37	0.0	55.2	
+Märkisch-Oderland (Landkreis)	Brandenburg	194328	265	4	1363	20	0.0	63.0	
+Oberhavel (Landkreis)	Brandenburg	211249	369	9	1746	42	0.0	43.9	
+Oberspreewald-Lausitz (Landkreis)	Brandenburg	110476	72	2	651	18	0.0	92.9	
+Oder-Spree (Landkreis)	Brandenburg	178658	181	3	1013	16	0.0	72.0	
+Ostprignitz-Ruppin (Landkreis)	Brandenburg	99078	107	0	1079	0	0.0	60.5	
+Potsdam-Mittelmark (Landkreis)	Brandenburg	214664	634	38	2953	177	0.0	77.8	
+Prignitz (Landkreis)	Brandenburg	76508	47	0	614	0	0.0	24.0	
+Spree-Neiße (Landkreis)	Brandenburg	114429	71	0	620	0	0.0	78.9	
+Teltow-Fläming (Landkreis)	Brandenburg	168296	245	13	1455	77	0.0	61.1	
+Uckermark (Landkreis)	Brandenburg	119552	50	2	418	16	0.0	58.3	
+Rostock (Kreisfreie Stadt)	Mecklenburg-Vorpommern	208886	157	2	751	9	0.0	64.1	
+Schwerin (Kreisfreie Stadt)	Mecklenburg-Vorpommern	95818	127	0	1325	0	0.0	77.5	
+Mecklenburgische Seenplatte (Landkreis)	Mecklenburg-Vorpommern	259130	151	3	582	11	0.0	69.6	
+Rostock (Landkreis)	Mecklenburg-Vorpommern	215113	94	3	436	13	0.0	50.7	
+Vorpommern-Rügen (Landkreis)	Mecklenburg-Vorpommern	224684	118	2	525	8	0.0	78.7	
+Nordwestmecklenburg (Landkreis)	Mecklenburg-Vorpommern	156729	108	1	689	6	0.0	75.0	
+Vorpommern-Greifswald (Landkreis)	Mecklenburg-Vorpommern	236697	176	7	743	29	0.0	77.9	
+Ludwigslust-Parchim (Landkreis)	Mecklenburg-Vorpommern	212618	150	2	705	9	0.0	78.0	
+Chemnitz (Kreisfreie Stadt)	Sachsen	247237	280	6	1132	24	0.0	73.2	
+Erzgebirgskreis (Landkreis)	Sachsen	337696	647	43	1915	127	2.2	78.0	
+Mittelsachsen (Landkreis)	Sachsen	306185	381	9	1244	29	0.0	65.5	
+Vogtlandkreis (Landkreis)	Sachsen	227796	584	22	2563	96	3.0	59.6	
+Zwickau (Landkreis)	Sachsen	317531	942	52	2966	163	0.0	74.5	
+Dresden (Kreisfreie Stadt)	Sachsen	554649	758	10	1366	18	0.3	85.7	
+Bautzen (Landkreis)	Sachsen	300880	570	22	1894	73	1.5	72.1	
+Görlitz (Landkreis)	Sachsen	254894	361	24	1416	94	0.0	69.1	
+Meißen (Landkreis)	Sachsen	242165	272	20	1123	82	0.0	50.5	
+Sächsische Schweiz-Osterzgebirge (Landkreis)	Sachsen	245611	433	2	1762	8	2.5	37.0	
+Leipzig (Kreisfreie Stadt)	Sachsen	587857	830	12	1411	20	0.0	74.5	
+Leipzig (Landkreis)	Sachsen	257763	222	4	861	15	0.0	79.3	
+Nordsachsen (Landkreis)	Sachsen	197673	242	0	1224	0	0.0	52.2	
+Dessau-Roßlau (Kreisfreie Stadt)	Sachsen-Anhalt	81237	91	2	1120	24	0.0	59.6	
+Halle (Saale) (Kreisfreie Stadt)	Sachsen-Anhalt	239257	428	14	1788	58	0.0	76.1	
+Magdeburg (Kreisfreie Stadt)	Sachsen-Anhalt	238697	368	5	1541	20	0.4	81.5	
+Altmarkkreis Salzwedel (Landkreis)	Sachsen-Anhalt	83765	53	1	632	11	0.0	77.8	
+Anhalt-Bitterfeld (Landkreis)	Sachsen-Anhalt	159854	95	2	594	12	0.0	56.1	
+Börde (Landkreis)	Sachsen-Anhalt	171734	204	13	1187	75	0.0	40.6	
+Burgenlandkreis (Landkreis)	Sachsen-Anhalt	180190	160	3	887	16	0.0	45.3	
+Harz (Landkreis)	Sachsen-Anhalt	214446	278	5	1296	23	1.4	70.0	
 Jerichower Land (Landkreis)	Sachsen-Anhalt	89928	64	2	711	22	0.0	48.3	
-Mansfeld-Südharz (Landkreis)	Sachsen-Anhalt	136249	79	2	579	14	0.0	64.3	
-Saalekreis (Landkreis)	Sachsen-Anhalt	184582	168	7	910	37	0.0	59.3	
-Salzlandkreis (Landkreis)	Sachsen-Anhalt	190560	87	1	456	5	0.0	78.7	
-Stendal (Landkreis)	Sachsen-Anhalt	111982	118	6	1053	53	4.2	58.3	
-Wittenberg (Landkreis)	Sachsen-Anhalt	125840	181	3	1438	23	0.0	46.2	
-Erfurt (Kreisfreie Stadt)	Thüringen	213699	194	2	907	9	0.0	61.7	
-Gera (Kreisfreie Stadt)	Thüringen	94152	278	22	2952	233	0.0	100.0	
-Jena (Kreisfreie Stadt)	Thüringen	111407	193	3	1732	26	0.8	83.3	
-Suhl (Kreisfreie Stadt)	Thüringen	34835	33	2	947	57	0.0	25.0	
-Weimar (Kreisfreie Stadt)	Thüringen	65090	119	0	1828	0	0.0	50.0	
-Eisenach (Kreisfreie Stadt)	Thüringen	42370	41	4	967	94	0.0	63.6	
-Eichsfeld (Landkreis)	Thüringen	100380	171	11	1703	109	0.0	58.3	
-Nordhausen (Landkreis)	Thüringen	83822	75	2	894	23	1.3	58.7	
-Wartburgkreis (Landkreis)	Thüringen	123025	113	2	918	16	0.0	88.3	
-Unstrut-Hainich-Kreis (Landkreis)	Thüringen	102912	102	3	991	29	0.0	62.9	
-Kyffhäuserkreis (Landkreis)	Thüringen	75009	63	0	839	0	0.0	22.2	
-Schmalkalden-Meiningen (Landkreis)	Thüringen	122347	197	5	1610	40	0.0	90.4	
-Gotha (Landkreis)	Thüringen	135452	350	30	2583	221	0.0	45.8	
-Sömmerda (Landkreis)	Thüringen	69655	59	1	847	14	0.0	57.1	
-Hildburghausen (Landkreis)	Thüringen	63553	93	1	1463	15	0.0	37.5	
-Ilm-Kreis (Landkreis)	Thüringen	108742	180	7	1655	64	0.0	70.6	
-Weimarer Land (Landkreis)	Thüringen	81947	117	5	1427	61	2.0	78.2	
-Sonneberg (Landkreis)	Thüringen	56196	318	22	5658	391	0.0	83.3	
-Saalfeld-Rudolstadt (Landkreis)	Thüringen	106356	81	0	761	0	0.0	31.8	
+Mansfeld-Südharz (Landkreis)	Sachsen-Anhalt	136249	80	2	587	14	0.0	57.1	
+Saalekreis (Landkreis)	Sachsen-Anhalt	184582	170	7	921	37	0.0	63.0	
+Salzlandkreis (Landkreis)	Sachsen-Anhalt	190560	88	1	461	5	0.0	87.2	
+Stendal (Landkreis)	Sachsen-Anhalt	111982	118	6	1053	53	0.0	66.7	
+Wittenberg (Landkreis)	Sachsen-Anhalt	125840	181	3	1438	23	0.0	51.9	
+Erfurt (Kreisfreie Stadt)	Thüringen	213699	197	2	921	9	0.0	69.1	
+Gera (Kreisfreie Stadt)	Thüringen	94152	278	22	2952	233	0.0	97.8	
+Jena (Kreisfreie Stadt)	Thüringen	111407	193	3	1732	26	0.8	84.8	
+Suhl (Kreisfreie Stadt)	Thüringen	34835	33	2	947	57	0.0	31.2	
+Weimar (Kreisfreie Stadt)	Thüringen	65090	120	0	1843	0	0.0	62.5	
+Eisenach (Kreisfreie Stadt)	Thüringen	42370	41	4	967	94	0.0	54.5	
+Eichsfeld (Landkreis)	Thüringen	100380	171	11	1703	109	0.0	75.0	
+Nordhausen (Landkreis)	Thüringen	83822	75	2	894	23	1.3	53.3	
+Wartburgkreis (Landkreis)	Thüringen	123025	114	2	926	16	0.0	81.8	
+Unstrut-Hainich-Kreis (Landkreis)	Thüringen	102912	102	3	991	29	0.0	74.3	
+Kyffhäuserkreis (Landkreis)	Thüringen	75009	63	0	839	0	0.0	33.3	
+Schmalkalden-Meiningen (Landkreis)	Thüringen	122347	197	5	1610	40	0.0	88.5	
+Gotha (Landkreis)	Thüringen	135452	352	30	2598	221	0.0	45.8	
+Sömmerda (Landkreis)	Thüringen	69655	59	1	847	14	0.0	50.0	
+Hildburghausen (Landkreis)	Thüringen	63553	94	1	1479	15	0.0	62.5	
+Ilm-Kreis (Landkreis)	Thüringen	108742	189	7	1738	64	0.0	52.9	
+Weimarer Land (Landkreis)	Thüringen	81947	127	5	1549	61	2.0	74.3	
+Sonneberg (Landkreis)	Thüringen	56196	321	22	5712	391	0.0	83.3	
+Saalfeld-Rudolstadt (Landkreis)	Thüringen	106356	82	0	770	0	0.0	27.3	
 Saale-Holzland-Kreis (Landkreis)	Thüringen	83051	92	3	1107	36	0.0	75.0	
 Saale-Orla-Kreis (Landkreis)	Thüringen	80868	170	12	2102	148	0.0	0.0	
 Greiz (Landkreis)	Thüringen	98159	690	48	7029	489	0.0	75.0	
-Altenburger Land (Landkreis)	Thüringen	90118	105	4	1165	44	0.0	55.0	
-Hamburg (Kreisfreie Stadt)	Hamburg	1841179	6917	268	3756	145	1.5	72.6	36.7
-Braunschweig (Kreisfreie Stadt)	Niedersachsen	248292	429	18	1727	72	0.0	70.0	
-Salzgitter (Kreisfreie Stadt)	Niedersachsen	104948	244	10	2324	95	0.0	48.3	
-Wolfsburg (Kreisfreie Stadt)	Niedersachsen	124151	440	53	3544	426	0.0	83.3	
-Gifhorn (Landkreis)	Niedersachsen	175920	236	4	1341	22	0.0	83.3	
-Goslar (Landkreis)	Niedersachsen	137014	291	27	2123	197	0.0	52.4	
-Helmstedt (Landkreis)	Niedersachsen	91307	165	2	1807	21	0.0	61.8	
-Northeim (Landkreis)	Niedersachsen	132765	180	5	1355	37	0.0	52.2	
-Peine (Landkreis)	Niedersachsen	133965	233	12	1739	89	0.0	54.5	
-Wolfenbüttel (Landkreis)	Niedersachsen	119960	220	14	1833	116	0.0	62.5	
-Göttingen (Landkreis)	Niedersachsen	328074	1428	79	4352	240	0.0	73.2	
-Region Hannover (Landkreis)	Niedersachsen	1157624	3798	121	3280	104	1.2	70.0	22.2
-Diepholz (Landkreis)	Niedersachsen	216886	579	27	2669	124	0.0	41.2	
-Hameln-Pyrmont (Landkreis)	Niedersachsen	148559	203	7	1366	47	1.3	73.3	
-Hildesheim (Landkreis)	Niedersachsen	276594	513	9	1854	32	1.1	59.8	
-Holzminden (Landkreis)	Niedersachsen	70975	126	7	1775	98	0.0	92.9	
-Nienburg (Weser) (Landkreis)	Niedersachsen	121386	107	4	881	32	0.0	61.5	
-Schaumburg (Landkreis)	Niedersachsen	157781	267	7	1692	44	4.3	73.9	
-Celle (Landkreis)	Niedersachsen	178936	278	15	1553	83	2.4	70.7	
-Cuxhaven (Landkreis)	Niedersachsen	198213	417	21	2103	105	0.0	30.8	
-Harburg (Landkreis)	Niedersachsen	252776	720	13	2848	51	2.4	75.6	
+Altenburger Land (Landkreis)	Thüringen	90118	105	4	1165	44	0.0	63.3	
+Hamburg (Kreisfreie Stadt)	Hamburg	1841179	6964	268	3782	145	1.5	72.8	51.6
+Braunschweig (Kreisfreie Stadt)	Niedersachsen	248292	435	18	1751	72	0.0	74.7	
+Salzgitter (Kreisfreie Stadt)	Niedersachsen	104948	248	10	2363	95	0.0	55.2	
+Wolfsburg (Kreisfreie Stadt)	Niedersachsen	124151	441	53	3552	426	0.0	83.3	
+Gifhorn (Landkreis)	Niedersachsen	175920	238	4	1352	22	0.0	75.0	
+Goslar (Landkreis)	Niedersachsen	137014	293	27	2138	197	0.0	53.7	
+Helmstedt (Landkreis)	Niedersachsen	91307	165	2	1807	21	0.0	55.9	
+Northeim (Landkreis)	Niedersachsen	132765	181	5	1363	37	0.0	73.9	
+Peine (Landkreis)	Niedersachsen	133965	237	12	1769	89	0.0	45.5	
+Wolfenbüttel (Landkreis)	Niedersachsen	119960	221	14	1842	116	0.0	62.5	
+Göttingen (Landkreis)	Niedersachsen	328074	1428	79	4352	240	0.5	76.5	
+Region Hannover (Landkreis)	Niedersachsen	1157624	3798	121	3280	104	1.6	72.6	39.0
+Diepholz (Landkreis)	Niedersachsen	216886	587	27	2706	124	0.0	64.7	
+Hameln-Pyrmont (Landkreis)	Niedersachsen	148559	205	7	1379	47	1.3	73.3	
+Hildesheim (Landkreis)	Niedersachsen	276594	520	9	1880	32	0.0	59.8	
+Holzminden (Landkreis)	Niedersachsen	70975	128	7	1803	98	0.0	57.1	
+Nienburg (Weser) (Landkreis)	Niedersachsen	121386	109	4	897	32	0.0	69.2	
+Schaumburg (Landkreis)	Niedersachsen	157781	275	7	1742	44	4.3	95.7	
+Celle (Landkreis)	Niedersachsen	178936	279	15	1559	83	2.4	65.9	
+Cuxhaven (Landkreis)	Niedersachsen	198213	417	21	2103	105	0.0	26.9	
+Harburg (Landkreis)	Niedersachsen	252776	724	13	2864	51	2.4	90.2	
 Lüchow-Dannenberg (Landkreis)	Niedersachsen	48424	43	3	887	61	0.0	40.0	
-Lüneburg (Landkreis)	Niedersachsen	183372	218	0	1188	0	0.0	66.7	
-Osterholz (Landkreis)	Niedersachsen	113517	165	0	1453	0	0.0	46.7	
-Rotenburg (Wümme) (Landkreis)	Niedersachsen	163455	215	2	1315	12	0.0	65.8	
-Heidekreis (Landkreis)	Niedersachsen	139755	117	2	837	14	0.0	88.2	
-Stade (Landkreis)	Niedersachsen	203102	331	9	1629	44	0.0	66.7	
-Uelzen (Landkreis)	Niedersachsen	92572	93	0	1004	0	0.0	78.0	
+Lüneburg (Landkreis)	Niedersachsen	183372	224	0	1221	0	0.0	66.7	
+Osterholz (Landkreis)	Niedersachsen	113517	166	0	1462	0	0.0	40.0	
+Rotenburg (Wümme) (Landkreis)	Niedersachsen	163455	215	2	1315	12	0.0	81.6	
+Heidekreis (Landkreis)	Niedersachsen	139755	117	2	837	14	0.0	82.4	
+Stade (Landkreis)	Niedersachsen	203102	330	9	1624	44	0.0	75.8	
+Uelzen (Landkreis)	Niedersachsen	92572	94	0	1015	0	0.0	78.0	
 Verden (Landkreis)	Niedersachsen	136792	346	8	2529	58	0.0	100.0	
-Delmenhorst (Kreisfreie Stadt)	Niedersachsen	77607	171	4	2203	51	0.0	59.1	
+Delmenhorst (Kreisfreie Stadt)	Niedersachsen	77607	173	4	2229	51	0.0	63.6	
 Emden (Kreisfreie Stadt)	Niedersachsen	50195	37	0	737	0	0.0	60.0	
-Oldenburg (Oldb) (Kreisfreie Stadt)	Niedersachsen	168210	244	2	1450	11	0.0	69.0	
-Osnabrück (Kreisfreie Stadt)	Niedersachsen	164748	674	18	4091	109	0.0	86.7	
-Wilhelmshaven (Kreisfreie Stadt)	Niedersachsen	76278	50	1	655	13	0.0	65.0	
-Ammerland (Landkreis)	Niedersachsen	124071	217	5	1748	40	0.0	81.8	
-Aurich (Landkreis)	Niedersachsen	189848	192	8	1011	42	0.0	81.8	
-Cloppenburg (Landkreis)	Niedersachsen	169348	367	0	2167	0	0.0	64.7	
-Emsland (Landkreis)	Niedersachsen	325657	649	25	1992	76	0.0	73.6	
-Friesland (Landkreis)	Niedersachsen	98460	62	2	629	20	0.0	70.3	
-Grafschaft Bentheim (Landkreis)	Niedersachsen	136511	287	18	2102	131	0.0	56.7	
-Leer (Landkreis)	Niedersachsen	169809	204	6	1201	35	0.0	46.7	
-Oldenburg (Landkreis)	Niedersachsen	130144	437	14	3357	107	0.0	80.0	
-Osnabrück (Landkreis)	Niedersachsen	357343	1352	67	3783	187	0.0	60.0	
-Vechta (Landkreis)	Niedersachsen	141598	619	13	4371	91	0.0	68.3	
+Oldenburg (Oldb) (Kreisfreie Stadt)	Niedersachsen	168210	247	2	1468	11	0.7	75.2	
+Osnabrück (Kreisfreie Stadt)	Niedersachsen	164748	674	18	4091	109	0.0	79.5	
+Wilhelmshaven (Kreisfreie Stadt)	Niedersachsen	76278	50	1	655	13	0.0	75.0	
+Ammerland (Landkreis)	Niedersachsen	124071	217	5	1748	40	0.0	90.9	
+Aurich (Landkreis)	Niedersachsen	189848	192	8	1011	42	0.0	82.6	
+Cloppenburg (Landkreis)	Niedersachsen	169348	388	0	2291	0	0.0	55.6	
+Emsland (Landkreis)	Niedersachsen	325657	649	25	1992	76	0.0	74.4	
+Friesland (Landkreis)	Niedersachsen	98460	63	2	639	20	0.0	70.3	
+Grafschaft Bentheim (Landkreis)	Niedersachsen	136511	290	18	2124	131	0.0	56.7	
+Leer (Landkreis)	Niedersachsen	169809	207	6	1219	35	0.0	37.8	
+Oldenburg (Landkreis)	Niedersachsen	130144	436	14	3350	107	0.0	90.0	
+Osnabrück (Landkreis)	Niedersachsen	357343	1352	67	3783	187	0.8	60.8	
+Vechta (Landkreis)	Niedersachsen	141598	621	13	4385	91	0.0	65.9	
 Wesermarsch (Landkreis)	Niedersachsen	88624	141	5	1590	56	0.0	70.6	
-Wittmund (Landkreis)	Niedersachsen	56882	55	0	966	0	0.0	87.5	
-Bremen (Kreisfreie Stadt)	Bremen	569352	1895	53	3328	93	1.1	80.5	
-Bremerhaven (Kreisfreie Stadt)	Bremen	113634	264	6	2323	52	3.0	60.6	
-Düsseldorf (Kreisfreie Stadt)	Nordrhein-Westfalen	619294	2891	47	4668	75	0.7	74.6	48.0
-Duisburg (Kreisfreie Stadt)	Nordrhein-Westfalen	498590	2574	70	5162	140	1.5	68.9	
-Essen (Kreisfreie Stadt)	Nordrhein-Westfalen	583109	1774	46	3042	78	0.9	80.1	
-Krefeld (Kreisfreie Stadt)	Nordrhein-Westfalen	227020	935	26	4118	114	0.0	72.7	
-Mönchengladbach (Kreisfreie Stadt)	Nordrhein-Westfalen	261454	1030	50	3939	191	0.0	84.8	
-Mülheim an der Ruhr (Kreisfreie Stadt)	Nordrhein-Westfalen	170880	549	14	3212	81	0.0	43.6	
-Oberhausen (Kreisfreie Stadt)	Nordrhein-Westfalen	210829	556	13	2637	61	1.1	66.7	
-Remscheid (Kreisfreie Stadt)	Nordrhein-Westfalen	110994	391	18	3522	162	2.8	58.3	
-Solingen (Kreisfreie Stadt)	Nordrhein-Westfalen	159360	569	13	3570	81	1.2	73.3	
-Wuppertal (Kreisfreie Stadt)	Nordrhein-Westfalen	354382	1545	86	4359	242	2.5	74.7	
-Kleve (Kreis)	Nordrhein-Westfalen	310974	1068	37	3434	118	0.0	54.7	
-Mettmann (Kreis)	Nordrhein-Westfalen	485684	1784	84	3673	172	3.1	64.1	
-Rhein-Kreis Neuss (Kreis)	Nordrhein-Westfalen	451007	1219	24	2702	53	1.7	74.1	
-Viersen (Kreis)	Nordrhein-Westfalen	298935	971	37	3248	123	0.0	38.6	
-Wesel (Kreis)	Nordrhein-Westfalen	459809	1273	30	2768	65	0.5	48.8	
-Bonn (Kreisfreie Stadt)	Nordrhein-Westfalen	327258	1119	9	3419	27	1.4	81.6	
-Köln (Kreisfreie Stadt)	Nordrhein-Westfalen	1085664	4205	117	3873	107	2.5	83.7	15.6
-Leverkusen (Kreisfreie Stadt)	Nordrhein-Westfalen	163838	491	8	2996	48	1.9	72.6	
-Städteregion Aachen (Kreis)	Nordrhein-Westfalen	555465	2467	103	4441	185	0.3	85.5	
-Düren (Kreis)	Nordrhein-Westfalen	263722	927	41	3515	155	1.3	66.7	
-Rhein-Erft-Kreis (Kreis)	Nordrhein-Westfalen	470089	1588	78	3378	165	1.3	64.1	
-Euskirchen (Kreis)	Nordrhein-Westfalen	192840	720	27	3733	140	0.0	76.7	
-Heinsberg (Kreis)	Nordrhein-Westfalen	254322	2111	92	8300	361	0.0	91.7	
-Oberbergischer Kreis (Kreis)	Nordrhein-Westfalen	272471	693	19	2543	69	0.0	65.8	
-Rheinisch-Bergischer Kreis (Kreis)	Nordrhein-Westfalen	283455	684	22	2413	77	0.0	50.0	
-Rhein-Sieg-Kreis (Kreis)	Nordrhein-Westfalen	599780	1974	53	3291	88	0.0	85.2	
-Bottrop (Kreisfreie Stadt)	Nordrhein-Westfalen	117383	325	7	2768	59	0.0	47.8	
-Gelsenkirchen (Kreisfreie Stadt)	Nordrhein-Westfalen	260654	914	20	3506	76	1.6	75.2	
-Münster (Kreisfreie Stadt)	Nordrhein-Westfalen	314319	975	13	3101	41	0.4	82.5	
-Borken (Kreis)	Nordrhein-Westfalen	370676	1299	38	3504	102	0.0	62.9	
-Coesfeld (Kreis)	Nordrhein-Westfalen	219929	931	25	4233	113	0.0	58.3	
-Recklinghausen (Kreis)	Nordrhein-Westfalen	615261	1986	44	3227	71	0.4	65.7	
-Steinfurt (Kreis)	Nordrhein-Westfalen	447614	1653	90	3692	201	0.9	67.6	
-Warendorf (Kreis)	Nordrhein-Westfalen	277783	987	20	3553	71	0.0	50.7	
-Bielefeld (Kreisfreie Stadt)	Nordrhein-Westfalen	333786	809	7	2423	20	1.4	70.3	
-Gütersloh (Kreis)	Nordrhein-Westfalen	364083	2925	20	8033	54	0.0	65.0	
-Herford (Kreis)	Nordrhein-Westfalen	250783	577	8	2300	31	2.6	59.2	
-Höxter (Kreis)	Nordrhein-Westfalen	140667	423	18	3007	127	0.0	64.6	
-Lippe (Kreis)	Nordrhein-Westfalen	348391	937	31	2689	88	0.0	71.4	
-Minden-Lübbecke (Kreis)	Nordrhein-Westfalen	310710	781	13	2513	41	0.0	75.3	
-Paderborn (Kreis)	Nordrhein-Westfalen	306890	870	34	2834	110	0.7	69.1	
-Bochum (Kreisfreie Stadt)	Nordrhein-Westfalen	364628	1171	28	3211	76	1.8	68.3	
-Dortmund (Kreisfreie Stadt)	Nordrhein-Westfalen	587010	1801	20	3068	34	0.0	82.4	
-Hagen (Kreisfreie Stadt)	Nordrhein-Westfalen	188814	718	14	3802	74	2.5	64.6	
-Hamm (Kreisfreie Stadt)	Nordrhein-Westfalen	179111	744	38	4153	212	0.0	65.8	
-Herne (Kreisfreie Stadt)	Nordrhein-Westfalen	156374	486	6	3107	38	3.1	64.6	
-Ennepe-Ruhr-Kreis (Kreis)	Nordrhein-Westfalen	324296	788	15	2429	46	2.2	73.1	
-Hochsauerlandkreis (Kreis)	Nordrhein-Westfalen	260475	852	18	3270	69	0.0	70.0	
-Märkischer Kreis (Kreis)	Nordrhein-Westfalen	412120	1012	32	2455	77	0.8	68.5	
-Olpe (Kreis)	Nordrhein-Westfalen	134775	780	56	5787	415	5.3	44.7	
-Siegen-Wittgenstein (Kreis)	Nordrhein-Westfalen	278210	583	8	2095	28	0.0	67.1	
-Soest (Kreis)	Nordrhein-Westfalen	301902	517	8	1712	26	0.0	76.7	
-Unna (Kreis)	Nordrhein-Westfalen	394782	1203	42	3047	106	0.0	70.1	
-Darmstadt (Kreisfreie Stadt)	Hessen	159207	386	18	2424	113	0.9	78.1	
-Frankfurt am Main (Kreisfreie Stadt)	Hessen	753056	3006	69	3991	91	2.6	83.9	
-Offenbach am Main (Kreisfreie Stadt)	Hessen	128744	516	9	4007	69	1.0	76.9	
-Wiesbaden (Kreisfreie Stadt)	Hessen	278342	969	22	3481	79	2.0	69.3	
-Bergstraße (Landkreis)	Hessen	269694	578	3	2143	11	0.0	63.8	
-Darmstadt-Dieburg (Landkreis)	Hessen	297399	663	21	2229	70	0.0	82.8	
-Groß-Gerau (Landkreis)	Hessen	274526	952	17	3467	61	11.1	88.9	
-Hochtaunuskreis (Landkreis)	Hessen	236564	435	6	1838	25	0.0	86.2	
-Main-Kinzig-Kreis (Landkreis)	Hessen	418950	1246	52	2974	124	1.1	65.9	
-Main-Taunus-Kreis (Landkreis)	Hessen	237735	677	16	2847	67	0.0	96.3	
-Odenwaldkreis (Landkreis)	Hessen	96798	475	63	4907	650	0.0	85.7	
-Offenbach (Landkreis)	Hessen	354092	1127	44	3182	124	3.1	46.9	
-Rheingau-Taunus-Kreis (Landkreis)	Hessen	187157	455	8	2431	42	0.0	61.1	
-Wetteraukreis (Landkreis)	Hessen	306460	554	13	1807	42	2.2	82.6	
-Gießen (Landkreis)	Hessen	268876	437	5	1625	18	0.8	83.4	
-Lahn-Dill-Kreis (Landkreis)	Hessen	253777	476	20	1875	78	0.0	65.6	
-Limburg-Weilburg (Landkreis)	Hessen	172083	436	7	2533	40	1.7	64.4	
-Marburg-Biedenkopf (Landkreis)	Hessen	246648	357	4	1447	16	0.6	82.2	
+Wittmund (Landkreis)	Niedersachsen	56882	55	0	966	0	0.0	62.5	
+Bremen (Kreisfreie Stadt)	Bremen	569352	1908	53	3351	93	0.6	79.5	
+Bremerhaven (Kreisfreie Stadt)	Bremen	113634	266	6	2340	52	3.0	62.7	
+Düsseldorf (Kreisfreie Stadt)	Nordrhein-Westfalen	619294	2909	47	4697	75	0.9	66.2	40.0
+Duisburg (Kreisfreie Stadt)	Nordrhein-Westfalen	498590	2583	70	5180	140	1.5	68.2	
+Essen (Kreisfreie Stadt)	Nordrhein-Westfalen	583109	1790	46	3069	78	0.9	79.2	
+Krefeld (Kreisfreie Stadt)	Nordrhein-Westfalen	227020	945	26	4162	114	0.0	80.8	
+Mönchengladbach (Kreisfreie Stadt)	Nordrhein-Westfalen	261454	1034	50	3954	191	0.0	83.8	
+Mülheim an der Ruhr (Kreisfreie Stadt)	Nordrhein-Westfalen	170880	553	14	3236	81	0.0	43.6	
+Oberhausen (Kreisfreie Stadt)	Nordrhein-Westfalen	210829	560	13	2656	61	2.2	65.6	
+Remscheid (Kreisfreie Stadt)	Nordrhein-Westfalen	110994	401	18	3612	162	2.8	58.3	
+Solingen (Kreisfreie Stadt)	Nordrhein-Westfalen	159360	577	13	3620	81	0.0	72.1	
+Wuppertal (Kreisfreie Stadt)	Nordrhein-Westfalen	354382	1551	86	4376	242	1.9	74.7	
+Kleve (Kreis)	Nordrhein-Westfalen	310974	1069	37	3437	118	0.0	57.3	
+Mettmann (Kreis)	Nordrhein-Westfalen	485684	1810	84	3726	172	1.6	62.5	
+Rhein-Kreis Neuss (Kreis)	Nordrhein-Westfalen	451007	1223	24	2711	53	1.7	69.0	
+Viersen (Kreis)	Nordrhein-Westfalen	298935	979	37	3274	123	0.0	47.7	
+Wesel (Kreis)	Nordrhein-Westfalen	459809	1280	30	2783	65	0.5	50.7	
+Bonn (Kreisfreie Stadt)	Nordrhein-Westfalen	327258	1124	9	3434	27	1.0	79.6	
+Köln (Kreisfreie Stadt)	Nordrhein-Westfalen	1085664	4255	117	3919	107	2.2	86.2	14.2
+Leverkusen (Kreisfreie Stadt)	Nordrhein-Westfalen	163838	494	8	3015	48	0.9	67.9	
+Städteregion Aachen (Kreis)	Nordrhein-Westfalen	555465	2494	103	4489	185	0.7	85.2	
+Düren (Kreis)	Nordrhein-Westfalen	263722	933	41	3537	155	1.3	65.4	
+Rhein-Erft-Kreis (Kreis)	Nordrhein-Westfalen	470089	1599	78	3401	165	1.3	66.7	
+Euskirchen (Kreis)	Nordrhein-Westfalen	192840	726	27	3764	140	0.0	86.7	
+Heinsberg (Kreis)	Nordrhein-Westfalen	254322	2120	92	8335	361	2.8	86.1	
+Oberbergischer Kreis (Kreis)	Nordrhein-Westfalen	272471	718	19	2635	69	0.0	68.4	
+Rheinisch-Bergischer Kreis (Kreis)	Nordrhein-Westfalen	283455	689	22	2430	77	1.9	65.4	
+Rhein-Sieg-Kreis (Kreis)	Nordrhein-Westfalen	599780	1976	54	3294	90	0.0	80.9	
+Bottrop (Kreisfreie Stadt)	Nordrhein-Westfalen	117383	325	7	2768	59	0.0	41.8	
+Gelsenkirchen (Kreisfreie Stadt)	Nordrhein-Westfalen	260654	914	20	3506	76	1.6	76.0	
+Münster (Kreisfreie Stadt)	Nordrhein-Westfalen	314319	975	13	3101	41	0.4	84.7	
+Borken (Kreis)	Nordrhein-Westfalen	370676	1304	38	3517	102	0.0	56.5	
+Coesfeld (Kreis)	Nordrhein-Westfalen	219929	931	25	4233	113	0.0	60.4	
+Recklinghausen (Kreis)	Nordrhein-Westfalen	615261	1998	44	3247	71	0.0	70.2	
+Steinfurt (Kreis)	Nordrhein-Westfalen	447614	1662	90	3713	201	0.9	61.1	
+Warendorf (Kreis)	Nordrhein-Westfalen	277783	989	21	3560	75	0.0	46.6	
+Bielefeld (Kreisfreie Stadt)	Nordrhein-Westfalen	333786	812	7	2432	20	1.2	74.0	
+Gütersloh (Kreis)	Nordrhein-Westfalen	364083	2927	20	8039	54	0.0	65.0	
+Herford (Kreis)	Nordrhein-Westfalen	250783	582	8	2320	31	2.6	64.5	
+Höxter (Kreis)	Nordrhein-Westfalen	140667	426	18	3028	127	0.0	62.5	
+Lippe (Kreis)	Nordrhein-Westfalen	348391	942	31	2703	88	0.0	74.0	
+Minden-Lübbecke (Kreis)	Nordrhein-Westfalen	310710	788	13	2536	41	0.0	77.5	
+Paderborn (Kreis)	Nordrhein-Westfalen	306890	875	34	2851	110	0.7	66.9	
+Bochum (Kreisfreie Stadt)	Nordrhein-Westfalen	364628	1181	28	3238	76	1.8	71.0	
+Dortmund (Kreisfreie Stadt)	Nordrhein-Westfalen	587010	1811	20	3085	34	0.3	83.1	
+Hagen (Kreisfreie Stadt)	Nordrhein-Westfalen	188814	724	14	3834	74	2.5	67.1	
+Hamm (Kreisfreie Stadt)	Nordrhein-Westfalen	179111	755	38	4215	212	0.0	64.9	
+Herne (Kreisfreie Stadt)	Nordrhein-Westfalen	156374	492	6	3146	38	3.1	67.7	
+Ennepe-Ruhr-Kreis (Kreis)	Nordrhein-Westfalen	324296	789	15	2432	46	1.5	70.1	
+Hochsauerlandkreis (Kreis)	Nordrhein-Westfalen	260475	853	18	3274	69	0.0	72.5	
+Märkischer Kreis (Kreis)	Nordrhein-Westfalen	412120	1015	32	2462	77	0.0	74.2	
+Olpe (Kreis)	Nordrhein-Westfalen	134775	781	56	5794	415	5.3	52.6	
+Siegen-Wittgenstein (Kreis)	Nordrhein-Westfalen	278210	591	8	2124	28	0.0	63.6	
+Soest (Kreis)	Nordrhein-Westfalen	301902	517	8	1712	26	1.1	85.6	
+Unna (Kreis)	Nordrhein-Westfalen	394782	1214	42	3075	106	0.0	74.4	
+Darmstadt (Kreisfreie Stadt)	Hessen	159207	391	18	2455	113	0.9	76.3	
+Frankfurt am Main (Kreisfreie Stadt)	Hessen	753056	3018	69	4007	91	2.2	82.7	
+Offenbach am Main (Kreisfreie Stadt)	Hessen	128744	522	9	4054	69	0.0	75.7	
+Wiesbaden (Kreisfreie Stadt)	Hessen	278342	976	22	3506	79	2.0	71.0	
+Bergstraße (Landkreis)	Hessen	269694	582	3	2158	11	0.0	70.2	
+Darmstadt-Dieburg (Landkreis)	Hessen	297399	668	21	2246	70	0.0	86.2	
+Groß-Gerau (Landkreis)	Hessen	274526	974	17	3547	61	0.0	90.9	
+Hochtaunuskreis (Landkreis)	Hessen	236564	440	6	1859	25	0.0	82.8	
+Main-Kinzig-Kreis (Landkreis)	Hessen	418950	1263	52	3014	124	1.1	74.2	
+Main-Taunus-Kreis (Landkreis)	Hessen	237735	680	16	2860	67	3.7	92.6	
+Odenwaldkreis (Landkreis)	Hessen	96798	476	63	4917	650	0.0	82.5	
+Offenbach (Landkreis)	Hessen	354092	1149	44	3244	124	3.1	59.4	
+Rheingau-Taunus-Kreis (Landkreis)	Hessen	187157	459	8	2452	42	0.0	55.6	
+Wetteraukreis (Landkreis)	Hessen	306460	556	13	1814	42	1.1	80.4	
+Gießen (Landkreis)	Hessen	268876	439	5	1632	18	0.8	84.7	
+Lahn-Dill-Kreis (Landkreis)	Hessen	253777	484	20	1907	78	0.0	57.4	
+Limburg-Weilburg (Landkreis)	Hessen	172083	445	7	2585	40	1.7	59.3	
+Marburg-Biedenkopf (Landkreis)	Hessen	246648	359	4	1455	16	0.6	79.8	
 Vogelsbergkreis (Landkreis)	Hessen	105878	175	6	1652	56	0.0	45.9	
-Kassel (Kreisfreie Stadt)	Hessen	201585	550	9	2728	44	0.0	73.0	
-Fulda (Landkreis)	Hessen	222584	565	15	2538	67	1.1	78.7	
-Hersfeld-Rotenburg (Landkreis)	Hessen	120829	365	23	3020	190	0.0	57.9	
-Kassel (Landkreis)	Hessen	236633	540	32	2282	135	0.0	61.8	
-Schwalm-Eder-Kreis (Landkreis)	Hessen	180222	650	39	3606	216	0.0	43.2	
-Waldeck-Frankenberg (Landkreis)	Hessen	156953	242	5	1541	31	0.9	57.4	
-Werra-Meißner-Kreis (Landkreis)	Hessen	101017	252	16	2494	158	2.3	36.4	
-Koblenz (Kreisfreie Stadt)	Rheinland-Pfalz	114024	336	18	2946	157	0.7	64.5	
-Ahrweiler (Landkreis)	Rheinland-Pfalz	129727	337	3	2597	23	5.3	84.2	
-Altenkirchen (Westerwald) (Landkreis)	Rheinland-Pfalz	128705	230	11	1787	85	0.0	53.8	
-Bad Kreuznach (Landkreis)	Rheinland-Pfalz	158080	307	7	1942	44	0.0	47.3	
-Birkenfeld (Landkreis)	Rheinland-Pfalz	80720	121	3	1499	37	0.0	56.0	
+Kassel (Kreisfreie Stadt)	Hessen	201585	553	9	2743	44	0.0	73.9	
+Fulda (Landkreis)	Hessen	222584	570	15	2560	67	0.0	83.0	
+Hersfeld-Rotenburg (Landkreis)	Hessen	120829	368	23	3045	190	0.0	65.8	
+Kassel (Landkreis)	Hessen	236633	540	32	2282	135	0.0	64.7	
+Schwalm-Eder-Kreis (Landkreis)	Hessen	180222	652	39	3617	216	0.0	58.1	
+Waldeck-Frankenberg (Landkreis)	Hessen	156953	242	5	1541	31	0.9	55.6	
+Werra-Meißner-Kreis (Landkreis)	Hessen	101017	252	16	2494	158	2.3	54.5	
+Koblenz (Kreisfreie Stadt)	Rheinland-Pfalz	114024	336	18	2946	157	0.7	62.3	
+Ahrweiler (Landkreis)	Rheinland-Pfalz	129727	337	3	2597	23	5.3	89.5	
+Altenkirchen (Westerwald) (Landkreis)	Rheinland-Pfalz	128705	230	11	1787	85	6.2	75.0	
+Bad Kreuznach (Landkreis)	Rheinland-Pfalz	158080	309	7	1954	44	0.0	50.9	
+Birkenfeld (Landkreis)	Rheinland-Pfalz	80720	121	3	1499	37	0.0	76.2	
 Cochem-Zell (Landkreis)	Rheinland-Pfalz	61587	160	1	2597	16	0.0	61.5	
-Mayen-Koblenz (Landkreis)	Rheinland-Pfalz	214259	422	16	1969	74	0.0	54.3	
-Neuwied (Landkreis)	Rheinland-Pfalz	181941	363	5	1995	27	0.0	68.2	
-Rhein-Hunsrück-Kreis (Landkreis)	Rheinland-Pfalz	102937	214	6	2078	58	0.0	62.5	
-Rhein-Lahn-Kreis (Landkreis)	Rheinland-Pfalz	122308	196	6	1602	49	0.0	56.5	
-Westerwaldkreis (Landkreis)	Rheinland-Pfalz	201597	522	22	2589	109	0.0	73.2	
-Trier (Kreisfreie Stadt)	Rheinland-Pfalz	110636	190	1	1717	9	0.8	70.1	
-Bernkastel-Wittlich (Landkreis)	Rheinland-Pfalz	112262	240	2	2137	17	0.0	73.1	
-Eifelkreis Bitburg-Prüm (Landkreis)	Rheinland-Pfalz	98561	299	5	3033	50	0.0	78.6	
+Mayen-Koblenz (Landkreis)	Rheinland-Pfalz	214259	426	16	1988	74	0.0	52.2	
+Neuwied (Landkreis)	Rheinland-Pfalz	181941	363	5	1995	27	0.0	67.0	
+Rhein-Hunsrück-Kreis (Landkreis)	Rheinland-Pfalz	102937	217	6	2108	58	0.0	62.5	
+Rhein-Lahn-Kreis (Landkreis)	Rheinland-Pfalz	122308	196	6	1602	49	0.0	58.7	
+Westerwaldkreis (Landkreis)	Rheinland-Pfalz	201597	527	22	2614	109	0.0	80.5	
+Trier (Kreisfreie Stadt)	Rheinland-Pfalz	110636	190	1	1717	9	0.8	66.9	
+Bernkastel-Wittlich (Landkreis)	Rheinland-Pfalz	112262	242	2	2155	17	0.0	65.4	
+Eifelkreis Bitburg-Prüm (Landkreis)	Rheinland-Pfalz	98561	299	5	3033	50	0.0	57.1	
 Vulkaneifel (Landkreis)	Rheinland-Pfalz	60603	143	5	2359	82	0.0	47.6	
-Trier-Saarburg (Landkreis)	Rheinland-Pfalz	148945	374	10	2510	67	0.0	43.8	
-Frankenthal (Pfalz) (Kreisfreie Stadt)	Rheinland-Pfalz	48561	79	2	1626	41	0.0	100.0	
-Kaiserslautern (Kreisfreie Stadt)	Rheinland-Pfalz	99845	284	6	2844	60	0.0	55.4	
-Landau in der Pfalz (Kreisfreie Stadt)	Rheinland-Pfalz	46677	77	2	1649	42	0.0	55.2	
-Ludwigshafen am Rhein (Kreisfreie Stadt)	Rheinland-Pfalz	171061	573	2	3349	11	0.8	71.1	
-Mainz (Kreisfreie Stadt)	Rheinland-Pfalz	217118	923	28	4251	128	0.0	84.1	
-Neustadt an der Weinstraße (Kreisfreie Stadt)	Rheinland-Pfalz	53148	142	2	2671	37	0.0	52.4	
-Pirmasens (Kreisfreie Stadt)	Rheinland-Pfalz	40403	43	0	1064	0	0.0	68.8	
-Speyer (Kreisfreie Stadt)	Rheinland-Pfalz	50378	150	1	2977	19	0.0	57.1	
-Worms (Kreisfreie Stadt)	Rheinland-Pfalz	83330	299	8	3588	96	0.0	83.0	
-Zweibrücken (Kreisfreie Stadt)	Rheinland-Pfalz	34209	55	1	1607	29	0.0	42.9	
-Alzey-Worms (Landkreis)	Rheinland-Pfalz	129244	345	11	2669	85	0.0	75.0	
-Bad Dürkheim (Landkreis)	Rheinland-Pfalz	132660	363	12	2736	90	7.1	92.9	
-Donnersbergkreis (Landkreis)	Rheinland-Pfalz	75101	170	6	2263	79	0.0	50.0	
-Germersheim (Landkreis)	Rheinland-Pfalz	129075	312	6	2417	46	0.0	58.6	
-Kaiserslautern (Landkreis)	Rheinland-Pfalz	106057	191	1	1800	9	0.0	50.0	
+Trier-Saarburg (Landkreis)	Rheinland-Pfalz	148945	375	10	2517	67	0.0	50.0	
+Frankenthal (Pfalz) (Kreisfreie Stadt)	Rheinland-Pfalz	48561	80	2	1647	41	0.0	100.0	
+Kaiserslautern (Kreisfreie Stadt)	Rheinland-Pfalz	99845	284	6	2844	60	0.0	60.0	
+Landau in der Pfalz (Kreisfreie Stadt)	Rheinland-Pfalz	46677	77	2	1649	42	0.0	48.3	
+Ludwigshafen am Rhein (Kreisfreie Stadt)	Rheinland-Pfalz	171061	575	2	3361	11	1.7	70.2	
+Mainz (Kreisfreie Stadt)	Rheinland-Pfalz	217118	937	28	4315	128	0.0	90.3	
+Neustadt an der Weinstraße (Kreisfreie Stadt)	Rheinland-Pfalz	53148	142	2	2671	37	0.0	66.7	
+Pirmasens (Kreisfreie Stadt)	Rheinland-Pfalz	40403	43	0	1064	0	0.0	87.5	
+Speyer (Kreisfreie Stadt)	Rheinland-Pfalz	50378	152	1	3017	19	3.6	53.6	
+Worms (Kreisfreie Stadt)	Rheinland-Pfalz	83330	303	8	3636	96	0.0	89.4	
+Zweibrücken (Kreisfreie Stadt)	Rheinland-Pfalz	34209	55	1	1607	29	0.0	28.6	
+Alzey-Worms (Landkreis)	Rheinland-Pfalz	129244	346	11	2677	85	0.0	75.0	
+Bad Dürkheim (Landkreis)	Rheinland-Pfalz	132660	364	12	2743	90	6.2	87.5	
+Donnersbergkreis (Landkreis)	Rheinland-Pfalz	75101	171	6	2276	79	0.0	58.3	
+Germersheim (Landkreis)	Rheinland-Pfalz	129075	334	6	2587	46	0.0	48.3	
+Kaiserslautern (Landkreis)	Rheinland-Pfalz	106057	191	1	1800	9	0.0	42.9	
 Kusel (Landkreis)	Rheinland-Pfalz	70526	130	1	1843	14	0.0	84.2	
-Südliche Weinstraße (Landkreis)	Rheinland-Pfalz	110356	186	4	1685	36	0.0	70.6	
+Südliche Weinstraße (Landkreis)	Rheinland-Pfalz	110356	186	4	1685	36	0.0	64.7	
 Rhein-Pfalz-Kreis (Landkreis)	Rheinland-Pfalz	154201	363	5	2354	32			
-Mainz-Bingen (Landkreis)	Rheinland-Pfalz	210889	572	25	2712	118	4.2	45.8	
-Südwestpfalz (Landkreis)	Rheinland-Pfalz	95113	148	3	1556	31	0.0	33.3	
-Stuttgart (Stadtkreis)	Baden-Württemberg	634830	2423	65	3816	102	2.8	76.1	
-Böblingen (Landkreis)	Baden-Württemberg	391640	1955	48	4991	122	4.8	77.8	
-Esslingen (Landkreis)	Baden-Württemberg	533859	2420	120	4533	224	0.0	65.3	
-Göppingen (Landkreis)	Baden-Württemberg	257253	1089	39	4233	151	1.2	48.1	
-Ludwigsburg (Landkreis)	Baden-Württemberg	543984	2373	72	4362	132	4.7	66.4	
-Rems-Murr-Kreis (Landkreis)	Baden-Württemberg	426158	2179	97	5113	227	1.6	65.6	
-Heilbronn (Stadtkreis)	Baden-Württemberg	125960	676	17	5366	134	0.0	55.4	
-Heilbronn (Landkreis)	Baden-Württemberg	343068	1263	42	3681	122	0.0	76.9	
-Hohenlohekreis (Landkreis)	Baden-Württemberg	112010	838	47	7481	419	0.0	58.3	
-Schwäbisch Hall (Landkreis)	Baden-Württemberg	195861	1002	59	5115	301	1.8	67.3	
-Main-Tauber-Kreis (Landkreis)	Baden-Württemberg	132321	526	11	3975	83	1.2	41.5	
-Heidenheim (Landkreis)	Baden-Württemberg	132472	599	41	4521	309	0.0	66.7	
-Ostalbkreis (Landkreis)	Baden-Württemberg	314002	1750	43	5573	136	1.3	76.0	
-Baden-Baden (Stadtkreis)	Baden-Württemberg	55123	220	19	3991	344	0.0	73.1	
-Karlsruhe (Stadtkreis)	Baden-Württemberg	313092	613	14	1957	44	0.6	70.7	
-Karlsruhe (Landkreis)	Baden-Württemberg	444232	1309	82	2946	184	2.1	95.8	
-Rastatt (Landkreis)	Baden-Württemberg	231018	692	18	2995	77	0.0	100.0	
-Heidelberg (Stadtkreis)	Baden-Württemberg	160355	466	7	2906	43	1.9	77.7	
-Mannheim (Stadtkreis)	Baden-Württemberg	309370	931	13	3009	42	0.0	86.2	
-Neckar-Odenwald-Kreis (Landkreis)	Baden-Württemberg	143535	507	23	3532	160	0.0	64.7	
-Rhein-Neckar-Kreis (Landkreis)	Baden-Württemberg	547625	1493	39	2726	71	0.0	62.8	
-Pforzheim (Stadtkreis)	Baden-Württemberg	125542	593	8	4723	63	0.0	75.3	
-Calw (Landkreis)	Baden-Württemberg	158397	877	27	5536	170	0.0	68.8	
-Enzkreis (Landkreis)	Baden-Württemberg	198905	806	22	4052	110	0.0	90.0	
-Freudenstadt (Landkreis)	Baden-Württemberg	117935	644	39	5460	330	0.0	71.4	
-Freiburg im Breisgau (Stadtkreis)	Baden-Württemberg	230241	1164	80	5055	347	2.0	84.6	
-Breisgau-Hochschwarzwald (Landkreis)	Baden-Württemberg	262795	1367	71	5201	270	0.0	65.0	
-Emmendingen (Landkreis)	Baden-Württemberg	165383	647	43	3912	260	0.0	96.7	
-Ortenaukreis (Landkreis)	Baden-Württemberg	429479	1439	124	3350	288	1.0	60.0	
-Rottweil (Landkreis)	Baden-Württemberg	139455	738	26	5292	186	0.0	56.2	
-Schwarzwald-Baar-Kreis (Landkreis)	Baden-Württemberg	212381	663	33	3121	155	0.9	58.4	
-Tuttlingen (Landkreis)	Baden-Württemberg	140152	593	24	4231	171	0.0	75.0	
-Konstanz (Landkreis)	Baden-Württemberg	285325	674	17	2362	59	0.0	63.2	
-Lörrach (Landkreis)	Baden-Württemberg	228639	825	62	3608	271	0.0	68.4	
-Waldshut (Landkreis)	Baden-Württemberg	170619	401	35	2350	205	0.0	50.0	
-Reutlingen (Landkreis)	Baden-Württemberg	286748	1806	82	6298	285	0.0	68.0	
-Tübingen (Landkreis)	Baden-Württemberg	227331	1482	60	6519	263	0.9	90.7	
-Zollernalbkreis (Landkreis)	Baden-Württemberg	188935	1387	78	7341	412	0.0	71.4	
-Ulm (Stadtkreis)	Baden-Württemberg	126329	536	8	4242	63	0.0	66.0	
-Alb-Donau-Kreis (Landkreis)	Baden-Württemberg	196047	851	26	4340	132	6.2	75.0	
-Biberach (Landkreis)	Baden-Württemberg	199742	763	36	3819	180	0.0	92.9	
-Bodenseekreis (Landkreis)	Baden-Württemberg	216227	478	8	2210	36	0.0	36.4	
-Ravensburg (Landkreis)	Baden-Württemberg	284285	832	7	2926	24	0.0	72.2	
-Sigmaringen (Landkreis)	Baden-Württemberg	130873	865	36	6609	275	0.0	84.2	
-Ingolstadt (Kreisfreie Stadt)	Bayern	136981	752	38	5489	277	0.0	63.0	
-München (Kreisfreie Stadt)	Bayern	1471508	10004	223	6798	151	2.4	79.1	
-Rosenheim (Kreisfreie Stadt)	Bayern	63324	692	23	10927	363	0.0	93.5	
+Mainz-Bingen (Landkreis)	Rheinland-Pfalz	210889	575	25	2726	118	4.2	41.7	
+Südwestpfalz (Landkreis)	Rheinland-Pfalz	95113	150	3	1577	31	0.0	44.4	
+Stuttgart (Stadtkreis)	Baden-Württemberg	634830	2452	65	3862	102	2.8	79.2	
+Böblingen (Landkreis)	Baden-Württemberg	391640	1972	48	5035	122	1.7	83.3	
+Esslingen (Landkreis)	Baden-Württemberg	533859	2424	120	4540	224	0.0	63.4	
+Göppingen (Landkreis)	Baden-Württemberg	257253	1103	39	4287	151	1.2	48.1	
+Ludwigsburg (Landkreis)	Baden-Württemberg	543984	2406	72	4422	132	4.6	68.0	
+Rems-Murr-Kreis (Landkreis)	Baden-Württemberg	426158	2196	97	5153	227	1.6	59.0	
+Heilbronn (Stadtkreis)	Baden-Württemberg	125960	682	17	5414	134	0.0	53.0	
+Heilbronn (Landkreis)	Baden-Württemberg	343068	1275	42	3716	122	0.0	88.5	
+Hohenlohekreis (Landkreis)	Baden-Württemberg	112010	839	47	7490	419	0.0	33.3	
+Schwäbisch Hall (Landkreis)	Baden-Württemberg	195861	1012	59	5166	301	1.8	72.7	
+Main-Tauber-Kreis (Landkreis)	Baden-Württemberg	132321	527	11	3982	83	1.2	39.0	
+Heidenheim (Landkreis)	Baden-Württemberg	132472	603	41	4551	309	0.0	62.5	
+Ostalbkreis (Landkreis)	Baden-Württemberg	314002	1775	43	5652	136	1.3	70.7	
+Baden-Baden (Stadtkreis)	Baden-Württemberg	55123	220	19	3991	344	0.0	61.5	
+Karlsruhe (Stadtkreis)	Baden-Württemberg	313092	613	14	1957	44	0.6	73.2	
+Karlsruhe (Landkreis)	Baden-Württemberg	444232	1309	82	2946	184	2.1	93.8	
+Rastatt (Landkreis)	Baden-Württemberg	231018	693	18	2999	77	0.0	93.3	
+Heidelberg (Stadtkreis)	Baden-Württemberg	160355	466	7	2906	43	1.3	77.1	
+Mannheim (Stadtkreis)	Baden-Württemberg	309370	954	13	3083	42	0.0	88.1	29.0
+Neckar-Odenwald-Kreis (Landkreis)	Baden-Württemberg	143535	509	23	3546	160	0.0	70.6	
+Rhein-Neckar-Kreis (Landkreis)	Baden-Württemberg	547625	1494	39	2728	71	0.0	79.1	
+Pforzheim (Stadtkreis)	Baden-Württemberg	125542	596	8	4747	63	0.0	80.8	
+Calw (Landkreis)	Baden-Württemberg	158397	878	27	5543	170	0.0	59.4	
+Enzkreis (Landkreis)	Baden-Württemberg	198905	809	22	4067	110	0.0	83.3	
+Freudenstadt (Landkreis)	Baden-Württemberg	117935	644	39	5460	330	0.0	64.3	
+Freiburg im Breisgau (Stadtkreis)	Baden-Württemberg	230241	1165	80	5059	347	1.5	86.6	
+Breisgau-Hochschwarzwald (Landkreis)	Baden-Württemberg	262795	1367	71	5201	270	0.0	68.8	
+Emmendingen (Landkreis)	Baden-Württemberg	165383	650	43	3930	260	0.0	95.7	
+Ortenaukreis (Landkreis)	Baden-Württemberg	429479	1455	124	3387	288	0.0	60.0	
+Rottweil (Landkreis)	Baden-Württemberg	139455	740	26	5306	186	0.0	62.5	
+Schwarzwald-Baar-Kreis (Landkreis)	Baden-Württemberg	212381	668	33	3145	155	0.9	55.8	
+Tuttlingen (Landkreis)	Baden-Württemberg	140152	595	24	4245	171	0.0	66.7	
+Konstanz (Landkreis)	Baden-Württemberg	285325	678	17	2376	59	0.0	67.9	
+Lörrach (Landkreis)	Baden-Württemberg	228639	829	62	3625	271	0.0	68.2	
+Waldshut (Landkreis)	Baden-Württemberg	170619	404	35	2367	205	0.0	50.0	
+Reutlingen (Landkreis)	Baden-Württemberg	286748	1818	82	6340	285	0.0	68.0	
+Tübingen (Landkreis)	Baden-Württemberg	227331	1490	60	6554	263	0.9	90.7	
+Zollernalbkreis (Landkreis)	Baden-Württemberg	188935	1392	78	7367	412	0.0	60.7	
+Ulm (Stadtkreis)	Baden-Württemberg	126329	536	8	4242	63	0.0	67.3	
+Alb-Donau-Kreis (Landkreis)	Baden-Württemberg	196047	851	26	4340	132	12.5	68.8	
+Biberach (Landkreis)	Baden-Württemberg	199742	765	36	3829	180	0.0	85.7	
+Bodenseekreis (Landkreis)	Baden-Württemberg	216227	486	8	2247	36	0.0	33.3	
+Ravensburg (Landkreis)	Baden-Württemberg	284285	832	7	2926	24	0.0	70.8	
+Sigmaringen (Landkreis)	Baden-Württemberg	130873	869	36	6640	275	0.0	78.9	
+Ingolstadt (Kreisfreie Stadt)	Bayern	136981	755	38	5511	277	2.2	89.1	
+München (Kreisfreie Stadt)	Bayern	1471508	10324	223	7015	151	2.2	80.8	38.2
+Rosenheim (Kreisfreie Stadt)	Bayern	63324	693	23	10943	363	0.0	91.7	
 Altötting (Landkreis)	Bayern	111210	748	55	6726	494	0.0	94.9	
-Berchtesgadener Land (Landkreis)	Bayern	105722	415	25	3925	236	0.0	100.0	
-Bad Tölz-Wolfratshausen (Landkreis)	Bayern	127227	621	10	4881	78	0.0	78.6	
-Dachau (Landkreis)	Bayern	153884	1187	34	7713	220	6.7	93.3	
-Ebersberg (Landkreis)	Bayern	142142	701	5	4931	35	0.0	50.0	
-Eichstätt (Landkreis)	Bayern	132341	408	20	3082	151	1.6	93.4	
-Erding (Landkreis)	Bayern	137660	817	11	5934	79	0.0	59.3	
-Freising (Landkreis)	Bayern	179116	1239	46	6917	256	0.0	85.0	
-Fürstenfeldbruck (Landkreis)	Bayern	219320	1161	36	5293	164	0.0	60.0	
-Garmisch-Partenkirchen (Landkreis)	Bayern	88467	396	18	4476	203	0.0	76.0	
-Landsberg am Lech (Landkreis)	Bayern	120071	462	10	3847	83			
-Miesbach (Landkreis)	Bayern	99726	711	11	7129	110	0.0	85.7	
-Mühldorf a. Inn (Landkreis)	Bayern	115250	627	27	5440	234	0.0	72.2	
-München (Landkreis)	Bayern	348871	1882	96	5394	275	0.0	61.5	
-Neuburg-Schrobenhausen (Landkreis)	Bayern	96680	414	18	4282	186	0.0	69.6	
-Pfaffenhofen a.d. Ilm (Landkreis)	Bayern	127151	471	21	3704	165	0.0	75.0	
-Rosenheim (Landkreis)	Bayern	260983	2515	199	9636	762	0.0	77.8	
-Starnberg (Landkreis)	Bayern	136092	731	13	5371	95	0.0	55.1	
-Traunstein (Landkreis)	Bayern	177089	1423	88	8035	496	0.0	74.2	
-Weilheim-Schongau (Landkreis)	Bayern	135348	435	3	3213	22	0.0	44.4	
-Landshut (Kreisfreie Stadt)	Bayern	72404	413	9	5704	124	1.7	75.9	
-Passau (Kreisfreie Stadt)	Bayern	52469	202	18	3849	343	0.0	75.0	
-Straubing (Kreisfreie Stadt)	Bayern	47794	486	48	10168	1004	0.0	27.9	
-Deggendorf (Landkreis)	Bayern	119326	434	15	3637	125	0.0	90.3	
+Berchtesgadener Land (Landkreis)	Bayern	105722	420	25	3972	236	0.0	95.0	
+Bad Tölz-Wolfratshausen (Landkreis)	Bayern	127227	621	10	4881	78	0.0	85.7	
+Dachau (Landkreis)	Bayern	153884	1197	34	7778	220	3.3	100.0	
+Ebersberg (Landkreis)	Bayern	142142	712	5	5009	35	0.0	55.0	
+Eichstätt (Landkreis)	Bayern	132341	412	20	3113	151	0.0	82.0	
+Erding (Landkreis)	Bayern	137660	829	11	6022	79	0.0	66.7	
+Freising (Landkreis)	Bayern	179116	1249	46	6973	256	0.0	75.0	
+Fürstenfeldbruck (Landkreis)	Bayern	219320	1173	36	5348	164	0.0	53.3	
+Garmisch-Partenkirchen (Landkreis)	Bayern	88467	402	18	4544	203	0.0	77.1	
+Landsberg am Lech (Landkreis)	Bayern	120071	465	10	3872	83			
+Miesbach (Landkreis)	Bayern	99726	714	11	7159	110	0.0	78.6	
+Mühldorf a. Inn (Landkreis)	Bayern	115250	628	27	5449	234	0.0	72.2	
+München (Landkreis)	Bayern	348871	1909	96	5471	275	0.0	61.5	
+Neuburg-Schrobenhausen (Landkreis)	Bayern	96680	413	18	4271	186	0.0	65.2	
+Pfaffenhofen a.d. Ilm (Landkreis)	Bayern	127151	476	21	3743	165	0.0	62.5	
+Rosenheim (Landkreis)	Bayern	260983	2518	199	9648	762	0.0	79.2	
+Starnberg (Landkreis)	Bayern	136092	736	13	5408	95	0.0	53.1	
+Traunstein (Landkreis)	Bayern	177089	1425	88	8046	496	0.0	67.7	
+Weilheim-Schongau (Landkreis)	Bayern	135348	449	3	3317	22	0.0	63.9	
+Landshut (Kreisfreie Stadt)	Bayern	72404	417	9	5759	124	1.7	77.6	
+Passau (Kreisfreie Stadt)	Bayern	52469	212	18	4040	343	0.0	64.3	
+Straubing (Kreisfreie Stadt)	Bayern	47794	488	48	10210	1004	0.0	39.5	
+Deggendorf (Landkreis)	Bayern	119326	441	15	3695	125	3.2	90.3	
 Freyung-Grafenau (Landkreis)	Bayern	78355	215	12	2743	153	0.0	63.6	
-Kelheim (Landkreis)	Bayern	122258	643	35	5259	286	0.0	50.0	
-Landshut (Landkreis)	Bayern	158698	834	31	5255	195	0.0	60.0	
-Passau (Landkreis)	Bayern	192043	749	31	3900	161	0.0	77.3	
-Regen (Landkreis)	Bayern	77656	231	12	2974	154	0.0	68.8	
+Kelheim (Landkreis)	Bayern	122258	647	35	5292	286	0.0	54.2	
+Landshut (Landkreis)	Bayern	158698	838	31	5280	195	0.0	60.0	
+Passau (Landkreis)	Bayern	192043	776	31	4040	161	0.0	77.3	
+Regen (Landkreis)	Bayern	77656	234	12	3013	154	0.0	75.0	
 Rottal-Inn (Landkreis)	Bayern	120659	838	50	6945	414	7.1	92.9	
-Straubing-Bogen (Landkreis)	Bayern	100649	604	29	6001	288	0.0	76.9	
-Dingolfing-Landau (Landkreis)	Bayern	96217	881	10	9156	103	0.0	18.8	
-Amberg (Kreisfreie Stadt)	Bayern	41970	107	4	2549	95	0.0	67.3	
-Regensburg (Kreisfreie Stadt)	Bayern	152610	848	10	5556	65	0.0	75.8	
-Weiden i.d. OPf. (Kreisfreie Stadt)	Bayern	42520	384	20	9031	470	0.0	89.3	
-Amberg-Sulzbach (Landkreis)	Bayern	103109	525	54	5091	523	0.0	7.1	
-Cham (Landkreis)	Bayern	127882	491	21	3839	164	0.0	47.1	
-Neumarkt i.d. OPf. (Landkreis)	Bayern	133561	523	17	3915	127	0.0	72.7	
-Neustadt a.d. Waldnaab (Landkreis)	Bayern	94352	872	73	9241	773			
-Regensburg (Landkreis)	Bayern	193572	655	16	3383	82	7.1	92.9	
-Schwandorf (Landkreis)	Bayern	147189	578	20	3926	135	0.0	45.1	
-Tirschenreuth (Landkreis)	Bayern	72504	1179	140	16261	1930	0.0	50.0	
-Bamberg (Kreisfreie Stadt)	Bayern	77592	238	22	3067	283	0.0	59.7	
-Bayreuth (Kreisfreie Stadt)	Bayern	74657	237	11	3174	147	1.4	78.6	
-Coburg (Kreisfreie Stadt)	Bayern	41249	139	4	3369	96	0.0	81.4	
-Hof (Kreisfreie Stadt)	Bayern	45930	173	5	3766	108	0.0	69.4	
-Bamberg (Landkreis)	Bayern	147086	474	37	3222	251	0.0	42.9	
-Bayreuth (Landkreis)	Bayern	103656	446	28	4302	270	0.0	80.0	
+Straubing-Bogen (Landkreis)	Bayern	100649	611	29	6070	288	0.0	53.8	
+Dingolfing-Landau (Landkreis)	Bayern	96217	885	10	9197	103	0.0	25.0	
+Amberg (Kreisfreie Stadt)	Bayern	41970	111	4	2644	95	0.0	57.7	
+Regensburg (Kreisfreie Stadt)	Bayern	152610	857	10	5615	65	0.4	76.7	
+Weiden i.d. OPf. (Kreisfreie Stadt)	Bayern	42520	384	20	9031	470	0.0	87.5	
+Amberg-Sulzbach (Landkreis)	Bayern	103109	528	54	5120	523	0.0	7.1	
+Cham (Landkreis)	Bayern	127882	497	21	3886	164	0.0	58.8	
+Neumarkt i.d. OPf. (Landkreis)	Bayern	133561	529	17	3960	127	0.0	90.9	
+Neustadt a.d. Waldnaab (Landkreis)	Bayern	94352	873	73	9252	773			
+Regensburg (Landkreis)	Bayern	193572	658	16	3399	82	13.3	86.7	
+Schwandorf (Landkreis)	Bayern	147189	580	20	3940	135	0.0	47.1	
+Tirschenreuth (Landkreis)	Bayern	72504	1182	140	16302	1930	0.0	50.0	
+Bamberg (Kreisfreie Stadt)	Bayern	77592	239	22	3080	283	0.0	64.9	
+Bayreuth (Kreisfreie Stadt)	Bayern	74657	239	11	3201	147	0.0	77.1	
+Coburg (Kreisfreie Stadt)	Bayern	41249	140	4	3394	96	2.3	90.7	
+Hof (Kreisfreie Stadt)	Bayern	45930	176	5	3831	108	0.0	91.7	
+Bamberg (Landkreis)	Bayern	147086	477	37	3243	251	0.0	50.0	
+Bayreuth (Landkreis)	Bayern	103656	447	28	4312	270	0.0	40.0	
 Coburg (Landkreis)	Bayern	86906	433	30	4982	345			
-Forchheim (Landkreis)	Bayern	116099	284	4	2446	34	0.0	64.3	
-Hof (Landkreis)	Bayern	95311	520	32	5455	335	0.0	76.5	
-Kronach (Landkreis)	Bayern	67135	184	3	2740	44	0.0	33.3	
-Kulmbach (Landkreis)	Bayern	71845	290	11	4036	153	0.0	81.1	
-Lichtenfels (Landkreis)	Bayern	66838	350	17	5236	254	0.0	66.7	
-Wunsiedel i. Fichtelgebirge (Landkreis)	Bayern	73178	709	41	9688	560	0.0	65.0	
-Ansbach (Kreisfreie Stadt)	Bayern	41847	178	8	4253	191	0.0	63.0	
-Erlangen (Kreisfreie Stadt)	Bayern	111962	350	11	3126	98	1.5	78.8	
-Fürth (Kreisfreie Stadt)	Bayern	127748	538	38	4211	297	0.0	79.2	
-Nürnberg (Kreisfreie Stadt)	Bayern	518365	1840	53	3549	102	0.7	62.4	10.5
-Schwabach (Kreisfreie Stadt)	Bayern	40792	111	2	2721	49	0.0	85.7	
+Forchheim (Landkreis)	Bayern	116099	288	4	2480	34	0.0	71.4	
+Hof (Landkreis)	Bayern	95311	527	32	5529	335	0.0	76.5	
+Kronach (Landkreis)	Bayern	67135	184	3	2740	44	0.0	40.0	
+Kulmbach (Landkreis)	Bayern	71845	298	11	4147	153	0.0	87.8	
+Lichtenfels (Landkreis)	Bayern	66838	352	17	5266	254	0.0	72.5	
+Wunsiedel i. Fichtelgebirge (Landkreis)	Bayern	73178	716	41	9784	560	0.0	65.0	
+Ansbach (Kreisfreie Stadt)	Bayern	41847	178	8	4253	191	0.0	66.7	
+Erlangen (Kreisfreie Stadt)	Bayern	111962	357	11	3188	98	1.5	78.1	
+Fürth (Kreisfreie Stadt)	Bayern	127748	547	38	4281	297	0.0	79.2	
+Nürnberg (Kreisfreie Stadt)	Bayern	518365	1854	53	3576	102	0.7	61.0	14.3
+Schwabach (Kreisfreie Stadt)	Bayern	40792	111	2	2721	49	0.0	28.6	
 Ansbach (Landkreis)	Bayern	183949	669	28	3636	152	0.0	54.2	
-Erlangen-Höchstadt (Landkreis)	Bayern	136271	352	11	2583	80	0.0	50.0	
-Fürth (Landkreis)	Bayern	117387	567	58	4830	494			
-Nürnberger Land (Landkreis)	Bayern	170365	751	44	4408	258	0.0	73.1	
-Neustadt a.d. Aisch-Bad Windsheim (Landkreis)	Bayern	100364	277	6	2759	59	0.0	89.1	
+Erlangen-Höchstadt (Landkreis)	Bayern	136271	360	11	2641	80	0.0	83.3	
+Fürth (Landkreis)	Bayern	117387	569	58	4847	494			
+Nürnberger Land (Landkreis)	Bayern	170365	758	44	4449	258	0.0	73.1	
+Neustadt a.d. Aisch-Bad Windsheim (Landkreis)	Bayern	100364	277	6	2759	59	0.0	85.5	
 Roth (Landkreis)	Bayern	126958	344	7	2709	55	0.0	60.0	
-Weißenburg-Gunzenhausen (Landkreis)	Bayern	94393	439	25	4650	264	0.0	68.8	
-Aschaffenburg (Kreisfreie Stadt)	Bayern	70527	164	1	2325	14	1.5	84.6	
-Schweinfurt (Kreisfreie Stadt)	Bayern	54032	219	18	4053	333	2.1	95.7	
-Würzburg (Kreisfreie Stadt)	Bayern	127880	691	52	5403	406	0.0	73.2	
-Aschaffenburg (Landkreis)	Bayern	174208	660	42	3788	241	0.0	60.0	
-Bad Kissingen (Landkreis)	Bayern	103218	284	18	2751	174	0.0	88.2	
-Rhön-Grabfeld (Landkreis)	Bayern	79690	220	8	2760	100	0.0	79.9	
-Haßberge (Landkreis)	Bayern	84599	195	6	2304	70	0.0	81.8	
-Kitzingen (Landkreis)	Bayern	90909	253	4	2783	44	0.0	87.5	
-Miltenberg (Landkreis)	Bayern	128756	399	5	3098	38	10.0	70.0	
-Main-Spessart (Landkreis)	Bayern	126365	209	6	1653	47	0.0	77.8	
-Schweinfurt (Landkreis)	Bayern	115106	610	25	5299	217	0.0	66.7	
-Würzburg (Landkreis)	Bayern	161834	581	7	3590	43	0.0	41.7	
-Augsburg (Kreisfreie Stadt)	Bayern	295135	892	16	3022	54	0.6	78.5	
-Kaufbeuren (Kreisfreie Stadt)	Bayern	43893	172	6	3918	136	3.3	76.7	
-Kempten (Allgäu) (Kreisfreie Stadt)	Bayern	68907	166	10	2409	145	0.0	88.6	
-Memmingen (Kreisfreie Stadt)	Bayern	43837	128	0	2919	0	0.0	83.3	
-Aichach-Friedberg (Landkreis)	Bayern	133596	468	20	3503	149	3.8	61.5	
-Augsburg (Landkreis)	Bayern	251534	658	11	2615	43	0.0	61.5	
-Dillingen a.d. Donau (Landkreis)	Bayern	96021	363	29	3780	302	4.2	62.5	
-Günzburg (Landkreis)	Bayern	125747	364	4	2894	31	0.0	85.5	
-Neu-Ulm (Landkreis)	Bayern	174200	693	26	3978	149	3.6	64.3	
-Lindau (Bodensee) (Landkreis)	Bayern	81669	287	8	3514	97	0.0	37.5	
-Ostallgäu (Landkreis)	Bayern	140316	647	39	4611	277	0.0	75.0	
-Unterallgäu (Landkreis)	Bayern	144041	392	15	2721	104	5.0	65.0	
-Donau-Ries (Landkreis)	Bayern	133496	446	23	3340	172	0.0	88.2	
-Oberallgäu (Landkreis)	Bayern	155362	251	7	1615	45	5.0	70.0	
+Weißenburg-Gunzenhausen (Landkreis)	Bayern	94393	441	25	4671	264	0.0	68.8	
+Aschaffenburg (Kreisfreie Stadt)	Bayern	70527	165	1	2339	14	1.5	83.1	
+Schweinfurt (Kreisfreie Stadt)	Bayern	54032	224	18	4145	333	2.1	87.2	
+Würzburg (Kreisfreie Stadt)	Bayern	127880	709	52	5544	406	0.0	72.0	
+Aschaffenburg (Landkreis)	Bayern	174208	661	42	3794	241	0.0	80.0	
+Bad Kissingen (Landkreis)	Bayern	103218	284	18	2751	174	0.0	92.2	
+Rhön-Grabfeld (Landkreis)	Bayern	79690	223	8	2798	100	0.0	80.6	
+Haßberge (Landkreis)	Bayern	84599	197	6	2328	70	0.0	72.7	
+Kitzingen (Landkreis)	Bayern	90909	253	4	2783	44	0.0	88.9	
+Miltenberg (Landkreis)	Bayern	128756	403	5	3129	38	10.0	60.0	
+Main-Spessart (Landkreis)	Bayern	126365	211	6	1669	47	0.0	77.8	
+Schweinfurt (Landkreis)	Bayern	115106	630	25	5473	217	0.0	50.0	
+Würzburg (Landkreis)	Bayern	161834	594	7	3670	43	0.0	41.7	
+Augsburg (Kreisfreie Stadt)	Bayern	295135	930	16	3151	54	0.6	80.3	
+Kaufbeuren (Kreisfreie Stadt)	Bayern	43893	175	6	3986	136	3.3	86.7	
+Kempten (Allgäu) (Kreisfreie Stadt)	Bayern	68907	166	10	2409	145	0.0	90.9	
+Memmingen (Kreisfreie Stadt)	Bayern	43837	128	0	2919	0	3.2	96.8	
+Aichach-Friedberg (Landkreis)	Bayern	133596	470	20	3518	149	7.7	69.2	
+Augsburg (Landkreis)	Bayern	251534	671	11	2667	43	0.0	76.9	
+Dillingen a.d. Donau (Landkreis)	Bayern	96021	368	29	3832	302	4.2	54.2	
+Günzburg (Landkreis)	Bayern	125747	368	4	2926	31	0.0	74.2	
+Neu-Ulm (Landkreis)	Bayern	174200	693	26	3978	149	0.0	60.7	
+Lindau (Bodensee) (Landkreis)	Bayern	81669	290	8	3550	97	0.0	37.5	
+Ostallgäu (Landkreis)	Bayern	140316	659	39	4696	277	0.0	65.0	
+Unterallgäu (Landkreis)	Bayern	144041	411	15	2853	104	5.0	80.0	
+Donau-Ries (Landkreis)	Bayern	133496	448	23	3355	172	0.0	70.6	
+Oberallgäu (Landkreis)	Bayern	155362	251	7	1615	45	6.2	68.8	
