@@ -1526,24 +1526,25 @@
   "Slope_Deaths_New_Per_Million": 0.0
  },
  {
-  "Cases": 5118253,
-  "Cases_Last_Week": 555839,
-  "Cases_Last_Week_Per_100000": 41.0,
-  "Cases_Last_Week_Per_Million": 410,
-  "Cases_New": 97894,
-  "Cases_Per_Million": 3783,
+  "Cases": 5214677,
+  "Cases_Last_Week": 652263,
+  "Cases_Last_Week_Per_100000": 48.2,
+  "Cases_Last_Week_Per_Million": 482,
+  "Cases_New": 96424,
+  "Cases_Per_Million": 3855,
   "Code": "IN",
   "Continent": "Asia",
   "Country": "India",
   "Date_Latest": "2020-09-17",
-  "Deaths": 83198,
-  "Deaths_Last_Week": 6927,
-  "Deaths_Last_Week_Per_Million": 5.12,
-  "Deaths_New": 1132,
-  "Deaths_Per_Million": 61,
+  "Deaths": 84372,
+  "Deaths_Last_Week": 8101,
+  "Deaths_Last_Week_Per_Million": 5.99,
+  "Deaths_New": 1174,
+  "Deaths_Per_Million": 62,
+  "DoublingTime_Cases_Last_Week_Per_100000": 57.6,
   "Population": 1352617328,
-  "Slope_Cases_New_Per_Million": -1.0,
-  "Slope_Deaths_New_Per_Million": -0.01
+  "Slope_Cases_New_Per_Million": 0.42,
+  "Slope_Deaths_New_Per_Million": 0.01
  },
  {
   "Cases": 232628,
@@ -3598,7 +3599,7 @@
   "Deaths_New": 870,
   "Deaths_Per_Million": 604,
   "Population": 327167434,
-  "Slope_Cases_New_Per_Million": 0.4,
+  "Slope_Cases_New_Per_Million": 0.39,
   "Slope_Deaths_New_Per_Million": 0.06
  },
  {
