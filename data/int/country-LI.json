@@ -3069,15 +3069,15 @@
   "Cases_Per_Million": 2163,
   "Date": "2020-06-23",
   "Days_Past": -104,
-  "Days_Since_2nd_Death": 0,
-  "Deaths": 2,
-  "Deaths_Last_Week": 1,
-  "Deaths_Last_Week_Per_Million": 26.38,
-  "Deaths_New": 1,
-  "Deaths_New_Per_Million": 26.378,
-  "Deaths_Per_Cases": 0.024,
+  "Days_Since_2nd_Death": null,
+  "Deaths": 1,
+  "Deaths_Last_Week": 0,
+  "Deaths_Last_Week_Per_Million": 0.0,
+  "Deaths_New": 0,
+  "Deaths_New_Per_Million": 0.0,
+  "Deaths_Per_Cases": 0.012,
   "Deaths_Per_Cases_Last_Week": null,
-  "Deaths_Per_Million": 52
+  "Deaths_Per_Million": 26
  },
  {
   "Cases": 82,
