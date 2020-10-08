@@ -3570,12 +3570,12 @@
   "Slope_Deaths_New_Per_Million": 0.02
  },
  {
-  "Cases": 7500964,
-  "Cases_Last_Week": 309327,
-  "Cases_Last_Week_Per_100000": 94.5,
-  "Cases_Last_Week_Per_Million": 945,
-  "Cases_New": 43562,
-  "Cases_Per_Million": 22926,
+  "Cases": 7499341,
+  "Cases_Last_Week": 307704,
+  "Cases_Last_Week_Per_100000": 94.0,
+  "Cases_Last_Week_Per_Million": 940,
+  "Cases_New": 41939,
+  "Cases_Per_Million": 22922,
   "Code": "US",
   "Continent": "North America",
   "Country": "United States",
@@ -3586,7 +3586,7 @@
   "Deaths_New": 705,
   "Deaths_Per_Million": 644,
   "Population": 327167434,
-  "Slope_Cases_New_Per_Million": 0.27,
+  "Slope_Cases_New_Per_Million": 0.13,
   "Slope_Deaths_New_Per_Million": -0.07
  },
  {
