@@ -1304,7 +1304,7 @@
   "DoublingTime_Cases_Last_Week_Per_100000": 11.2,
   "Population": 82927922,
   "Slope_Cases_New_Per_Million": 2.71,
-  "Slope_Deaths_New_Per_Million": 0.01
+  "Slope_Deaths_New_Per_Million": -0.0
  },
  {
   "Cases": 47030,
