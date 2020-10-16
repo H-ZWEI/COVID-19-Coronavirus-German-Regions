@@ -1,5 +1,5 @@
-{
- "BB": {
+[
+ {
   "Cases": 5211,
   "Cases_Last_Week": 608,
   "Cases_Last_Week_Per_100000": 24.2,
@@ -20,7 +20,7 @@
   "Slope_Deaths_New_Per_Million": 0.02,
   "State": "Brandenburg"
  },
- "BE": {
+ {
   "Cases": 20088,
   "Cases_Last_Week": 2976,
   "Cases_Last_Week_Per_100000": 81.6,
@@ -41,7 +41,7 @@
   "Slope_Deaths_New_Per_Million": 0.01,
   "State": "Berlin"
  },
- "BW": {
+ {
   "Cases": 57455,
   "Cases_Last_Week": 4641,
   "Cases_Last_Week_Per_100000": 41.9,
@@ -62,7 +62,7 @@
   "Slope_Deaths_New_Per_Million": 0.03,
   "State": "Baden-Württemberg"
  },
- "BY": {
+ {
   "Cases": 76680,
   "Cases_Last_Week": 4921,
   "Cases_Last_Week_Per_100000": 37.6,
@@ -83,7 +83,7 @@
   "Slope_Deaths_New_Per_Million": 0.0,
   "State": "Bayern"
  },
- "DE-total": {
+ {
   "Cases": 348557,
   "Cases_Last_Week": 33897,
   "Cases_Last_Week_Per_100000": 40.8,
@@ -104,7 +104,7 @@
   "Slope_Deaths_New_Per_Million": 0.02,
   "State": "Deutschland"
  },
- "HB": {
+ {
   "Cases": 3377,
   "Cases_Last_Week": 497,
   "Cases_Last_Week_Per_100000": 72.7,
@@ -125,7 +125,7 @@
   "Slope_Deaths_New_Per_Million": 0.04,
   "State": "Bremen"
  },
- "HE": {
+ {
   "Cases": 24151,
   "Cases_Last_Week": 3059,
   "Cases_Last_Week_Per_100000": 48.8,
@@ -146,7 +146,7 @@
   "Slope_Deaths_New_Per_Million": 0.02,
   "State": "Hessen"
  },
- "HH": {
+ {
   "Cases": 9456,
   "Cases_Last_Week": 787,
   "Cases_Last_Week_Per_100000": 42.7,
@@ -167,7 +167,7 @@
   "Slope_Deaths_New_Per_Million": -0.03,
   "State": "Hamburg"
  },
- "MV": {
+ {
   "Cases": 1590,
   "Cases_Last_Week": 246,
   "Cases_Last_Week_Per_100000": 15.2,
@@ -188,7 +188,7 @@
   "Slope_Deaths_New_Per_Million": 0.0,
   "State": "Mecklenburg-Vorpommern"
  },
- "NI": {
+ {
   "Cases": 24724,
   "Cases_Last_Week": 2582,
   "Cases_Last_Week_Per_100000": 32.3,
@@ -209,7 +209,7 @@
   "Slope_Deaths_New_Per_Million": 0.03,
   "State": "Niedersachsen"
  },
- "NW": {
+ {
   "Cases": 86315,
   "Cases_Last_Week": 9519,
   "Cases_Last_Week_Per_100000": 53.0,
@@ -230,7 +230,7 @@
   "Slope_Deaths_New_Per_Million": 0.02,
   "State": "Nordrhein-Westfalen"
  },
- "RP": {
+ {
   "Cases": 12884,
   "Cases_Last_Week": 1282,
   "Cases_Last_Week_Per_100000": 31.3,
@@ -251,7 +251,7 @@
   "Slope_Deaths_New_Per_Million": 0.03,
   "State": "Rheinland-Pfalz"
  },
- "SH": {
+ {
   "Cases": 5510,
   "Cases_Last_Week": 355,
   "Cases_Last_Week_Per_100000": 12.2,
@@ -272,7 +272,7 @@
   "Slope_Deaths_New_Per_Million": 0.01,
   "State": "Schleswig-Holstein"
  },
- "SL": {
+ {
   "Cases": 4013,
   "Cases_Last_Week": 462,
   "Cases_Last_Week_Per_100000": 46.6,
@@ -293,7 +293,7 @@
   "Slope_Deaths_New_Per_Million": 0.0,
   "State": "Saarland"
  },
- "SN": {
+ {
   "Cases": 9335,
   "Cases_Last_Week": 1348,
   "Cases_Last_Week_Per_100000": 33.0,
@@ -314,7 +314,7 @@
   "Slope_Deaths_New_Per_Million": 0.02,
   "State": "Sachsen"
  },
- "ST": {
+ {
   "Cases": 3057,
   "Cases_Last_Week": 225,
   "Cases_Last_Week_Per_100000": 10.1,
@@ -335,7 +335,7 @@
   "Slope_Deaths_New_Per_Million": 0.04,
   "State": "Sachsen-Anhalt"
  },
- "TH": {
+ {
   "Cases": 4711,
   "Cases_Last_Week": 389,
   "Cases_Last_Week_Per_100000": 18.1,
@@ -356,4 +356,4 @@
   "Slope_Deaths_New_Per_Million": 0.04,
   "State": "Thüringen"
  }
-}
+]
