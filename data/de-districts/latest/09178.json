@@ -9,18 +9,18 @@
  "Cases_Per_Million": 8638,
  "DIVI_Intensivstationen_Betten_belegt_Prozent": 83.3,
  "DIVI_Intensivstationen_Covid_Prozent": 16.7,
- "Date_Latest": "2020-10-24",
+ "Date_Latest": "2020-10-25",
  "Deaths": 48,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
  "Deaths_New": 0,
  "Deaths_Per_Million": 266,
- "DoublingTime_Cases_Last_Week_Per_100000": 7.3,
+ "DoublingTime_Cases_Last_Week_Per_100000": 8.5,
  "LK_ID": "09178",
  "LK_Name": "Freising",
  "LK_Typ": "Landkreis",
  "Landkreis": "Freising (Landkreis)",
  "Population": 180007,
- "Slope_Cases_New_Per_Million": 2.94,
- "Slope_Deaths_New_Per_Million": -0.09
+ "Slope_Cases_New_Per_Million": -1.58,
+ "Slope_Deaths_New_Per_Million": -0.11
 }

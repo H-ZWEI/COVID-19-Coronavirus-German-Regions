@@ -1,15 +1,15 @@
 {
  "BL_Code": "NW",
  "Bundesland": "Nordrhein-Westfalen",
- "Cases": 1747,
- "Cases_Last_Week": 450,
- "Cases_Last_Week_Per_100000": 170.0,
- "Cases_Last_Week_Per_Million": 1700,
- "Cases_New": 65,
- "Cases_Per_Million": 6601,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 74.3,
- "DIVI_Intensivstationen_Covid_Prozent": 8.6,
- "Date_Latest": "2020-10-24",
+ "Cases": 1846,
+ "Cases_Last_Week": 531,
+ "Cases_Last_Week_Per_100000": 200.6,
+ "Cases_Last_Week_Per_Million": 2006,
+ "Cases_New": 80,
+ "Cases_Per_Million": 6975,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 76.1,
+ "DIVI_Intensivstationen_Covid_Prozent": 9.9,
+ "Date_Latest": "2020-10-25",
  "Deaths": 44,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -21,6 +21,6 @@
  "LK_Typ": "Kreis",
  "Landkreis": "Düren (Kreis)",
  "Population": 264638,
- "Slope_Cases_New_Per_Million": 23.07,
- "Slope_Deaths_New_Per_Million": -0.1
+ "Slope_Cases_New_Per_Million": 25.13,
+ "Slope_Deaths_New_Per_Million": -0.13
 }

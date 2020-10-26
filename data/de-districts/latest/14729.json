@@ -1,15 +1,15 @@
 {
  "BL_Code": "SN",
  "Bundesland": "Sachsen",
- "Cases": 438,
+ "Cases": 450,
  "Cases_Last_Week": 99,
  "Cases_Last_Week_Per_100000": 38.3,
  "Cases_Last_Week_Per_Million": 383,
- "Cases_New": 17,
- "Cases_Per_Million": 1696,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 74.1,
+ "Cases_New": 12,
+ "Cases_Per_Million": 1743,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 77.6,
  "DIVI_Intensivstationen_Covid_Prozent": 0.0,
- "Date_Latest": "2020-10-24",
+ "Date_Latest": "2020-10-25",
  "Deaths": 4,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Leipzig (Landkreis)",
  "Population": 258139,
- "Slope_Cases_New_Per_Million": 4.42,
+ "Slope_Cases_New_Per_Million": 3.33,
  "Slope_Deaths_New_Per_Million": 0.0
 }

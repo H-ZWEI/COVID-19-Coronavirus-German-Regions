@@ -1,15 +1,15 @@
 {
  "BL_Code": "RP",
  "Bundesland": "Rheinland-Pfalz",
- "Cases": 181,
+ "Cases": 184,
  "Cases_Last_Week": 34,
  "Cases_Last_Week_Per_100000": 48.4,
  "Cases_Last_Week_Per_Million": 484,
  "Cases_New": 0,
- "Cases_Per_Million": 2577,
+ "Cases_Per_Million": 2620,
  "DIVI_Intensivstationen_Betten_belegt_Prozent": 45.0,
  "DIVI_Intensivstationen_Covid_Prozent": 0.0,
- "Date_Latest": "2020-10-24",
+ "Date_Latest": "2020-10-25",
  "Deaths": 1,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Kusel (Landkreis)",
  "Population": 70219,
- "Slope_Cases_New_Per_Million": 6.55,
+ "Slope_Cases_New_Per_Million": 5.15,
  "Slope_Deaths_New_Per_Million": 0.0
 }

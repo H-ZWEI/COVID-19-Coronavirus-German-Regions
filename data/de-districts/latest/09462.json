@@ -1,15 +1,15 @@
 {
  "BL_Code": "BY",
  "Bundesland": "Bayern",
- "Cases": 383,
- "Cases_Last_Week": 68,
- "Cases_Last_Week_Per_100000": 90.9,
- "Cases_Last_Week_Per_Million": 909,
- "Cases_New": 2,
- "Cases_Per_Million": 5121,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 89.1,
+ "Cases": 396,
+ "Cases_Last_Week": 81,
+ "Cases_Last_Week_Per_100000": 108.3,
+ "Cases_Last_Week_Per_Million": 1083,
+ "Cases_New": 13,
+ "Cases_Per_Million": 5295,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 90.6,
  "DIVI_Intensivstationen_Covid_Prozent": 0.0,
- "Date_Latest": "2020-10-24",
+ "Date_Latest": "2020-10-25",
  "Deaths": 12,
  "Deaths_Last_Week": 1,
  "Deaths_Last_Week_Per_Million": 13.37,
@@ -20,6 +20,6 @@
  "LK_Typ": "Kreisfreie Stadt",
  "Landkreis": "Bayreuth (Kreisfreie Stadt)",
  "Population": 74783,
- "Slope_Cases_New_Per_Million": 14.17,
- "Slope_Deaths_New_Per_Million": 0.26
+ "Slope_Cases_New_Per_Million": 14.82,
+ "Slope_Deaths_New_Per_Million": 0.21
 }

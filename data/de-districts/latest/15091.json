@@ -1,15 +1,15 @@
 {
  "BL_Code": "ST",
  "Bundesland": "Sachsen-Anhalt",
- "Cases": 286,
- "Cases_Last_Week": 32,
- "Cases_Last_Week_Per_100000": 25.6,
- "Cases_Last_Week_Per_Million": 256,
- "Cases_New": 8,
- "Cases_Per_Million": 2288,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 61.5,
+ "Cases": 287,
+ "Cases_Last_Week": 33,
+ "Cases_Last_Week_Per_100000": 26.4,
+ "Cases_Last_Week_Per_Million": 264,
+ "Cases_New": 1,
+ "Cases_Per_Million": 2296,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 50.0,
  "DIVI_Intensivstationen_Covid_Prozent": 0.0,
- "Date_Latest": "2020-10-24",
+ "Date_Latest": "2020-10-25",
  "Deaths": 4,
  "Deaths_Last_Week": 1,
  "Deaths_Last_Week_Per_Million": 8.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Wittenberg (Landkreis)",
  "Population": 124953,
- "Slope_Cases_New_Per_Million": 4.8,
- "Slope_Deaths_New_Per_Million": 0.16
+ "Slope_Cases_New_Per_Million": 3.59,
+ "Slope_Deaths_New_Per_Million": 0.12
 }
