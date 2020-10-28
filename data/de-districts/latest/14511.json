@@ -21,6 +21,6 @@
  "LK_Typ": "Kreisfreie Stadt",
  "Landkreis": "Chemnitz (Kreisfreie Stadt)",
  "Population": 246334,
- "Slope_Cases_New_Per_Million": 0.4,
- "Slope_Deaths_New_Per_Million": -0.04
+ "Slope_Cases_New_Per_Million": 9.0,
+ "Slope_Deaths_New_Per_Million": -0.25
 }

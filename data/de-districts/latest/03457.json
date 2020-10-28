@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Leer (Landkreis)",
  "Population": 170756,
- "Slope_Cases_New_Per_Million": 0.29,
- "Slope_Deaths_New_Per_Million": 0.0
+ "Slope_Cases_New_Per_Million": -2.27,
+ "Slope_Deaths_New_Per_Million": -0.62
 }

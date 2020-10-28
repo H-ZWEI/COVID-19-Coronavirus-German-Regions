@@ -21,6 +21,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Zwickau (Landkreis)",
  "Population": 315002,
- "Slope_Cases_New_Per_Million": 0.26,
- "Slope_Deaths_New_Per_Million": -0.01
+ "Slope_Cases_New_Per_Million": 21.05,
+ "Slope_Deaths_New_Per_Million": 0.49
 }

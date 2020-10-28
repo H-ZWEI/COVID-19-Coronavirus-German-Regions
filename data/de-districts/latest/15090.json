@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Stendal (Landkreis)",
  "Population": 111190,
- "Slope_Cases_New_Per_Million": -0.06,
- "Slope_Deaths_New_Per_Million": 0.02
+ "Slope_Cases_New_Per_Million": 3.34,
+ "Slope_Deaths_New_Per_Million": 0.97
 }

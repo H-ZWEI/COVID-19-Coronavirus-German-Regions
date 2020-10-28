@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Märkisch-Oderland (Landkreis)",
  "Population": 195751,
- "Slope_Cases_New_Per_Million": -2.12,
- "Slope_Deaths_New_Per_Million": -0.15
+ "Slope_Cases_New_Per_Million": 10.58,
+ "Slope_Deaths_New_Per_Million": -0.55
 }

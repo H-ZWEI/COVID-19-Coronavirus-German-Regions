@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Neckar-Odenwald-Kreis (Landkreis)",
  "Population": 143633,
- "Slope_Cases_New_Per_Million": -2.4,
- "Slope_Deaths_New_Per_Million": -0.17
+ "Slope_Cases_New_Per_Million": 27.85,
+ "Slope_Deaths_New_Per_Million": -0.54
 }

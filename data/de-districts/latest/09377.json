@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Tirschenreuth (Landkreis)",
  "Population": 72046,
- "Slope_Cases_New_Per_Million": 0.14,
- "Slope_Deaths_New_Per_Million": 0.0
+ "Slope_Cases_New_Per_Million": 30.87,
+ "Slope_Deaths_New_Per_Million": -0.4
 }

@@ -21,6 +21,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Göppingen (Landkreis)",
  "Population": 258145,
- "Slope_Cases_New_Per_Million": -3.74,
- "Slope_Deaths_New_Per_Million": 0.0
+ "Slope_Cases_New_Per_Million": 43.56,
+ "Slope_Deaths_New_Per_Million": -0.34
 }
