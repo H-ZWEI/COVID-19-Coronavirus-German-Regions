@@ -1,12 +1,12 @@
 {
  "BL_Code": "SH",
  "Bundesland": "Schleswig-Holstein",
- "Cases": 483,
- "Cases_Last_Week": 59,
- "Cases_Last_Week_Per_100000": 29.7,
- "Cases_Last_Week_Per_Million": 297,
- "Cases_New": 0,
- "Cases_Per_Million": 2439,
+ "Cases": 519,
+ "Cases_Last_Week": 95,
+ "Cases_Last_Week_Per_100000": 47.9,
+ "Cases_Last_Week_Per_Million": 479,
+ "Cases_New": 33,
+ "Cases_Per_Million": 2620,
  "DIVI_Intensivstationen_Betten_belegt_Prozent": 60.0,
  "DIVI_Intensivstationen_Covid_Prozent": 0.0,
  "Date_Latest": "2020-10-27",
@@ -20,6 +20,6 @@
  "LK_Typ": "Kreis",
  "Landkreis": "Herzogtum Lauenburg (Kreis)",
  "Population": 198019,
- "Slope_Cases_New_Per_Million": 1.93,
+ "Slope_Cases_New_Per_Million": 6.75,
  "Slope_Deaths_New_Per_Million": 0.0
 }
