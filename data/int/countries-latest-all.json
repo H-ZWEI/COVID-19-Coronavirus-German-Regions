@@ -744,15 +744,15 @@
   "Continent": "South America",
   "Country": "Colombia",
   "Date_Latest": "2020-10-28",
-  "Deaths": 0,
-  "Deaths_Last_Week": 0,
-  "Deaths_Last_Week_Per_Million": 0.0,
-  "Deaths_New": 0,
-  "Deaths_Per_Million": 0,
+  "Deaths": 30753,
+  "Deaths_Last_Week": 1289,
+  "Deaths_Last_Week_Per_Million": 25.96,
+  "Deaths_New": 188,
+  "Deaths_Per_Million": 619,
   "DoublingTime_Cases_Last_Week_Per_100000": 40.2,
   "Population": 49648685,
   "Slope_Cases_New_Per_Million": 18.07,
-  "Slope_Deaths_New_Per_Million": -0.62
+  "Slope_Deaths_New_Per_Million": 0.12
  },
  {
   "Cases": 517,
