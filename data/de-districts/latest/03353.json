@@ -1,15 +1,15 @@
 {
  "BL_Code": "NI",
  "Bundesland": "Niedersachsen",
- "Cases": 1150,
- "Cases_Last_Week": 98,
- "Cases_Last_Week_Per_100000": 38.5,
- "Cases_Last_Week_Per_Million": 385,
+ "Cases": 1172,
+ "Cases_Last_Week": 94,
+ "Cases_Last_Week_Per_100000": 36.9,
+ "Cases_Last_Week_Per_Million": 369,
  "Cases_New": 0,
- "Cases_Per_Million": 4519,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 63.9,
+ "Cases_Per_Million": 4606,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 75.0,
  "DIVI_Intensivstationen_Covid_Prozent": 2.8,
- "Date_Latest": "2020-10-28",
+ "Date_Latest": "2020-10-29",
  "Deaths": 24,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Harburg (Landkreis)",
  "Population": 254431,
- "Slope_Cases_New_Per_Million": 16.06,
- "Slope_Deaths_New_Per_Million": -0.21
+ "Slope_Cases_New_Per_Million": 17.0,
+ "Slope_Deaths_New_Per_Million": -0.11
 }

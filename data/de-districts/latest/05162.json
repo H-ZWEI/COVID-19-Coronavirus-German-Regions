@@ -1,15 +1,15 @@
 {
  "BL_Code": "NW",
  "Bundesland": "Nordrhein-Westfalen",
- "Cases": 2581,
- "Cases_Last_Week": 584,
- "Cases_Last_Week_Per_100000": 129.2,
- "Cases_Last_Week_Per_Million": 1292,
- "Cases_New": 71,
- "Cases_Per_Million": 5713,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 75.2,
- "DIVI_Intensivstationen_Covid_Prozent": 5.3,
- "Date_Latest": "2020-10-28",
+ "Cases": 2708,
+ "Cases_Last_Week": 639,
+ "Cases_Last_Week_Per_100000": 141.4,
+ "Cases_Last_Week_Per_Million": 1414,
+ "Cases_New": 109,
+ "Cases_Per_Million": 5994,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 76.1,
+ "DIVI_Intensivstationen_Covid_Prozent": 7.1,
+ "Date_Latest": "2020-10-29",
  "Deaths": 29,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -21,6 +21,6 @@
  "LK_Typ": "Kreis",
  "Landkreis": "Rhein-Kreis Neuss (Kreis)",
  "Population": 451730,
- "Slope_Cases_New_Per_Million": 66.42,
- "Slope_Deaths_New_Per_Million": -0.47
+ "Slope_Cases_New_Per_Million": 71.53,
+ "Slope_Deaths_New_Per_Million": -0.44
 }

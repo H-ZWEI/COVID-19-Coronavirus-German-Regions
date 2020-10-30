@@ -1,15 +1,15 @@
 {
  "BL_Code": "BY",
  "Bundesland": "Bayern",
- "Cases": 284,
- "Cases_Last_Week": 50,
- "Cases_Last_Week_Per_100000": 113.3,
- "Cases_Last_Week_Per_Million": 1133,
- "Cases_New": 1,
- "Cases_Per_Million": 6439,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 80.0,
+ "Cases": 306,
+ "Cases_Last_Week": 58,
+ "Cases_Last_Week_Per_100000": 131.5,
+ "Cases_Last_Week_Per_Million": 1315,
+ "Cases_New": 7,
+ "Cases_Per_Million": 6938,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 86.7,
  "DIVI_Intensivstationen_Covid_Prozent": 3.3,
- "Date_Latest": "2020-10-28",
+ "Date_Latest": "2020-10-29",
  "Deaths": 2,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Kreisfreie Stadt",
  "Landkreis": "Memmingen (Kreisfreie Stadt)",
  "Population": 44100,
- "Slope_Cases_New_Per_Million": 63.04,
- "Slope_Deaths_New_Per_Million": -2.39
+ "Slope_Cases_New_Per_Million": 66.58,
+ "Slope_Deaths_New_Per_Million": -2.24
 }

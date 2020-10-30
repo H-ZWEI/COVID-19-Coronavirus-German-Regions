@@ -1,15 +1,15 @@
 {
  "BL_Code": "BW",
  "Bundesland": "Baden-Württemberg",
- "Cases": 796,
- "Cases_Last_Week": 95,
- "Cases_Last_Week_Per_100000": 66.1,
- "Cases_Last_Week_Per_Million": 661,
- "Cases_New": 13,
- "Cases_Per_Million": 5541,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 88.2,
- "DIVI_Intensivstationen_Covid_Prozent": 11.8,
- "Date_Latest": "2020-10-28",
+ "Cases": 815,
+ "Cases_Last_Week": 90,
+ "Cases_Last_Week_Per_100000": 62.6,
+ "Cases_Last_Week_Per_Million": 626,
+ "Cases_New": 15,
+ "Cases_Per_Million": 5674,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 52.9,
+ "DIVI_Intensivstationen_Covid_Prozent": 5.9,
+ "Date_Latest": "2020-10-29",
  "Deaths": 27,
  "Deaths_Last_Week": 1,
  "Deaths_Last_Week_Per_Million": 6.96,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Neckar-Odenwald-Kreis (Landkreis)",
  "Population": 143633,
- "Slope_Cases_New_Per_Million": 24.08,
- "Slope_Deaths_New_Per_Million": -0.69
+ "Slope_Cases_New_Per_Million": 17.85,
+ "Slope_Deaths_New_Per_Million": -0.37
 }

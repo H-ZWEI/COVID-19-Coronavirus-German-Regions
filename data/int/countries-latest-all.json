@@ -332,7 +332,7 @@
   "Cases_Last_Week": 114951,
   "Cases_Last_Week_Per_100000": 1006.3,
   "Cases_Last_Week_Per_Million": 10063,
-  "Cases_New": 34619,
+  "Cases_New": 21048,
   "Cases_Per_Million": 32247,
   "Code": "BE",
   "Continent": "Europe",
@@ -341,12 +341,12 @@
   "Deaths": 11170,
   "Deaths_Last_Week": 631,
   "Deaths_Last_Week_Per_Million": 55.24,
-  "Deaths_New": 271,
+  "Deaths_New": 132,
   "Deaths_Per_Million": 977,
-  "DoublingTime_Cases_Last_Week_Per_100000": 11.6,
+  "DoublingTime_Cases_Last_Week_Per_100000": 10.5,
   "Population": 11422068,
-  "Slope_Cases_New_Per_Million": 402.39,
-  "Slope_Deaths_New_Per_Million": 2.14
+  "Slope_Cases_New_Per_Million": 453.09,
+  "Slope_Deaths_New_Per_Million": 2.59
  },
  {
   "Cases": 3261,
