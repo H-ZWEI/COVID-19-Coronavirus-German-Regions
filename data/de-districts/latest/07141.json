@@ -1,15 +1,15 @@
 {
  "BL_Code": "RP",
  "Bundesland": "Rheinland-Pfalz",
- "Cases": 373,
- "Cases_Last_Week": 81,
- "Cases_Last_Week_Per_100000": 66.2,
- "Cases_Last_Week_Per_Million": 662,
- "Cases_New": 3,
- "Cases_Per_Million": 3049,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 72.1,
+ "Cases": 393,
+ "Cases_Last_Week": 96,
+ "Cases_Last_Week_Per_100000": 78.4,
+ "Cases_Last_Week_Per_Million": 784,
+ "Cases_New": 10,
+ "Cases_Per_Million": 3213,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 69.8,
  "DIVI_Intensivstationen_Covid_Prozent": 4.7,
- "Date_Latest": "2020-10-29",
+ "Date_Latest": "2020-10-30",
  "Deaths": 7,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Rhein-Lahn-Kreis (Landkreis)",
  "Population": 122297,
- "Slope_Cases_New_Per_Million": 31.33,
- "Slope_Deaths_New_Per_Million": -0.72
+ "Slope_Cases_New_Per_Million": 41.02,
+ "Slope_Deaths_New_Per_Million": -0.59
 }

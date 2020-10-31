@@ -1,15 +1,15 @@
 {
  "BL_Code": "BY",
  "Bundesland": "Bayern",
- "Cases": 638,
+ "Cases": 647,
  "Cases_Last_Week": 40,
  "Cases_Last_Week_Per_100000": 38.8,
  "Cases_Last_Week_Per_Million": 388,
- "Cases_New": 16,
- "Cases_Per_Million": 6191,
+ "Cases_New": 4,
+ "Cases_Per_Million": 6278,
  "DIVI_Intensivstationen_Betten_belegt_Prozent": 21.4,
  "DIVI_Intensivstationen_Covid_Prozent": 7.1,
- "Date_Latest": "2020-10-29",
+ "Date_Latest": "2020-10-30",
  "Deaths": 55,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Amberg-Sulzbach (Landkreis)",
  "Population": 103049,
- "Slope_Cases_New_Per_Million": 24.58,
- "Slope_Deaths_New_Per_Million": -1.04
+ "Slope_Cases_New_Per_Million": 23.21,
+ "Slope_Deaths_New_Per_Million": -1.02
 }
