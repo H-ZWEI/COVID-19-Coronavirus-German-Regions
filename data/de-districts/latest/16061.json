@@ -1,15 +1,15 @@
 {
  "BL_Code": "TH",
  "Bundesland": "Thüringen",
- "Cases": 345,
- "Cases_Last_Week": 50,
- "Cases_Last_Week_Per_100000": 49.9,
- "Cases_Last_Week_Per_Million": 499,
- "Cases_New": 5,
- "Cases_Per_Million": 3449,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 58.3,
+ "Cases": 402,
+ "Cases_Last_Week": 70,
+ "Cases_Last_Week_Per_100000": 69.9,
+ "Cases_Last_Week_Per_Million": 699,
+ "Cases_New": 20,
+ "Cases_Per_Million": 4019,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 50.0,
  "DIVI_Intensivstationen_Covid_Prozent": 8.3,
- "Date_Latest": "2020-10-27",
+ "Date_Latest": "2020-10-31",
  "Deaths": 13,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Eichsfeld (Landkreis)",
  "Population": 100006,
- "Slope_Cases_New_Per_Million": -19.96,
- "Slope_Deaths_New_Per_Million": -1.82
+ "Slope_Cases_New_Per_Million": -2.73,
+ "Slope_Deaths_New_Per_Million": -1.41
 }

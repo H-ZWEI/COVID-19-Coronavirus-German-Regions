@@ -1,15 +1,15 @@
 {
  "BL_Code": "SH",
  "Bundesland": "Schleswig-Holstein",
- "Cases": 314,
- "Cases_Last_Week": 73,
- "Cases_Last_Week_Per_100000": 36.2,
- "Cases_Last_Week_Per_Million": 362,
+ "Cases": 369,
+ "Cases_Last_Week": 90,
+ "Cases_Last_Week_Per_100000": 44.7,
+ "Cases_Last_Week_Per_Million": 447,
  "Cases_New": 13,
- "Cases_Per_Million": 1560,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 79.2,
- "DIVI_Intensivstationen_Covid_Prozent": 4.2,
- "Date_Latest": "2020-10-27",
+ "Cases_Per_Million": 1834,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 41.7,
+ "DIVI_Intensivstationen_Covid_Prozent": 8.3,
+ "Date_Latest": "2020-10-31",
  "Deaths": 5,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Kreis",
  "Landkreis": "Schleswig-Flensburg (Kreis)",
  "Population": 201156,
- "Slope_Cases_New_Per_Million": 25.29,
- "Slope_Deaths_New_Per_Million": -0.38
+ "Slope_Cases_New_Per_Million": 28.24,
+ "Slope_Deaths_New_Per_Million": -0.44
 }
