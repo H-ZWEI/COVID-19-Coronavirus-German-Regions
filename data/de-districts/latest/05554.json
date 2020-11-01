@@ -1,15 +1,15 @@
 {
  "BL_Code": "NW",
  "Bundesland": "Nordrhein-Westfalen",
- "Cases": 2364,
- "Cases_Last_Week": 439,
- "Cases_Last_Week_Per_100000": 118.2,
- "Cases_Last_Week_Per_Million": 1182,
- "Cases_New": 75,
- "Cases_Per_Million": 6366,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 54.5,
- "DIVI_Intensivstationen_Covid_Prozent": 6.5,
- "Date_Latest": "2020-10-30",
+ "Cases": 2482,
+ "Cases_Last_Week": 485,
+ "Cases_Last_Week_Per_100000": 130.6,
+ "Cases_Last_Week_Per_Million": 1306,
+ "Cases_New": 102,
+ "Cases_Per_Million": 6683,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 56.2,
+ "DIVI_Intensivstationen_Covid_Prozent": 9.6,
+ "Date_Latest": "2020-10-31",
  "Deaths": 48,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -21,6 +21,6 @@
  "LK_Typ": "Kreis",
  "Landkreis": "Borken (Kreis)",
  "Population": 371339,
- "Slope_Cases_New_Per_Million": 61.05,
- "Slope_Deaths_New_Per_Million": -0.09
+ "Slope_Cases_New_Per_Million": 65.88,
+ "Slope_Deaths_New_Per_Million": -0.51
 }

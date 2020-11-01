@@ -1,15 +1,15 @@
 {
  "BL_Code": "BB",
  "Bundesland": "Brandenburg",
- "Cases": 293,
- "Cases_Last_Week": 77,
- "Cases_Last_Week_Per_100000": 67.7,
- "Cases_Last_Week_Per_Million": 677,
+ "Cases": 338,
+ "Cases_Last_Week": 98,
+ "Cases_Last_Week_Per_100000": 86.1,
+ "Cases_Last_Week_Per_Million": 861,
  "Cases_New": 0,
- "Cases_Per_Million": 2576,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 55.6,
- "DIVI_Intensivstationen_Covid_Prozent": 0.0,
- "Date_Latest": "2020-10-30",
+ "Cases_Per_Million": 2972,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 44.4,
+ "DIVI_Intensivstationen_Covid_Prozent": 5.6,
+ "Date_Latest": "2020-10-31",
  "Deaths": 1,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Spree-Neiße (Landkreis)",
  "Population": 113720,
- "Slope_Cases_New_Per_Million": 31.1,
- "Slope_Deaths_New_Per_Million": 0.68
+ "Slope_Cases_New_Per_Million": 47.58,
+ "Slope_Deaths_New_Per_Million": 0.41
 }

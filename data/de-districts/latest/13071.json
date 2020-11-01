@@ -1,15 +1,15 @@
 {
  "BL_Code": "MV",
  "Bundesland": "Mecklenburg-Vorpommern",
- "Cases": 475,
- "Cases_Last_Week": 70,
- "Cases_Last_Week_Per_100000": 27.1,
- "Cases_Last_Week_Per_Million": 271,
- "Cases_New": 13,
- "Cases_Per_Million": 1840,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 78.0,
- "DIVI_Intensivstationen_Covid_Prozent": 4.9,
- "Date_Latest": "2020-10-30",
+ "Cases": 479,
+ "Cases_Last_Week": 66,
+ "Cases_Last_Week_Per_100000": 25.5,
+ "Cases_Last_Week_Per_Million": 255,
+ "Cases_New": 4,
+ "Cases_Per_Million": 1856,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 81.2,
+ "DIVI_Intensivstationen_Covid_Prozent": 5.0,
+ "Date_Latest": "2020-10-31",
  "Deaths": 5,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Mecklenburgische Seenplatte (Landkreis)",
  "Population": 258074,
- "Slope_Cases_New_Per_Million": -3.92,
- "Slope_Deaths_New_Per_Million": 0.24
+ "Slope_Cases_New_Per_Million": -4.91,
+ "Slope_Deaths_New_Per_Million": -0.0
 }
