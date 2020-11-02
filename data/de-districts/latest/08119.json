@@ -1,15 +1,15 @@
 {
  "BL_Code": "BW",
  "Bundesland": "Baden-Württemberg",
- "Cases": 3615,
- "Cases_Last_Week": 501,
- "Cases_Last_Week_Per_100000": 117.2,
- "Cases_Last_Week_Per_Million": 1172,
- "Cases_New": 7,
- "Cases_Per_Million": 8461,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 78.7,
+ "Cases": 3705,
+ "Cases_Last_Week": 559,
+ "Cases_Last_Week_Per_100000": 130.8,
+ "Cases_Last_Week_Per_Million": 1308,
+ "Cases_New": 15,
+ "Cases_Per_Million": 8671,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 85.2,
  "DIVI_Intensivstationen_Covid_Prozent": 13.1,
- "Date_Latest": "2020-10-31",
+ "Date_Latest": "2020-11-01",
  "Deaths": 101,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -21,6 +21,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Rems-Murr-Kreis (Landkreis)",
  "Population": 427248,
- "Slope_Cases_New_Per_Million": 59.1,
- "Slope_Deaths_New_Per_Million": -0.18
+ "Slope_Cases_New_Per_Million": 63.82,
+ "Slope_Deaths_New_Per_Million": -0.25
 }
