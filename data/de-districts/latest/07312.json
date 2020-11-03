@@ -1,15 +1,15 @@
 {
  "BL_Code": "RP",
  "Bundesland": "Rheinland-Pfalz",
- "Cases": 570,
- "Cases_Last_Week": 123,
- "Cases_Last_Week_Per_100000": 122.9,
- "Cases_Last_Week_Per_Million": 1229,
- "Cases_New": 10,
- "Cases_Per_Million": 5698,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 50.3,
+ "Cases": 595,
+ "Cases_Last_Week": 147,
+ "Cases_Last_Week_Per_100000": 146.9,
+ "Cases_Last_Week_Per_Million": 1469,
+ "Cases_New": 4,
+ "Cases_Per_Million": 5948,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 48.6,
  "DIVI_Intensivstationen_Covid_Prozent": 2.3,
- "Date_Latest": "2020-11-01",
+ "Date_Latest": "2020-11-02",
  "Deaths": 7,
  "Deaths_Last_Week": 1,
  "Deaths_Last_Week_Per_Million": 10.0,
@@ -21,6 +21,6 @@
  "LK_Typ": "Kreisfreie Stadt",
  "Landkreis": "Kaiserslautern (Kreisfreie Stadt)",
  "Population": 100030,
- "Slope_Cases_New_Per_Million": 80.18,
- "Slope_Deaths_New_Per_Million": 1.05
+ "Slope_Cases_New_Per_Million": 86.95,
+ "Slope_Deaths_New_Per_Million": 1.08
 }
