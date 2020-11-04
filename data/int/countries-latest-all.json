@@ -734,12 +734,12 @@
   "Slope_Deaths_New_Per_Million": 0.0
  },
  {
-  "Cases": 1004308,
-  "Cases_Last_Week": 0,
-  "Cases_Last_Week_Per_100000": 0.0,
-  "Cases_Last_Week_Per_Million": 0,
-  "Cases_New": 0,
-  "Cases_Per_Million": 20228,
+  "Cases": 1093256,
+  "Cases_Last_Week": 68204,
+  "Cases_Last_Week_Per_100000": 137.3,
+  "Cases_Last_Week_Per_Million": 1373,
+  "Cases_New": 9935,
+  "Cases_Per_Million": 22019,
   "Code": "CO",
   "Continent": "South America",
   "Country": "Colombia",
@@ -749,8 +749,9 @@
   "Deaths_Last_Week_Per_Million": 26.28,
   "Deaths_New": 138,
   "Deaths_Per_Million": 637,
+  "DoublingTime_Cases_Last_Week_Per_100000": 28.6,
   "Population": 49648685,
-  "Slope_Cases_New_Per_Million": -10.39,
+  "Slope_Cases_New_Per_Million": 28.84,
   "Slope_Deaths_New_Per_Million": 0.33
  },
  {
@@ -3627,7 +3628,7 @@
   "Slope_Deaths_New_Per_Million": 1.13
  },
  {
-  "Cases": 9291064,
+  "Cases": 9291087,
   "Cases_Last_Week": 586641,
   "Cases_Last_Week_Per_100000": 179.3,
   "Cases_Last_Week_Per_Million": 1793,
@@ -3637,15 +3638,15 @@
   "Continent": "North America",
   "Country": "United States",
   "Date_Latest": "2020-11-02",
-  "Deaths": 231552,
-  "Deaths_Last_Week": 5842,
-  "Deaths_Last_Week_Per_Million": 17.86,
-  "Deaths_New": 557,
+  "Deaths": 231490,
+  "Deaths_Last_Week": 5776,
+  "Deaths_Last_Week_Per_Million": 17.65,
+  "Deaths_New": 491,
   "Deaths_Per_Million": 707,
   "DoublingTime_Cases_Last_Week_Per_100000": 25.3,
   "Population": 327167434,
   "Slope_Cases_New_Per_Million": 41.8,
-  "Slope_Deaths_New_Per_Million": 0.13
+  "Slope_Deaths_New_Per_Million": 0.12
  },
  {
   "Cases": 3165,
