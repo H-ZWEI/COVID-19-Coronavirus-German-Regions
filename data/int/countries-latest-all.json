@@ -1204,7 +1204,7 @@
   "Cases_Last_Week": 310937,
   "Cases_Last_Week_Per_100000": 464.1,
   "Cases_Last_Week_Per_Million": 4641,
-  "Cases_New": 129761,
+  "Cases_New": 41978,
   "Cases_Per_Million": 23753,
   "Code": "FR",
   "Continent": "Europe",
@@ -1213,12 +1213,12 @@
   "Deaths": 38728,
   "Deaths_Last_Week": 2905,
   "Deaths_Last_Week_Per_Million": 43.37,
-  "Deaths_New": 1236,
+  "Deaths_New": 813,
   "Deaths_Per_Million": 578,
-  "DoublingTime_Cases_Last_Week_Per_100000": 24.6,
+  "DoublingTime_Cases_Last_Week_Per_100000": 17.9,
   "Population": 66987244,
-  "Slope_Cases_New_Per_Million": 119.0,
-  "Slope_Deaths_New_Per_Million": 1.88
+  "Slope_Cases_New_Per_Million": 165.99,
+  "Slope_Deaths_New_Per_Million": 2.03
  },
  {
   "Cases": 9005,
@@ -3312,14 +3312,14 @@
   "Country": "Sweden",
   "Date_Latest": "2020-11-04",
   "Deaths": 5997,
-  "Deaths_Last_Week": 70,
-  "Deaths_Last_Week_Per_Million": 6.87,
-  "Deaths_New": 28,
+  "Deaths_Last_Week": 34,
+  "Deaths_Last_Week_Per_Million": 3.34,
+  "Deaths_New": 8,
   "Deaths_Per_Million": 588,
   "DoublingTime_Cases_Last_Week_Per_100000": 7.9,
   "Population": 10183175,
   "Slope_Cases_New_Per_Million": 96.15,
-  "Slope_Deaths_New_Per_Million": 0.18
+  "Slope_Deaths_New_Per_Million": 0.15
  },
  {
   "Cases": 192376,
