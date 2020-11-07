@@ -1,15 +1,15 @@
 {
  "BL_Code": "HE",
  "Bundesland": "Hessen",
- "Cases": 1745,
- "Cases_Last_Week": 264,
- "Cases_Last_Week_Per_100000": 97.6,
- "Cases_Last_Week_Per_Million": 976,
- "Cases_New": 59,
- "Cases_Per_Million": 6454,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 58.5,
- "DIVI_Intensivstationen_Covid_Prozent": 4.9,
- "Date_Latest": "2020-11-05",
+ "Cases": 1834,
+ "Cases_Last_Week": 335,
+ "Cases_Last_Week_Per_100000": 123.9,
+ "Cases_Last_Week_Per_Million": 1239,
+ "Cases_New": 89,
+ "Cases_Per_Million": 6784,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 73.2,
+ "DIVI_Intensivstationen_Covid_Prozent": 2.4,
+ "Date_Latest": "2020-11-06",
  "Deaths": 15,
  "Deaths_Last_Week": 1,
  "Deaths_Last_Week_Per_Million": 3.7,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Bergstraße (Landkreis)",
  "Population": 270340,
- "Slope_Cases_New_Per_Million": 9.84,
- "Slope_Deaths_New_Per_Million": -1.14
+ "Slope_Cases_New_Per_Million": -2.17,
+ "Slope_Deaths_New_Per_Million": -1.46
 }
