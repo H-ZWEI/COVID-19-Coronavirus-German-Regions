@@ -1,15 +1,15 @@
 {
  "BL_Code": "NW",
  "Bundesland": "Nordrhein-Westfalen",
- "Cases": 13167,
- "Cases_Last_Week": 2109,
- "Cases_Last_Week_Per_100000": 193.8,
- "Cases_Last_Week_Per_Million": 1938,
- "Cases_New": 273,
- "Cases_Per_Million": 12103,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 93.7,
- "DIVI_Intensivstationen_Covid_Prozent": 16.6,
- "Date_Latest": "2020-11-06",
+ "Cases": 13452,
+ "Cases_Last_Week": 2112,
+ "Cases_Last_Week_Per_100000": 194.1,
+ "Cases_Last_Week_Per_Million": 1941,
+ "Cases_New": 193,
+ "Cases_Per_Million": 12365,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 93.3,
+ "DIVI_Intensivstationen_Covid_Prozent": 18.2,
+ "Date_Latest": "2020-11-07",
  "Deaths": 174,
  "Deaths_Last_Week": 3,
  "Deaths_Last_Week_Per_Million": 2.76,
@@ -20,6 +20,6 @@
  "LK_Typ": "Kreisfreie Stadt",
  "Landkreis": "Köln (Kreisfreie Stadt)",
  "Population": 1087863,
- "Slope_Cases_New_Per_Million": 16.47,
- "Slope_Deaths_New_Per_Million": -0.94
+ "Slope_Cases_New_Per_Million": 3.17,
+ "Slope_Deaths_New_Per_Million": -0.89
 }
