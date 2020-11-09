@@ -7,9 +7,9 @@
  "Cases_Last_Week_Per_Million": 458,
  "Cases_New": 0,
  "Cases_Per_Million": 3969,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 82.5,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 84.1,
  "DIVI_Intensivstationen_Covid_Prozent": 4.8,
- "Date_Latest": "2020-11-07",
+ "Date_Latest": "2020-11-08",
  "Deaths": 4,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Kreisfreie Stadt",
  "Landkreis": "Jena (Kreisfreie Stadt)",
  "Population": 111343,
- "Slope_Cases_New_Per_Million": -0.33,
+ "Slope_Cases_New_Per_Million": -3.78,
  "Slope_Deaths_New_Per_Million": 0.0
 }

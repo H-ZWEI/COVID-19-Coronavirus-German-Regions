@@ -1,15 +1,15 @@
 {
  "BL_Code": "NI",
  "Bundesland": "Niedersachsen",
- "Cases": 162,
- "Cases_Last_Week": 42,
- "Cases_Last_Week_Per_100000": 84.1,
- "Cases_Last_Week_Per_Million": 841,
+ "Cases": 177,
+ "Cases_Last_Week": 54,
+ "Cases_Last_Week_Per_100000": 108.1,
+ "Cases_Last_Week_Per_Million": 1081,
  "Cases_New": 0,
- "Cases_Per_Million": 3245,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 85.0,
+ "Cases_Per_Million": 3546,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 65.0,
  "DIVI_Intensivstationen_Covid_Prozent": 10.0,
- "Date_Latest": "2020-11-07",
+ "Date_Latest": "2020-11-08",
  "Deaths": 1,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Kreisfreie Stadt",
  "Landkreis": "Emden (Kreisfreie Stadt)",
  "Population": 49913,
- "Slope_Cases_New_Per_Million": 38.93,
- "Slope_Deaths_New_Per_Million": -0.92
+ "Slope_Cases_New_Per_Million": 49.59,
+ "Slope_Deaths_New_Per_Million": -1.54
 }

@@ -1,15 +1,15 @@
 {
  "BL_Code": "NW",
  "Bundesland": "Nordrhein-Westfalen",
- "Cases": 6765,
- "Cases_Last_Week": 717,
- "Cases_Last_Week_Per_100000": 128.7,
- "Cases_Last_Week_Per_Million": 1287,
- "Cases_New": 1,
- "Cases_Per_Million": 12144,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 92.5,
+ "Cases": 6762,
+ "Cases_Last_Week": 671,
+ "Cases_Last_Week_Per_100000": 120.4,
+ "Cases_Last_Week_Per_Million": 1204,
+ "Cases_New": 0,
+ "Cases_Per_Million": 12139,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 91.5,
  "DIVI_Intensivstationen_Covid_Prozent": 16.0,
- "Date_Latest": "2020-11-07",
+ "Date_Latest": "2020-11-08",
  "Deaths": 130,
  "Deaths_Last_Week": 1,
  "Deaths_Last_Week_Per_Million": 1.8,
@@ -20,6 +20,6 @@
  "LK_Typ": "Kreis",
  "Landkreis": "Städteregion Aachen (Kreis)",
  "Population": 557026,
- "Slope_Cases_New_Per_Million": -37.52,
- "Slope_Deaths_New_Per_Million": -2.02
+ "Slope_Cases_New_Per_Million": -70.41,
+ "Slope_Deaths_New_Per_Million": -1.96
 }

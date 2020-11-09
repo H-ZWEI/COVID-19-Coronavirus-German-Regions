@@ -1,15 +1,15 @@
 {
  "BL_Code": "BE",
  "Bundesland": "Berlin",
- "Cases": 3999,
- "Cases_Last_Week": 604,
- "Cases_Last_Week_Per_100000": 214.1,
- "Cases_Last_Week_Per_Million": 2141,
+ "Cases": 4010,
+ "Cases_Last_Week": 615,
+ "Cases_Last_Week_Per_100000": 218.0,
+ "Cases_Last_Week_Per_Million": 2180,
  "Cases_New": 0,
- "Cases_Per_Million": 14177,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 86.7,
- "DIVI_Intensivstationen_Covid_Prozent": 20.3,
- "Date_Latest": "2020-11-07",
+ "Cases_Per_Million": 14216,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 84.2,
+ "DIVI_Intensivstationen_Covid_Prozent": 20.6,
+ "Date_Latest": "2020-11-08",
  "Deaths": 17,
  "Deaths_Last_Week": 1,
  "Deaths_Last_Week_Per_Million": 3.55,
@@ -20,6 +20,6 @@
  "LK_Typ": "Bezirk",
  "Landkreis": "Berlin Friedrichshain-Kreuzberg (Bezirk)",
  "Population": 282059,
- "Slope_Cases_New_Per_Million": 18.65,
- "Slope_Deaths_New_Per_Million": -0.19
+ "Slope_Cases_New_Per_Million": -11.59,
+ "Slope_Deaths_New_Per_Million": -0.39
 }

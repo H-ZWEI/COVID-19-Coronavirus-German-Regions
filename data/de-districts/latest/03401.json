@@ -1,15 +1,15 @@
 {
  "BL_Code": "NI",
  "Bundesland": "Niedersachsen",
- "Cases": 902,
- "Cases_Last_Week": 127,
- "Cases_Last_Week_Per_100000": 163.7,
- "Cases_Last_Week_Per_Million": 1637,
+ "Cases": 929,
+ "Cases_Last_Week": 143,
+ "Cases_Last_Week_Per_100000": 184.3,
+ "Cases_Last_Week_Per_Million": 1843,
  "Cases_New": 0,
- "Cases_Per_Million": 11629,
+ "Cases_Per_Million": 11977,
  "DIVI_Intensivstationen_Betten_belegt_Prozent": 68.0,
  "DIVI_Intensivstationen_Covid_Prozent": 28.0,
- "Date_Latest": "2020-11-07",
+ "Date_Latest": "2020-11-08",
  "Deaths": 8,
  "Deaths_Last_Week": 1,
  "Deaths_Last_Week_Per_Million": 12.89,
@@ -20,6 +20,6 @@
  "LK_Typ": "Kreisfreie Stadt",
  "Landkreis": "Delmenhorst (Kreisfreie Stadt)",
  "Population": 77559,
- "Slope_Cases_New_Per_Million": -27.74,
- "Slope_Deaths_New_Per_Million": -2.01
+ "Slope_Cases_New_Per_Million": -18.92,
+ "Slope_Deaths_New_Per_Million": -2.32
 }
