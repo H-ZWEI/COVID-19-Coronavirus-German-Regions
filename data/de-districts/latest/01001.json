@@ -1,15 +1,15 @@
 {
  "BL_Code": "SH",
  "Bundesland": "Schleswig-Holstein",
- "Cases": 247,
+ "Cases": 250,
  "Cases_Last_Week": 24,
  "Cases_Last_Week_Per_100000": 26.6,
  "Cases_Last_Week_Per_Million": 266,
  "Cases_New": 3,
- "Cases_Per_Million": 2739,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 47.1,
+ "Cases_Per_Million": 2772,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 43.6,
  "DIVI_Intensivstationen_Covid_Prozent": 0.0,
- "Date_Latest": "2020-11-08",
+ "Date_Latest": "2020-11-09",
  "Deaths": 3,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Kreisfreie Stadt",
  "Landkreis": "Flensburg (Kreisfreie Stadt)",
  "Population": 90164,
- "Slope_Cases_New_Per_Million": -10.69,
+ "Slope_Cases_New_Per_Million": -14.67,
  "Slope_Deaths_New_Per_Million": 0.0
 }

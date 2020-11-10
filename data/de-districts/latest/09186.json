@@ -1,15 +1,15 @@
 {
  "BL_Code": "BY",
  "Bundesland": "Bayern",
- "Cases": 1073,
- "Cases_Last_Week": 138,
- "Cases_Last_Week_Per_100000": 107.6,
- "Cases_Last_Week_Per_Million": 1076,
- "Cases_New": 25,
- "Cases_Per_Million": 8367,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 75.0,
- "DIVI_Intensivstationen_Covid_Prozent": 12.5,
- "Date_Latest": "2020-11-08",
+ "Cases": 1121,
+ "Cases_Last_Week": 175,
+ "Cases_Last_Week_Per_100000": 136.4,
+ "Cases_Last_Week_Per_Million": 1364,
+ "Cases_New": 49,
+ "Cases_Per_Million": 8742,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 37.5,
+ "DIVI_Intensivstationen_Covid_Prozent": 25.0,
+ "Date_Latest": "2020-11-09",
  "Deaths": 25,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Pfaffenhofen a.d. Ilm (Landkreis)",
  "Population": 128227,
- "Slope_Cases_New_Per_Million": -13.75,
- "Slope_Deaths_New_Per_Million": -0.65
+ "Slope_Cases_New_Per_Million": -18.75,
+ "Slope_Deaths_New_Per_Million": -0.69
 }

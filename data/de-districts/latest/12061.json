@@ -1,15 +1,15 @@
 {
  "BL_Code": "BB",
  "Bundesland": "Brandenburg",
- "Cases": 641,
+ "Cases": 668,
  "Cases_Last_Week": 61,
  "Cases_Last_Week_Per_100000": 35.7,
  "Cases_Last_Week_Per_Million": 357,
- "Cases_New": 0,
- "Cases_Per_Million": 3753,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 64.2,
- "DIVI_Intensivstationen_Covid_Prozent": 5.7,
- "Date_Latest": "2020-11-08",
+ "Cases_New": 18,
+ "Cases_Per_Million": 3911,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 67.9,
+ "DIVI_Intensivstationen_Covid_Prozent": 7.5,
+ "Date_Latest": "2020-11-09",
  "Deaths": 9,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Dahme-Spreewald (Landkreis)",
  "Population": 170791,
- "Slope_Cases_New_Per_Million": -5.0,
- "Slope_Deaths_New_Per_Million": -0.45
+ "Slope_Cases_New_Per_Million": -6.21,
+ "Slope_Deaths_New_Per_Million": -0.63
 }
