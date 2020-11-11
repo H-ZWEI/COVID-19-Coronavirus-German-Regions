@@ -1,15 +1,15 @@
 {
  "BL_Code": "TH",
  "Bundesland": "Thüringen",
- "Cases": 563,
- "Cases_Last_Week": 84,
- "Cases_Last_Week_Per_100000": 90.2,
- "Cases_Last_Week_Per_Million": 902,
- "Cases_New": 15,
- "Cases_Per_Million": 6045,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 95.7,
- "DIVI_Intensivstationen_Covid_Prozent": 15.2,
- "Date_Latest": "2020-11-09",
+ "Cases": 567,
+ "Cases_Last_Week": 78,
+ "Cases_Last_Week_Per_100000": 83.7,
+ "Cases_Last_Week_Per_Million": 837,
+ "Cases_New": 4,
+ "Cases_Per_Million": 6088,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 93.5,
+ "DIVI_Intensivstationen_Covid_Prozent": 10.9,
+ "Date_Latest": "2020-11-10",
  "Deaths": 24,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Kreisfreie Stadt",
  "Landkreis": "Gera (Kreisfreie Stadt)",
  "Population": 93125,
- "Slope_Cases_New_Per_Million": 50.49,
- "Slope_Deaths_New_Per_Million": -1.32
+ "Slope_Cases_New_Per_Million": 39.36,
+ "Slope_Deaths_New_Per_Million": -1.98
 }

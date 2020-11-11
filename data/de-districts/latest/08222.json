@@ -1,15 +1,15 @@
 {
  "BL_Code": "BW",
  "Bundesland": "Baden-Württemberg",
- "Cases": 2915,
- "Cases_Last_Week": 466,
- "Cases_Last_Week_Per_100000": 150.0,
- "Cases_Last_Week_Per_Million": 1500,
- "Cases_New": 68,
- "Cases_Per_Million": 9383,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 86.0,
- "DIVI_Intensivstationen_Covid_Prozent": 17.1,
- "Date_Latest": "2020-11-09",
+ "Cases": 2996,
+ "Cases_Last_Week": 458,
+ "Cases_Last_Week_Per_100000": 147.4,
+ "Cases_Last_Week_Per_Million": 1474,
+ "Cases_New": 76,
+ "Cases_Per_Million": 9644,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 86.3,
+ "DIVI_Intensivstationen_Covid_Prozent": 14.5,
+ "Date_Latest": "2020-11-10",
  "Deaths": 17,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Stadtkreis",
  "Landkreis": "Mannheim (Stadtkreis)",
  "Population": 310658,
- "Slope_Cases_New_Per_Million": 0.26,
- "Slope_Deaths_New_Per_Million": -0.29
+ "Slope_Cases_New_Per_Million": -4.9,
+ "Slope_Deaths_New_Per_Million": -0.37
 }

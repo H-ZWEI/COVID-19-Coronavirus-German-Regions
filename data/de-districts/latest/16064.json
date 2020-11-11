@@ -1,15 +1,15 @@
 {
  "BL_Code": "TH",
  "Bundesland": "Thüringen",
- "Cases": 364,
- "Cases_Last_Week": 95,
- "Cases_Last_Week_Per_100000": 92.9,
- "Cases_Last_Week_Per_Million": 929,
- "Cases_New": 2,
- "Cases_Per_Million": 3560,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 56.3,
- "DIVI_Intensivstationen_Covid_Prozent": 16.9,
- "Date_Latest": "2020-11-09",
+ "Cases": 371,
+ "Cases_Last_Week": 90,
+ "Cases_Last_Week_Per_100000": 88.0,
+ "Cases_Last_Week_Per_Million": 880,
+ "Cases_New": 5,
+ "Cases_Per_Million": 3629,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 59.2,
+ "DIVI_Intensivstationen_Covid_Prozent": 21.1,
+ "Date_Latest": "2020-11-10",
  "Deaths": 6,
  "Deaths_Last_Week": 2,
  "Deaths_Last_Week_Per_Million": 19.56,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Unstrut-Hainich-Kreis (Landkreis)",
  "Population": 102232,
- "Slope_Cases_New_Per_Million": 32.67,
- "Slope_Deaths_New_Per_Million": 1.68
+ "Slope_Cases_New_Per_Million": 38.91,
+ "Slope_Deaths_New_Per_Million": 1.89
 }

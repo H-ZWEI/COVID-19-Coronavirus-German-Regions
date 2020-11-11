@@ -1,15 +1,15 @@
 {
  "BL_Code": "NI",
  "Bundesland": "Niedersachsen",
- "Cases": 477,
- "Cases_Last_Week": 80,
- "Cases_Last_Week_Per_100000": 64.0,
- "Cases_Last_Week_Per_Million": 640,
+ "Cases": 493,
+ "Cases_Last_Week": 94,
+ "Cases_Last_Week_Per_100000": 75.2,
+ "Cases_Last_Week_Per_Million": 752,
  "Cases_New": 0,
- "Cases_Per_Million": 3820,
+ "Cases_Per_Million": 3948,
  "DIVI_Intensivstationen_Betten_belegt_Prozent": 87.9,
  "DIVI_Intensivstationen_Covid_Prozent": 6.1,
- "Date_Latest": "2020-11-09",
+ "Date_Latest": "2020-11-10",
  "Deaths": 6,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Ammerland (Landkreis)",
  "Population": 124859,
- "Slope_Cases_New_Per_Million": 11.09,
- "Slope_Deaths_New_Per_Million": 0.62
+ "Slope_Cases_New_Per_Million": 9.64,
+ "Slope_Deaths_New_Per_Million": 0.37
 }
