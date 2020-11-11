@@ -3625,12 +3625,12 @@
   "Slope_Deaths_New_Per_Million": 1.15
  },
  {
-  "Cases": 10110784,
-  "Cases_Last_Week": 834161,
-  "Cases_Last_Week_Per_100000": 254.9,
-  "Cases_Last_Week_Per_Million": 2549,
+  "Cases": 10115804,
+  "Cases_Last_Week": 834802,
+  "Cases_Last_Week_Per_100000": 255.1,
+  "Cases_Last_Week_Per_Million": 2551,
   "Cases_New": 119944,
-  "Cases_Per_Million": 30904,
+  "Cases_Per_Million": 30919,
   "Code": "US",
   "Continent": "North America",
   "Country": "United States",
