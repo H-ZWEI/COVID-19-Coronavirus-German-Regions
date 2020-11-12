@@ -1,15 +1,15 @@
 {
  "BL_Code": "BY",
  "Bundesland": "Bayern",
- "Cases": 1152,
- "Cases_Last_Week": 185,
- "Cases_Last_Week_Per_100000": 143.6,
- "Cases_Last_Week_Per_Million": 1436,
- "Cases_New": 7,
- "Cases_Per_Million": 8948,
+ "Cases": 1201,
+ "Cases_Last_Week": 192,
+ "Cases_Last_Week_Per_100000": 149.1,
+ "Cases_Last_Week_Per_Million": 1491,
+ "Cases_New": 36,
+ "Cases_Per_Million": 9328,
  "DIVI_Intensivstationen_Betten_belegt_Prozent": 100.0,
- "DIVI_Intensivstationen_Covid_Prozent": 0.0,
- "Date_Latest": "2020-11-10",
+ "DIVI_Intensivstationen_Covid_Prozent": 27.3,
+ "Date_Latest": "2020-11-11",
  "Deaths": 19,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Miltenberg (Landkreis)",
  "Population": 128743,
- "Slope_Cases_New_Per_Million": 3.96,
- "Slope_Deaths_New_Per_Million": -4.13
+ "Slope_Cases_New_Per_Million": -6.02,
+ "Slope_Deaths_New_Per_Million": -4.63
 }

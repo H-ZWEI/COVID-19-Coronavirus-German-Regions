@@ -1,15 +1,15 @@
 {
  "BL_Code": "BW",
  "Bundesland": "Baden-Württemberg",
- "Cases": 2010,
- "Cases_Last_Week": 243,
- "Cases_Last_Week_Per_100000": 123.3,
- "Cases_Last_Week_Per_Million": 1233,
- "Cases_New": 27,
- "Cases_Per_Million": 10199,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 75.0,
- "DIVI_Intensivstationen_Covid_Prozent": 18.8,
- "Date_Latest": "2020-11-10",
+ "Cases": 2053,
+ "Cases_Last_Week": 258,
+ "Cases_Last_Week_Per_100000": 130.9,
+ "Cases_Last_Week_Per_Million": 1309,
+ "Cases_New": 39,
+ "Cases_Per_Million": 10417,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 93.8,
+ "DIVI_Intensivstationen_Covid_Prozent": 25.0,
+ "Date_Latest": "2020-11-11",
  "Deaths": 50,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Alb-Donau-Kreis (Landkreis)",
  "Population": 197076,
- "Slope_Cases_New_Per_Million": -19.89,
- "Slope_Deaths_New_Per_Million": -4.16
+ "Slope_Cases_New_Per_Million": -19.0,
+ "Slope_Deaths_New_Per_Million": -3.54
 }

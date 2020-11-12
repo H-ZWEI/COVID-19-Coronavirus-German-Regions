@@ -1,15 +1,15 @@
 {
  "BL_Code": "BY",
  "Bundesland": "Bayern",
- "Cases": 560,
- "Cases_Last_Week": 99,
- "Cases_Last_Week_Per_100000": 124.3,
- "Cases_Last_Week_Per_Million": 1243,
- "Cases_New": 16,
- "Cases_Per_Million": 7032,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 89.6,
- "DIVI_Intensivstationen_Covid_Prozent": 6.7,
- "Date_Latest": "2020-11-10",
+ "Cases": 575,
+ "Cases_Last_Week": 93,
+ "Cases_Last_Week_Per_100000": 116.7,
+ "Cases_Last_Week_Per_Million": 1167,
+ "Cases_New": 15,
+ "Cases_Per_Million": 7220,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 88.9,
+ "DIVI_Intensivstationen_Covid_Prozent": 8.1,
+ "Date_Latest": "2020-11-11",
  "Deaths": 11,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Rhön-Grabfeld (Landkreis)",
  "Population": 79635,
- "Slope_Cases_New_Per_Million": 44.83,
- "Slope_Deaths_New_Per_Million": 0.58
+ "Slope_Cases_New_Per_Million": 38.42,
+ "Slope_Deaths_New_Per_Million": 0.19
 }
