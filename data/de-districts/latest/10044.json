@@ -1,15 +1,15 @@
 {
  "BL_Code": "SL",
  "Bundesland": "Saarland",
- "Cases": 1843,
- "Cases_Last_Week": 305,
- "Cases_Last_Week_Per_100000": 156.9,
- "Cases_Last_Week_Per_Million": 1569,
- "Cases_New": 25,
- "Cases_Per_Million": 9484,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 79.3,
- "DIVI_Intensivstationen_Covid_Prozent": 5.2,
- "Date_Latest": "2020-11-11",
+ "Cases": 1885,
+ "Cases_Last_Week": 299,
+ "Cases_Last_Week_Per_100000": 153.8,
+ "Cases_Last_Week_Per_Million": 1538,
+ "Cases_New": 15,
+ "Cases_Per_Million": 9700,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 75.9,
+ "DIVI_Intensivstationen_Covid_Prozent": 8.6,
+ "Date_Latest": "2020-11-12",
  "Deaths": 25,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Saarlouis (Landkreis)",
  "Population": 194319,
- "Slope_Cases_New_Per_Million": 8.34,
- "Slope_Deaths_New_Per_Million": -0.15
+ "Slope_Cases_New_Per_Million": 4.81,
+ "Slope_Deaths_New_Per_Million": 0.0
 }

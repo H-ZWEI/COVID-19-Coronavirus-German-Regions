@@ -1,15 +1,15 @@
 {
  "BL_Code": "NI",
  "Bundesland": "Niedersachsen",
- "Cases": 894,
+ "Cases": 921,
  "Cases_Last_Week": 118,
  "Cases_Last_Week_Per_100000": 59.5,
  "Cases_Last_Week_Per_Million": 595,
- "Cases_New": 4,
- "Cases_Per_Million": 4514,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 40.0,
+ "Cases_New": 7,
+ "Cases_Per_Million": 4650,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 60.0,
  "DIVI_Intensivstationen_Covid_Prozent": 13.3,
- "Date_Latest": "2020-11-11",
+ "Date_Latest": "2020-11-12",
  "Deaths": 24,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Cuxhaven (Landkreis)",
  "Population": 198038,
- "Slope_Cases_New_Per_Million": -1.24,
- "Slope_Deaths_New_Per_Million": -0.14
+ "Slope_Cases_New_Per_Million": -4.91,
+ "Slope_Deaths_New_Per_Million": 0.0
 }

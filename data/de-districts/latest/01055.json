@@ -1,15 +1,15 @@
 {
  "BL_Code": "SH",
  "Bundesland": "Schleswig-Holstein",
- "Cases": 426,
- "Cases_Last_Week": 62,
- "Cases_Last_Week_Per_100000": 30.9,
- "Cases_Last_Week_Per_Million": 309,
- "Cases_New": 13,
- "Cases_Per_Million": 2124,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 64.4,
- "DIVI_Intensivstationen_Covid_Prozent": 2.2,
- "Date_Latest": "2020-11-11",
+ "Cases": 436,
+ "Cases_Last_Week": 66,
+ "Cases_Last_Week_Per_100000": 32.9,
+ "Cases_Last_Week_Per_Million": 329,
+ "Cases_New": 10,
+ "Cases_Per_Million": 2174,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 56.9,
+ "DIVI_Intensivstationen_Covid_Prozent": 2.0,
+ "Date_Latest": "2020-11-12",
  "Deaths": 1,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Kreis",
  "Landkreis": "Ostholstein (Kreis)",
  "Population": 200539,
- "Slope_Cases_New_Per_Million": -0.51,
- "Slope_Deaths_New_Per_Million": -0.23
+ "Slope_Cases_New_Per_Million": -0.87,
+ "Slope_Deaths_New_Per_Million": -0.38
 }

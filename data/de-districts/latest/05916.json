@@ -1,15 +1,15 @@
 {
  "BL_Code": "NW",
  "Bundesland": "Nordrhein-Westfalen",
- "Cases": 2219,
- "Cases_Last_Week": 478,
- "Cases_Last_Week_Per_100000": 305.5,
- "Cases_Last_Week_Per_Million": 3055,
- "Cases_New": 64,
- "Cases_Per_Million": 14183,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 80.3,
- "DIVI_Intensivstationen_Covid_Prozent": 21.2,
- "Date_Latest": "2020-11-11",
+ "Cases": 2332,
+ "Cases_Last_Week": 534,
+ "Cases_Last_Week_Per_100000": 341.3,
+ "Cases_Last_Week_Per_Million": 3413,
+ "Cases_New": 113,
+ "Cases_Per_Million": 14905,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 76.6,
+ "DIVI_Intensivstationen_Covid_Prozent": 21.9,
+ "Date_Latest": "2020-11-12",
  "Deaths": 21,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -21,6 +21,6 @@
  "LK_Typ": "Kreisfreie Stadt",
  "Landkreis": "Herne (Kreisfreie Stadt)",
  "Population": 156449,
- "Slope_Cases_New_Per_Million": 41.75,
- "Slope_Deaths_New_Per_Million": -1.19
+ "Slope_Cases_New_Per_Million": 41.69,
+ "Slope_Deaths_New_Per_Million": -1.49
 }

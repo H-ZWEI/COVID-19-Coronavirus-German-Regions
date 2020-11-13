@@ -2230,8 +2230,8 @@
   "Deaths_New": 588,
   "Deaths_Per_Million": 764,
   "Population": 126190788,
-  "Slope_Cases_New_Per_Million": 0.63,
-  "Slope_Deaths_New_Per_Million": 0.05
+  "Slope_Cases_New_Per_Million": 1.42,
+  "Slope_Deaths_New_Per_Million": 0.08
  },
  {
   "Cases": 84707,
@@ -3620,25 +3620,25 @@
   "Slope_Deaths_New_Per_Million": 1.16
  },
  {
-  "Cases": 10400227,
-  "Cases_Last_Week": 893223,
-  "Cases_Last_Week_Per_100000": 273.0,
-  "Cases_Last_Week_Per_Million": 2730,
-  "Cases_New": 144133,
-  "Cases_Per_Million": 31788,
+  "Cases": 10399325,
+  "Cases_Last_Week": 892321,
+  "Cases_Last_Week_Per_100000": 272.7,
+  "Cases_Last_Week_Per_Million": 2727,
+  "Cases_New": 143231,
+  "Cases_Per_Million": 31785,
   "Code": "US",
   "Continent": "North America",
   "Country": "United States",
   "Date_Latest": "2020-11-11",
-  "Deaths": 241798,
-  "Deaths_Last_Week": 7844,
-  "Deaths_Last_Week_Per_Million": 23.98,
-  "Deaths_New": 1893,
-  "Deaths_Per_Million": 739,
+  "Deaths": 241504,
+  "Deaths_Last_Week": 7240,
+  "Deaths_Last_Week_Per_Million": 22.13,
+  "Deaths_New": 1381,
+  "Deaths_Per_Million": 738,
   "DoublingTime_Cases_Last_Week_Per_100000": 16.4,
   "Population": 327167434,
-  "Slope_Cases_New_Per_Million": 88.12,
-  "Slope_Deaths_New_Per_Million": 0.43
+  "Slope_Cases_New_Per_Million": 88.04,
+  "Slope_Deaths_New_Per_Million": 0.34
  },
  {
   "Cases": 3700,

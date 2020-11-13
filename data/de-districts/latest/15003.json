@@ -1,15 +1,15 @@
 {
  "BL_Code": "ST",
  "Bundesland": "Sachsen-Anhalt",
- "Cases": 1151,
- "Cases_Last_Week": 183,
- "Cases_Last_Week_Per_100000": 77.0,
- "Cases_Last_Week_Per_Million": 770,
- "Cases_New": 30,
- "Cases_Per_Million": 4844,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 87.4,
- "DIVI_Intensivstationen_Covid_Prozent": 2.9,
- "Date_Latest": "2020-11-11",
+ "Cases": 1182,
+ "Cases_Last_Week": 165,
+ "Cases_Last_Week_Per_100000": 69.4,
+ "Cases_Last_Week_Per_Million": 694,
+ "Cases_New": 31,
+ "Cases_Per_Million": 4975,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 86.1,
+ "DIVI_Intensivstationen_Covid_Prozent": 3.5,
+ "Date_Latest": "2020-11-12",
  "Deaths": 11,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Kreisfreie Stadt",
  "Landkreis": "Magdeburg (Kreisfreie Stadt)",
  "Population": 237565,
- "Slope_Cases_New_Per_Million": -28.88,
- "Slope_Deaths_New_Per_Million": -0.97
+ "Slope_Cases_New_Per_Million": -31.67,
+ "Slope_Deaths_New_Per_Million": -0.77
 }
