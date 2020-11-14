@@ -1,15 +1,15 @@
 {
  "BL_Code": "ST",
  "Bundesland": "Sachsen-Anhalt",
- "Cases": 290,
- "Cases_Last_Week": 33,
- "Cases_Last_Week_Per_100000": 29.6,
- "Cases_Last_Week_Per_Million": 296,
- "Cases_New": 2,
- "Cases_Per_Million": 2608,
+ "Cases": 302,
+ "Cases_Last_Week": 36,
+ "Cases_Last_Week_Per_100000": 32.3,
+ "Cases_Last_Week_Per_Million": 323,
+ "Cases_New": 5,
+ "Cases_Per_Million": 2716,
  "DIVI_Intensivstationen_Betten_belegt_Prozent": 75.0,
  "DIVI_Intensivstationen_Covid_Prozent": 0.0,
- "Date_Latest": "2020-11-12",
+ "Date_Latest": "2020-11-13",
  "Deaths": 9,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Stendal (Landkreis)",
  "Population": 111190,
- "Slope_Cases_New_Per_Million": -11.51,
- "Slope_Deaths_New_Per_Million": -0.95
+ "Slope_Cases_New_Per_Million": -18.59,
+ "Slope_Deaths_New_Per_Million": -0.89
 }

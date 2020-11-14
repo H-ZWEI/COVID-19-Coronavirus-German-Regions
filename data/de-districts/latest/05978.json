@@ -1,15 +1,15 @@
 {
  "BL_Code": "NW",
  "Bundesland": "Nordrhein-Westfalen",
- "Cases": 4388,
- "Cases_Last_Week": 512,
- "Cases_Last_Week_Per_100000": 129.6,
- "Cases_Last_Week_Per_Million": 1296,
- "Cases_New": 50,
- "Cases_Per_Million": 11111,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 79.8,
- "DIVI_Intensivstationen_Covid_Prozent": 15.4,
- "Date_Latest": "2020-11-12",
+ "Cases": 4489,
+ "Cases_Last_Week": 547,
+ "Cases_Last_Week_Per_100000": 138.5,
+ "Cases_Last_Week_Per_Million": 1385,
+ "Cases_New": 15,
+ "Cases_Per_Million": 11367,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 82.4,
+ "DIVI_Intensivstationen_Covid_Prozent": 19.6,
+ "Date_Latest": "2020-11-13",
  "Deaths": 66,
  "Deaths_Last_Week": 6,
  "Deaths_Last_Week_Per_Million": 15.19,
@@ -20,6 +20,6 @@
  "LK_Typ": "Kreis",
  "Landkreis": "Unna (Kreis)",
  "Population": 394891,
- "Slope_Cases_New_Per_Million": -85.77,
- "Slope_Deaths_New_Per_Million": -0.87
+ "Slope_Cases_New_Per_Million": -90.76,
+ "Slope_Deaths_New_Per_Million": -0.71
 }

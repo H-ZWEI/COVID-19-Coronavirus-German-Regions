@@ -1,15 +1,15 @@
 {
  "BL_Code": "NW",
  "Bundesland": "Nordrhein-Westfalen",
- "Cases": 2449,
- "Cases_Last_Week": 392,
- "Cases_Last_Week_Per_100000": 207.7,
- "Cases_Last_Week_Per_Million": 2077,
- "Cases_New": 62,
- "Cases_Per_Million": 12979,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 85.2,
- "DIVI_Intensivstationen_Covid_Prozent": 21.6,
- "Date_Latest": "2020-11-12",
+ "Cases": 2506,
+ "Cases_Last_Week": 352,
+ "Cases_Last_Week_Per_100000": 186.5,
+ "Cases_Last_Week_Per_Million": 1865,
+ "Cases_New": 57,
+ "Cases_Per_Million": 13281,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 80.7,
+ "DIVI_Intensivstationen_Covid_Prozent": 22.7,
+ "Date_Latest": "2020-11-13",
  "Deaths": 30,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Kreisfreie Stadt",
  "Landkreis": "Hagen (Kreisfreie Stadt)",
  "Population": 188686,
- "Slope_Cases_New_Per_Million": 18.25,
- "Slope_Deaths_New_Per_Million": -1.29
+ "Slope_Cases_New_Per_Million": -10.59,
+ "Slope_Deaths_New_Per_Million": -0.97
 }

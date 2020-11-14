@@ -1,15 +1,15 @@
 {
  "BL_Code": "NW",
  "Bundesland": "Nordrhein-Westfalen",
- "Cases": 1558,
- "Cases_Last_Week": 231,
- "Cases_Last_Week_Per_100000": 207.4,
- "Cases_Last_Week_Per_Million": 2074,
- "Cases_New": 35,
- "Cases_Per_Million": 13993,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 83.3,
- "DIVI_Intensivstationen_Covid_Prozent": 43.3,
- "Date_Latest": "2020-11-12",
+ "Cases": 1610,
+ "Cases_Last_Week": 246,
+ "Cases_Last_Week_Per_100000": 220.9,
+ "Cases_Last_Week_Per_Million": 2209,
+ "Cases_New": 32,
+ "Cases_Per_Million": 14460,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 93.3,
+ "DIVI_Intensivstationen_Covid_Prozent": 40.0,
+ "Date_Latest": "2020-11-13",
  "Deaths": 24,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Kreisfreie Stadt",
  "Landkreis": "Remscheid (Kreisfreie Stadt)",
  "Population": 111338,
- "Slope_Cases_New_Per_Million": -35.13,
- "Slope_Deaths_New_Per_Million": -2.92
+ "Slope_Cases_New_Per_Million": -28.37,
+ "Slope_Deaths_New_Per_Million": -2.82
 }

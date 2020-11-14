@@ -1,15 +1,15 @@
 {
  "BL_Code": "NW",
  "Bundesland": "Nordrhein-Westfalen",
- "Cases": 3104,
- "Cases_Last_Week": 433,
- "Cases_Last_Week_Per_100000": 131.3,
- "Cases_Last_Week_Per_Million": 1313,
- "Cases_New": 65,
- "Cases_Per_Million": 9415,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 87.5,
+ "Cases": 3176,
+ "Cases_Last_Week": 426,
+ "Cases_Last_Week_Per_100000": 129.2,
+ "Cases_Last_Week_Per_Million": 1292,
+ "Cases_New": 73,
+ "Cases_Per_Million": 9633,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 87.2,
  "DIVI_Intensivstationen_Covid_Prozent": 9.9,
- "Date_Latest": "2020-11-12",
+ "Date_Latest": "2020-11-13",
  "Deaths": 20,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Kreisfreie Stadt",
  "Landkreis": "Bonn (Kreisfreie Stadt)",
  "Population": 329673,
- "Slope_Cases_New_Per_Million": 6.76,
- "Slope_Deaths_New_Per_Million": -1.13
+ "Slope_Cases_New_Per_Million": -0.98,
+ "Slope_Deaths_New_Per_Million": -0.73
 }

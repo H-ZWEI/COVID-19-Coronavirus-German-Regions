@@ -1,15 +1,15 @@
 {
  "BL_Code": "HE",
  "Bundesland": "Hessen",
- "Cases": 1014,
- "Cases_Last_Week": 125,
- "Cases_Last_Week_Per_100000": 129.2,
- "Cases_Last_Week_Per_Million": 1292,
- "Cases_New": 18,
- "Cases_Per_Million": 10485,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 90.5,
+ "Cases": 1033,
+ "Cases_Last_Week": 128,
+ "Cases_Last_Week_Per_100000": 132.3,
+ "Cases_Last_Week_Per_Million": 1323,
+ "Cases_New": 19,
+ "Cases_Per_Million": 10682,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 89.7,
  "DIVI_Intensivstationen_Covid_Prozent": 4.0,
- "Date_Latest": "2020-11-12",
+ "Date_Latest": "2020-11-13",
  "Deaths": 72,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Odenwaldkreis (Landkreis)",
  "Population": 96703,
- "Slope_Cases_New_Per_Million": -25.05,
- "Slope_Deaths_New_Per_Million": -1.02
+ "Slope_Cases_New_Per_Million": -18.44,
+ "Slope_Deaths_New_Per_Million": -0.91
 }

@@ -3627,15 +3627,15 @@
   "Continent": "North America",
   "Country": "United States",
   "Date_Latest": "2020-11-12",
-  "Deaths": 242423,
-  "Deaths_Last_Week": 6999,
-  "Deaths_Last_Week_Per_Million": 21.39,
-  "Deaths_New": 919,
-  "Deaths_Per_Million": 740,
+  "Deaths": 242901,
+  "Deaths_Last_Week": 7025,
+  "Deaths_Last_Week_Per_Million": 21.47,
+  "Deaths_New": 924,
+  "Deaths_Per_Million": 742,
   "DoublingTime_Cases_Last_Week_Per_100000": 16.3,
   "Population": 327167434,
   "Slope_Cases_New_Per_Million": 92.72,
-  "Slope_Deaths_New_Per_Million": 0.35
+  "Slope_Deaths_New_Per_Million": 0.38
  },
  {
   "Cases": 3795,

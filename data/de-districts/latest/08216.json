@@ -1,15 +1,15 @@
 {
  "BL_Code": "BW",
  "Bundesland": "Baden-Württemberg",
- "Cases": 1966,
- "Cases_Last_Week": 227,
- "Cases_Last_Week_Per_100000": 98.0,
- "Cases_Last_Week_Per_Million": 980,
- "Cases_New": 6,
- "Cases_Per_Million": 8495,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 75.0,
+ "Cases": 1994,
+ "Cases_Last_Week": 219,
+ "Cases_Last_Week_Per_100000": 94.6,
+ "Cases_Last_Week_Per_Million": 946,
+ "Cases_New": 0,
+ "Cases_Per_Million": 8616,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 100.0,
  "DIVI_Intensivstationen_Covid_Prozent": 0.0,
- "Date_Latest": "2020-11-12",
+ "Date_Latest": "2020-11-13",
  "Deaths": 22,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Rastatt (Landkreis)",
  "Population": 231420,
- "Slope_Cases_New_Per_Million": -18.89,
- "Slope_Deaths_New_Per_Million": -0.92
+ "Slope_Cases_New_Per_Million": -28.21,
+ "Slope_Deaths_New_Per_Million": -0.88
 }
