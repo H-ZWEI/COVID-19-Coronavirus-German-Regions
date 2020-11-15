@@ -1,15 +1,15 @@
 {
  "BL_Code": "MV",
  "Bundesland": "Mecklenburg-Vorpommern",
- "Cases": 858,
- "Cases_Last_Week": 181,
- "Cases_Last_Week_Per_100000": 76.8,
- "Cases_Last_Week_Per_Million": 768,
- "Cases_New": 24,
- "Cases_Per_Million": 3641,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 81.4,
- "DIVI_Intensivstationen_Covid_Prozent": 4.0,
- "Date_Latest": "2020-11-13",
+ "Cases": 884,
+ "Cases_Last_Week": 176,
+ "Cases_Last_Week_Per_100000": 74.6,
+ "Cases_Last_Week_Per_Million": 746,
+ "Cases_New": 8,
+ "Cases_Per_Million": 3751,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 78.9,
+ "DIVI_Intensivstationen_Covid_Prozent": 3.5,
+ "Date_Latest": "2020-11-14",
  "Deaths": 9,
  "Deaths_Last_Week": 1,
  "Deaths_Last_Week_Per_Million": 4.24,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Vorpommern-Greifswald (Landkreis)",
  "Population": 235623,
- "Slope_Cases_New_Per_Million": 4.67,
- "Slope_Deaths_New_Per_Million": 0.37
+ "Slope_Cases_New_Per_Million": 3.28,
+ "Slope_Deaths_New_Per_Million": 0.42
 }

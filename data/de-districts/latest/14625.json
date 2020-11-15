@@ -1,15 +1,15 @@
 {
  "BL_Code": "SN",
  "Bundesland": "Sachsen",
- "Cases": 3759,
- "Cases_Last_Week": 956,
- "Cases_Last_Week_Per_100000": 318.9,
- "Cases_Last_Week_Per_Million": 3189,
- "Cases_New": 128,
- "Cases_Per_Million": 12540,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 83.3,
- "DIVI_Intensivstationen_Covid_Prozent": 34.7,
- "Date_Latest": "2020-11-13",
+ "Cases": 3861,
+ "Cases_Last_Week": 897,
+ "Cases_Last_Week_Per_100000": 299.2,
+ "Cases_Last_Week_Per_Million": 2992,
+ "Cases_New": 89,
+ "Cases_Per_Million": 12880,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 77.8,
+ "DIVI_Intensivstationen_Covid_Prozent": 33.3,
+ "Date_Latest": "2020-11-14",
  "Deaths": 43,
  "Deaths_Last_Week": 1,
  "Deaths_Last_Week_Per_Million": 3.34,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Bautzen (Landkreis)",
  "Population": 299758,
- "Slope_Cases_New_Per_Million": 34.78,
- "Slope_Deaths_New_Per_Million": -2.26
+ "Slope_Cases_New_Per_Million": 16.91,
+ "Slope_Deaths_New_Per_Million": -2.45
 }

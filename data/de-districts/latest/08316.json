@@ -1,15 +1,15 @@
 {
  "BL_Code": "BW",
  "Bundesland": "Baden-Württemberg",
- "Cases": 1686,
- "Cases_Last_Week": 188,
- "Cases_Last_Week_Per_100000": 112.9,
- "Cases_Last_Week_Per_Million": 1129,
- "Cases_New": 13,
- "Cases_Per_Million": 10131,
+ "Cases": 1712,
+ "Cases_Last_Week": 185,
+ "Cases_Last_Week_Per_100000": 111.1,
+ "Cases_Last_Week_Per_Million": 1111,
+ "Cases_New": 23,
+ "Cases_Per_Million": 10287,
  "DIVI_Intensivstationen_Betten_belegt_Prozent": 97.8,
  "DIVI_Intensivstationen_Covid_Prozent": 1.1,
- "Date_Latest": "2020-11-13",
+ "Date_Latest": "2020-11-14",
  "Deaths": 47,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Emmendingen (Landkreis)",
  "Population": 166408,
- "Slope_Cases_New_Per_Million": -23.66,
- "Slope_Deaths_New_Per_Million": -0.91
+ "Slope_Cases_New_Per_Million": -39.53,
+ "Slope_Deaths_New_Per_Million": -1.06
 }

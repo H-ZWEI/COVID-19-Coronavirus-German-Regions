@@ -1,15 +1,15 @@
 {
  "BL_Code": "BW",
  "Bundesland": "Baden-Württemberg",
- "Cases": 2831,
- "Cases_Last_Week": 225,
- "Cases_Last_Week_Per_100000": 98.3,
- "Cases_Last_Week_Per_Million": 983,
- "Cases_New": 31,
- "Cases_Per_Million": 12379,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 87.0,
- "DIVI_Intensivstationen_Covid_Prozent": 10.2,
- "Date_Latest": "2020-11-13",
+ "Cases": 2882,
+ "Cases_Last_Week": 246,
+ "Cases_Last_Week_Per_100000": 107.5,
+ "Cases_Last_Week_Per_Million": 1075,
+ "Cases_New": 36,
+ "Cases_Per_Million": 12602,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 89.6,
+ "DIVI_Intensivstationen_Covid_Prozent": 10.4,
+ "Date_Latest": "2020-11-14",
  "Deaths": 74,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Tübingen (Landkreis)",
  "Population": 228678,
- "Slope_Cases_New_Per_Million": -24.53,
- "Slope_Deaths_New_Per_Million": -2.52
+ "Slope_Cases_New_Per_Million": -29.26,
+ "Slope_Deaths_New_Per_Million": -1.9
 }

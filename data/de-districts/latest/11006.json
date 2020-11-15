@@ -1,15 +1,15 @@
 {
  "BL_Code": "BE",
  "Bundesland": "Berlin",
- "Cases": 2884,
- "Cases_Last_Week": 363,
- "Cases_Last_Week_Per_100000": 120.1,
- "Cases_Last_Week_Per_Million": 1201,
- "Cases_New": 2,
- "Cases_Per_Million": 9544,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 86.9,
- "DIVI_Intensivstationen_Covid_Prozent": 22.5,
- "Date_Latest": "2020-11-13",
+ "Cases": 2940,
+ "Cases_Last_Week": 366,
+ "Cases_Last_Week_Per_100000": 121.1,
+ "Cases_Last_Week_Per_Million": 1211,
+ "Cases_New": 9,
+ "Cases_Per_Million": 9729,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 85.3,
+ "DIVI_Intensivstationen_Covid_Prozent": 22.3,
+ "Date_Latest": "2020-11-14",
  "Deaths": 19,
  "Deaths_Last_Week": 2,
  "Deaths_Last_Week_Per_Million": 6.62,
@@ -20,6 +20,6 @@
  "LK_Typ": "Bezirk",
  "Landkreis": "Berlin Steglitz-Zehlendorf (Bezirk)",
  "Population": 302177,
- "Slope_Cases_New_Per_Million": -6.2,
- "Slope_Deaths_New_Per_Million": 0.07
+ "Slope_Cases_New_Per_Million": -1.82,
+ "Slope_Deaths_New_Per_Million": 0.14
 }
