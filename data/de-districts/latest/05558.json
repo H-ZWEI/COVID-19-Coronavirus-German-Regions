@@ -1,15 +1,15 @@
 {
  "BL_Code": "NW",
  "Bundesland": "Nordrhein-Westfalen",
- "Cases": 1721,
- "Cases_Last_Week": 152,
- "Cases_Last_Week_Per_100000": 68.9,
- "Cases_Last_Week_Per_Million": 689,
- "Cases_New": 0,
- "Cases_Per_Million": 7801,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 82.4,
- "DIVI_Intensivstationen_Covid_Prozent": 5.9,
- "Date_Latest": "2020-11-14",
+ "Cases": 1758,
+ "Cases_Last_Week": 189,
+ "Cases_Last_Week_Per_100000": 85.6,
+ "Cases_Last_Week_Per_Million": 856,
+ "Cases_New": 2,
+ "Cases_Per_Million": 7969,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 76.5,
+ "DIVI_Intensivstationen_Covid_Prozent": 0.0,
+ "Date_Latest": "2020-11-15",
  "Deaths": 26,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Kreis",
  "Landkreis": "Coesfeld (Kreis)",
  "Population": 220586,
- "Slope_Cases_New_Per_Million": -20.35,
- "Slope_Deaths_New_Per_Million": -0.13
+ "Slope_Cases_New_Per_Million": -15.76,
+ "Slope_Deaths_New_Per_Million": 0.0
 }

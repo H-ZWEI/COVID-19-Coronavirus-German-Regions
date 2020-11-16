@@ -1,15 +1,15 @@
 {
  "BL_Code": "BY",
  "Bundesland": "Bayern",
- "Cases": 866,
- "Cases_Last_Week": 111,
- "Cases_Last_Week_Per_100000": 125.5,
- "Cases_Last_Week_Per_Million": 1255,
+ "Cases": 879,
+ "Cases_Last_Week": 120,
+ "Cases_Last_Week_Per_100000": 135.7,
+ "Cases_Last_Week_Per_Million": 1357,
  "Cases_New": 0,
- "Cases_Per_Million": 9793,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 68.5,
- "DIVI_Intensivstationen_Covid_Prozent": 4.5,
- "Date_Latest": "2020-11-14",
+ "Cases_Per_Million": 9940,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 62.9,
+ "DIVI_Intensivstationen_Covid_Prozent": 3.4,
+ "Date_Latest": "2020-11-15",
  "Deaths": 21,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Garmisch-Partenkirchen (Landkreis)",
  "Population": 88424,
- "Slope_Cases_New_Per_Million": -26.72,
- "Slope_Deaths_New_Per_Million": -1.19
+ "Slope_Cases_New_Per_Million": -30.01,
+ "Slope_Deaths_New_Per_Million": -1.12
 }

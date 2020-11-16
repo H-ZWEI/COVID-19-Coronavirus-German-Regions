@@ -1,15 +1,15 @@
 {
  "BL_Code": "SN",
  "Bundesland": "Sachsen",
- "Cases": 5540,
- "Cases_Last_Week": 847,
- "Cases_Last_Week_Per_100000": 252.8,
- "Cases_Last_Week_Per_Million": 2528,
- "Cases_New": 43,
- "Cases_Per_Million": 16539,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 80.0,
- "DIVI_Intensivstationen_Covid_Prozent": 31.6,
- "Date_Latest": "2020-11-14",
+ "Cases": 5740,
+ "Cases_Last_Week": 939,
+ "Cases_Last_Week_Per_100000": 280.3,
+ "Cases_Last_Week_Per_Million": 2803,
+ "Cases_New": 44,
+ "Cases_Per_Million": 17136,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 71.6,
+ "DIVI_Intensivstationen_Covid_Prozent": 30.5,
+ "Date_Latest": "2020-11-15",
  "Deaths": 131,
  "Deaths_Last_Week": 7,
  "Deaths_Last_Week_Per_Million": 20.9,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Erzgebirgskreis (Landkreis)",
  "Population": 334948,
- "Slope_Cases_New_Per_Million": -42.84,
- "Slope_Deaths_New_Per_Million": -2.88
+ "Slope_Cases_New_Per_Million": -50.47,
+ "Slope_Deaths_New_Per_Million": -2.51
 }
