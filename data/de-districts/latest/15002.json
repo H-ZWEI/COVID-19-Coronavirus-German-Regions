@@ -1,15 +1,15 @@
 {
  "BL_Code": "ST",
  "Bundesland": "Sachsen-Anhalt",
- "Cases": 1157,
- "Cases_Last_Week": 88,
- "Cases_Last_Week_Per_100000": 36.8,
- "Cases_Last_Week_Per_Million": 368,
+ "Cases": 1190,
+ "Cases_Last_Week": 117,
+ "Cases_Last_Week_Per_100000": 49.0,
+ "Cases_Last_Week_Per_Million": 490,
  "Cases_New": 0,
- "Cases_Per_Million": 4845,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 84.6,
- "DIVI_Intensivstationen_Covid_Prozent": 5.6,
- "Date_Latest": "2020-11-15",
+ "Cases_Per_Million": 4984,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 84.1,
+ "DIVI_Intensivstationen_Covid_Prozent": 5.8,
+ "Date_Latest": "2020-11-16",
  "Deaths": 15,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Kreisfreie Stadt",
  "Landkreis": "Halle (Saale) (Kreisfreie Stadt)",
  "Population": 238762,
- "Slope_Cases_New_Per_Million": -24.3,
- "Slope_Deaths_New_Per_Million": -0.06
+ "Slope_Cases_New_Per_Million": -21.47,
+ "Slope_Deaths_New_Per_Million": -0.19
 }

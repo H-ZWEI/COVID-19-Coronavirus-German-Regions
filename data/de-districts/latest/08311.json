@@ -1,15 +1,15 @@
 {
  "BL_Code": "BW",
  "Bundesland": "Baden-Württemberg",
- "Cases": 2427,
- "Cases_Last_Week": 169,
- "Cases_Last_Week_Per_100000": 73.0,
- "Cases_Last_Week_Per_Million": 730,
- "Cases_New": 4,
- "Cases_Per_Million": 10497,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 91.0,
- "DIVI_Intensivstationen_Covid_Prozent": 9.0,
- "Date_Latest": "2020-11-15",
+ "Cases": 2444,
+ "Cases_Last_Week": 175,
+ "Cases_Last_Week_Per_100000": 75.6,
+ "Cases_Last_Week_Per_Million": 756,
+ "Cases_New": 2,
+ "Cases_Per_Million": 10571,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 86.4,
+ "DIVI_Intensivstationen_Covid_Prozent": 8.0,
+ "Date_Latest": "2020-11-16",
  "Deaths": 82,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Stadtkreis",
  "Landkreis": "Freiburg im Breisgau (Stadtkreis)",
  "Population": 231195,
- "Slope_Cases_New_Per_Million": -54.28,
- "Slope_Deaths_New_Per_Million": -0.31
+ "Slope_Cases_New_Per_Million": -43.03,
+ "Slope_Deaths_New_Per_Million": -0.23
 }

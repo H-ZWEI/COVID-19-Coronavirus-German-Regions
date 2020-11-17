@@ -1,15 +1,15 @@
 {
  "BL_Code": "HE",
  "Bundesland": "Hessen",
- "Cases": 480,
- "Cases_Last_Week": 72,
- "Cases_Last_Week_Per_100000": 68.1,
- "Cases_Last_Week_Per_Million": 681,
- "Cases_New": 1,
- "Cases_Per_Million": 4543,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 65.5,
- "DIVI_Intensivstationen_Covid_Prozent": 10.3,
- "Date_Latest": "2020-11-15",
+ "Cases": 490,
+ "Cases_Last_Week": 75,
+ "Cases_Last_Week_Per_100000": 70.9,
+ "Cases_Last_Week_Per_Million": 709,
+ "Cases_New": 10,
+ "Cases_Per_Million": 4638,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 58.6,
+ "DIVI_Intensivstationen_Covid_Prozent": 13.8,
+ "Date_Latest": "2020-11-16",
  "Deaths": 7,
  "Deaths_Last_Week": 1,
  "Deaths_Last_Week_Per_Million": 9.47,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Vogelsbergkreis (Landkreis)",
  "Population": 105643,
- "Slope_Cases_New_Per_Million": 5.5,
- "Slope_Deaths_New_Per_Million": 1.0
+ "Slope_Cases_New_Per_Million": 10.88,
+ "Slope_Deaths_New_Per_Million": 1.02
 }
