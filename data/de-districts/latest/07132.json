@@ -1,15 +1,15 @@
 {
  "BL_Code": "RP",
  "Bundesland": "Rheinland-Pfalz",
- "Cases": 893,
- "Cases_Last_Week": 92,
- "Cases_Last_Week_Per_100000": 71.4,
- "Cases_Last_Week_Per_Million": 714,
- "Cases_New": 6,
- "Cases_Per_Million": 6932,
+ "Cases": 896,
+ "Cases_Last_Week": 82,
+ "Cases_Last_Week_Per_100000": 63.6,
+ "Cases_Last_Week_Per_Million": 636,
+ "Cases_New": 0,
+ "Cases_Per_Million": 6956,
  "DIVI_Intensivstationen_Betten_belegt_Prozent": 75.0,
  "DIVI_Intensivstationen_Covid_Prozent": 6.2,
- "Date_Latest": "2020-11-16",
+ "Date_Latest": "2020-11-17",
  "Deaths": 15,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Altenkirchen (Westerwald) (Landkreis)",
  "Population": 128805,
- "Slope_Cases_New_Per_Million": -15.53,
- "Slope_Deaths_New_Per_Million": -1.4
+ "Slope_Cases_New_Per_Million": -12.44,
+ "Slope_Deaths_New_Per_Million": -1.37
 }

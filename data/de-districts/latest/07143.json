@@ -1,15 +1,15 @@
 {
  "BL_Code": "RP",
  "Bundesland": "Rheinland-Pfalz",
- "Cases": 1498,
- "Cases_Last_Week": 193,
- "Cases_Last_Week_Per_100000": 95.5,
- "Cases_Last_Week_Per_Million": 955,
- "Cases_New": 11,
- "Cases_Per_Million": 7419,
+ "Cases": 1512,
+ "Cases_Last_Week": 167,
+ "Cases_Last_Week_Per_100000": 82.7,
+ "Cases_Last_Week_Per_Million": 827,
+ "Cases_New": 9,
+ "Cases_Per_Million": 7488,
  "DIVI_Intensivstationen_Betten_belegt_Prozent": 78.4,
  "DIVI_Intensivstationen_Covid_Prozent": 8.1,
- "Date_Latest": "2020-11-16",
+ "Date_Latest": "2020-11-17",
  "Deaths": 26,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Westerwaldkreis (Landkreis)",
  "Population": 201904,
- "Slope_Cases_New_Per_Million": 3.86,
- "Slope_Deaths_New_Per_Million": -0.44
+ "Slope_Cases_New_Per_Million": -4.49,
+ "Slope_Deaths_New_Per_Million": -0.36
 }

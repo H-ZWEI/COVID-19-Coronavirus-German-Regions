@@ -9,7 +9,7 @@
  "Cases_Per_Million": 5264,
  "DIVI_Intensivstationen_Betten_belegt_Prozent": 42.9,
  "DIVI_Intensivstationen_Covid_Prozent": 0.0,
- "Date_Latest": "2020-11-16",
+ "Date_Latest": "2020-11-17",
  "Deaths": 2,
  "Deaths_Last_Week": 1,
  "Deaths_Last_Week_Per_Million": 29.25,
@@ -20,6 +20,6 @@
  "LK_Typ": "Kreisfreie Stadt",
  "Landkreis": "Zweibrücken (Kreisfreie Stadt)",
  "Population": 34193,
- "Slope_Cases_New_Per_Million": 42.68,
- "Slope_Deaths_New_Per_Million": 2.12
+ "Slope_Cases_New_Per_Million": 51.99,
+ "Slope_Deaths_New_Per_Million": 2.57
 }

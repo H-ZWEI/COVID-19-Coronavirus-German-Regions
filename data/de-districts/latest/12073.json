@@ -1,15 +1,15 @@
 {
  "BL_Code": "BB",
  "Bundesland": "Brandenburg",
- "Cases": 330,
- "Cases_Last_Week": 47,
- "Cases_Last_Week_Per_100000": 39.5,
- "Cases_Last_Week_Per_Million": 395,
+ "Cases": 341,
+ "Cases_Last_Week": 58,
+ "Cases_Last_Week_Per_100000": 48.7,
+ "Cases_Last_Week_Per_Million": 487,
  "Cases_New": 0,
- "Cases_Per_Million": 2774,
+ "Cases_Per_Million": 2866,
  "DIVI_Intensivstationen_Betten_belegt_Prozent": 75.0,
  "DIVI_Intensivstationen_Covid_Prozent": 10.7,
- "Date_Latest": "2020-11-16",
+ "Date_Latest": "2020-11-17",
  "Deaths": 8,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Uckermark (Landkreis)",
  "Population": 118947,
- "Slope_Cases_New_Per_Million": -34.37,
- "Slope_Deaths_New_Per_Million": -0.44
+ "Slope_Cases_New_Per_Million": -30.26,
+ "Slope_Deaths_New_Per_Million": -0.24
 }

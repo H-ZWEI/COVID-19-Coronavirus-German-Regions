@@ -1,15 +1,15 @@
 {
  "BL_Code": "BY",
  "Bundesland": "Bayern",
- "Cases": 434,
- "Cases_Last_Week": 45,
- "Cases_Last_Week_Per_100000": 107.6,
- "Cases_Last_Week_Per_Million": 1076,
- "Cases_New": 11,
- "Cases_Per_Million": 10383,
+ "Cases": 438,
+ "Cases_Last_Week": 40,
+ "Cases_Last_Week_Per_100000": 95.6,
+ "Cases_Last_Week_Per_Million": 956,
+ "Cases_New": 2,
+ "Cases_Per_Million": 10478,
  "DIVI_Intensivstationen_Betten_belegt_Prozent": 70.4,
  "DIVI_Intensivstationen_Covid_Prozent": 7.4,
- "Date_Latest": "2020-11-16",
+ "Date_Latest": "2020-11-17",
  "Deaths": 9,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Kreisfreie Stadt",
  "Landkreis": "Ansbach (Kreisfreie Stadt)",
  "Population": 41798,
- "Slope_Cases_New_Per_Million": -78.08,
- "Slope_Deaths_New_Per_Million": -2.52
+ "Slope_Cases_New_Per_Million": -78.95,
+ "Slope_Deaths_New_Per_Million": -2.37
 }

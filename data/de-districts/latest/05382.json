@@ -1,15 +1,15 @@
 {
  "BL_Code": "NW",
  "Bundesland": "Nordrhein-Westfalen",
- "Cases": 6184,
- "Cases_Last_Week": 910,
- "Cases_Last_Week_Per_100000": 151.4,
- "Cases_Last_Week_Per_Million": 1514,
- "Cases_New": 235,
- "Cases_Per_Million": 10293,
+ "Cases": 6220,
+ "Cases_Last_Week": 846,
+ "Cases_Last_Week_Per_100000": 140.8,
+ "Cases_Last_Week_Per_Million": 1408,
+ "Cases_New": 36,
+ "Cases_Per_Million": 10353,
  "DIVI_Intensivstationen_Betten_belegt_Prozent": 74.4,
  "DIVI_Intensivstationen_Covid_Prozent": 9.8,
- "Date_Latest": "2020-11-16",
+ "Date_Latest": "2020-11-17",
  "Deaths": 73,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Kreis",
  "Landkreis": "Rhein-Sieg-Kreis (Kreis)",
  "Population": 600764,
- "Slope_Cases_New_Per_Million": -9.53,
- "Slope_Deaths_New_Per_Million": -0.62
+ "Slope_Cases_New_Per_Million": -12.17,
+ "Slope_Deaths_New_Per_Million": -0.6
 }
