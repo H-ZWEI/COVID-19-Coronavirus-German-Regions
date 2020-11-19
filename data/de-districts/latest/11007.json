@@ -1,15 +1,15 @@
 {
  "BL_Code": "BE",
  "Bundesland": "Berlin",
- "Cases": 5486,
- "Cases_Last_Week": 872,
- "Cases_Last_Week_Per_100000": 255.1,
- "Cases_Last_Week_Per_Million": 2551,
- "Cases_New": 62,
- "Cases_Per_Million": 16051,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 87.2,
- "DIVI_Intensivstationen_Covid_Prozent": 23.1,
- "Date_Latest": "2020-11-17",
+ "Cases": 5632,
+ "Cases_Last_Week": 831,
+ "Cases_Last_Week_Per_100000": 243.1,
+ "Cases_Last_Week_Per_Million": 2431,
+ "Cases_New": 48,
+ "Cases_Per_Million": 16478,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 86.9,
+ "DIVI_Intensivstationen_Covid_Prozent": 23.8,
+ "Date_Latest": "2020-11-18",
  "Deaths": 41,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Bezirk",
  "Landkreis": "Berlin Tempelhof-Schöneberg (Bezirk)",
  "Population": 341772,
- "Slope_Cases_New_Per_Million": 22.16,
- "Slope_Deaths_New_Per_Million": -1.42
+ "Slope_Cases_New_Per_Million": 10.59,
+ "Slope_Deaths_New_Per_Million": -1.52
 }

@@ -1,15 +1,15 @@
 {
  "BL_Code": "HE",
  "Bundesland": "Hessen",
- "Cases": 988,
- "Cases_Last_Week": 141,
- "Cases_Last_Week_Per_100000": 90.1,
- "Cases_Last_Week_Per_Million": 901,
- "Cases_New": 9,
- "Cases_Per_Million": 6316,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 65.6,
+ "Cases": 1009,
+ "Cases_Last_Week": 131,
+ "Cases_Last_Week_Per_100000": 83.7,
+ "Cases_Last_Week_Per_Million": 837,
+ "Cases_New": 19,
+ "Cases_Per_Million": 6451,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 70.0,
  "DIVI_Intensivstationen_Covid_Prozent": 5.6,
- "Date_Latest": "2020-11-17",
+ "Date_Latest": "2020-11-18",
  "Deaths": 11,
  "Deaths_Last_Week": 1,
  "Deaths_Last_Week_Per_Million": 6.39,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Waldeck-Frankenberg (Landkreis)",
  "Population": 156406,
- "Slope_Cases_New_Per_Million": -20.38,
- "Slope_Deaths_New_Per_Million": -0.53
+ "Slope_Cases_New_Per_Million": -24.33,
+ "Slope_Deaths_New_Per_Million": -0.66
 }

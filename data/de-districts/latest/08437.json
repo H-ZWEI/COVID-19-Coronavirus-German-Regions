@@ -1,15 +1,15 @@
 {
  "BL_Code": "BW",
  "Bundesland": "Baden-Württemberg",
- "Cases": 1318,
- "Cases_Last_Week": 89,
- "Cases_Last_Week_Per_100000": 68.0,
- "Cases_Last_Week_Per_Million": 680,
- "Cases_New": 4,
- "Cases_Per_Million": 10072,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 63.2,
+ "Cases": 1356,
+ "Cases_Last_Week": 100,
+ "Cases_Last_Week_Per_100000": 76.4,
+ "Cases_Last_Week_Per_Million": 764,
+ "Cases_New": 20,
+ "Cases_Per_Million": 10363,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 78.9,
  "DIVI_Intensivstationen_Covid_Prozent": 0.0,
- "Date_Latest": "2020-11-17",
+ "Date_Latest": "2020-11-18",
  "Deaths": 38,
  "Deaths_Last_Week": 1,
  "Deaths_Last_Week_Per_Million": 7.64,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Sigmaringen (Landkreis)",
  "Population": 130849,
- "Slope_Cases_New_Per_Million": -16.81,
- "Slope_Deaths_New_Per_Million": 0.13
+ "Slope_Cases_New_Per_Million": -14.44,
+ "Slope_Deaths_New_Per_Million": 0.27
 }

@@ -1,15 +1,15 @@
 {
  "BL_Code": "RP",
  "Bundesland": "Rheinland-Pfalz",
- "Cases": 153,
- "Cases_Last_Week": 22,
- "Cases_Last_Week_Per_100000": 54.6,
- "Cases_Last_Week_Per_Million": 546,
- "Cases_New": 1,
- "Cases_Per_Million": 3803,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 81.2,
+ "Cases": 156,
+ "Cases_Last_Week": 20,
+ "Cases_Last_Week_Per_100000": 49.7,
+ "Cases_Last_Week_Per_Million": 497,
+ "Cases_New": 3,
+ "Cases_Per_Million": 3877,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 62.5,
  "DIVI_Intensivstationen_Covid_Prozent": 6.2,
- "Date_Latest": "2020-11-17",
+ "Date_Latest": "2020-11-18",
  "Deaths": 1,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Kreisfreie Stadt",
  "Landkreis": "Pirmasens (Kreisfreie Stadt)",
  "Population": 40231,
- "Slope_Cases_New_Per_Million": -24.16,
- "Slope_Deaths_New_Per_Million": -2.46
+ "Slope_Cases_New_Per_Million": -20.1,
+ "Slope_Deaths_New_Per_Million": -2.19
 }
