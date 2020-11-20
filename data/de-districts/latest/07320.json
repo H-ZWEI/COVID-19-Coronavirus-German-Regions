@@ -1,15 +1,15 @@
 {
  "BL_Code": "RP",
  "Bundesland": "Rheinland-Pfalz",
- "Cases": 186,
- "Cases_Last_Week": 34,
- "Cases_Last_Week_Per_100000": 99.4,
- "Cases_Last_Week_Per_Million": 994,
- "Cases_New": 5,
- "Cases_Per_Million": 5439,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 50.0,
+ "Cases": 190,
+ "Cases_Last_Week": 31,
+ "Cases_Last_Week_Per_100000": 90.6,
+ "Cases_Last_Week_Per_Million": 906,
+ "Cases_New": 4,
+ "Cases_Per_Million": 5556,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 71.4,
  "DIVI_Intensivstationen_Covid_Prozent": 0.0,
- "Date_Latest": "2020-11-18",
+ "Date_Latest": "2020-11-19",
  "Deaths": 2,
  "Deaths_Last_Week": 1,
  "Deaths_Last_Week_Per_Million": 29.25,
@@ -20,6 +20,6 @@
  "LK_Typ": "Kreisfreie Stadt",
  "Landkreis": "Zweibrücken (Kreisfreie Stadt)",
  "Population": 34193,
- "Slope_Cases_New_Per_Million": 58.18,
- "Slope_Deaths_New_Per_Million": 2.89
+ "Slope_Cases_New_Per_Million": 55.66,
+ "Slope_Deaths_New_Per_Million": 3.09
 }

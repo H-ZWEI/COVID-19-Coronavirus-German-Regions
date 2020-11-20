@@ -1,15 +1,15 @@
 {
  "BL_Code": "BW",
  "Bundesland": "Baden-Württemberg",
- "Cases": 1557,
- "Cases_Last_Week": 119,
- "Cases_Last_Week_Per_100000": 59.1,
- "Cases_Last_Week_Per_Million": 591,
- "Cases_New": 8,
- "Cases_Per_Million": 7735,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 94.4,
+ "Cases": 1576,
+ "Cases_Last_Week": 111,
+ "Cases_Last_Week_Per_100000": 55.1,
+ "Cases_Last_Week_Per_Million": 551,
+ "Cases_New": 5,
+ "Cases_Per_Million": 7829,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 88.9,
  "DIVI_Intensivstationen_Covid_Prozent": 5.6,
- "Date_Latest": "2020-11-18",
+ "Date_Latest": "2020-11-19",
  "Deaths": 42,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Biberach (Landkreis)",
  "Population": 201282,
- "Slope_Cases_New_Per_Million": -21.38,
- "Slope_Deaths_New_Per_Million": -0.72
+ "Slope_Cases_New_Per_Million": -22.47,
+ "Slope_Deaths_New_Per_Million": -0.82
 }

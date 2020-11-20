@@ -1,15 +1,15 @@
 {
  "BL_Code": "BY",
  "Bundesland": "Bayern",
- "Cases": 1293,
- "Cases_Last_Week": 95,
- "Cases_Last_Week_Per_100000": 70.5,
- "Cases_Last_Week_Per_Million": 705,
- "Cases_New": 1,
- "Cases_Per_Million": 9608,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 100.0,
+ "Cases": 1343,
+ "Cases_Last_Week": 131,
+ "Cases_Last_Week_Per_100000": 97.3,
+ "Cases_Last_Week_Per_Million": 973,
+ "Cases_New": 33,
+ "Cases_Per_Million": 9979,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 72.7,
  "DIVI_Intensivstationen_Covid_Prozent": 18.2,
- "Date_Latest": "2020-11-18",
+ "Date_Latest": "2020-11-19",
  "Deaths": 41,
  "Deaths_Last_Week": 1,
  "Deaths_Last_Week_Per_Million": 7.43,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Neumarkt i.d. OPf. (Landkreis)",
  "Population": 134573,
- "Slope_Cases_New_Per_Million": -22.32,
- "Slope_Deaths_New_Per_Million": 0.16
+ "Slope_Cases_New_Per_Million": -40.47,
+ "Slope_Deaths_New_Per_Million": -0.82
 }

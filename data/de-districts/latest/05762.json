@@ -1,15 +1,15 @@
 {
  "BL_Code": "NW",
  "Bundesland": "Nordrhein-Westfalen",
- "Cases": 1078,
- "Cases_Last_Week": 122,
- "Cases_Last_Week_Per_100000": 86.9,
- "Cases_Last_Week_Per_Million": 869,
- "Cases_New": 29,
- "Cases_Per_Million": 7686,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 65.3,
- "DIVI_Intensivstationen_Covid_Prozent": 6.1,
- "Date_Latest": "2020-11-18",
+ "Cases": 1119,
+ "Cases_Last_Week": 137,
+ "Cases_Last_Week_Per_100000": 97.6,
+ "Cases_Last_Week_Per_Million": 976,
+ "Cases_New": 41,
+ "Cases_Per_Million": 7978,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 57.1,
+ "DIVI_Intensivstationen_Covid_Prozent": 4.1,
+ "Date_Latest": "2020-11-19",
  "Deaths": 20,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Kreis",
  "Landkreis": "Höxter (Kreis)",
  "Population": 140251,
- "Slope_Cases_New_Per_Million": -21.5,
- "Slope_Deaths_New_Per_Million": -0.52
+ "Slope_Cases_New_Per_Million": -18.84,
+ "Slope_Deaths_New_Per_Million": -0.38
 }

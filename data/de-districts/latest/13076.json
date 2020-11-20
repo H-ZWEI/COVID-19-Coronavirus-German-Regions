@@ -1,15 +1,15 @@
 {
  "BL_Code": "MV",
  "Bundesland": "Mecklenburg-Vorpommern",
- "Cases": 650,
- "Cases_Last_Week": 93,
- "Cases_Last_Week_Per_100000": 43.9,
- "Cases_Last_Week_Per_Million": 439,
- "Cases_New": 20,
- "Cases_Per_Million": 3069,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 76.6,
+ "Cases": 662,
+ "Cases_Last_Week": 94,
+ "Cases_Last_Week_Per_100000": 44.3,
+ "Cases_Last_Week_Per_Million": 443,
+ "Cases_New": 12,
+ "Cases_Per_Million": 3125,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 73.4,
  "DIVI_Intensivstationen_Covid_Prozent": 0.0,
- "Date_Latest": "2020-11-18",
+ "Date_Latest": "2020-11-19",
  "Deaths": 4,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Ludwigslust-Parchim (Landkreis)",
  "Population": 211779,
- "Slope_Cases_New_Per_Million": 0.54,
- "Slope_Deaths_New_Per_Million": 0.36
+ "Slope_Cases_New_Per_Million": 2.45,
+ "Slope_Deaths_New_Per_Million": 0.22
 }

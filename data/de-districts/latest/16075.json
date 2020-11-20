@@ -1,15 +1,15 @@
 {
  "BL_Code": "TH",
  "Bundesland": "Thüringen",
- "Cases": 397,
- "Cases_Last_Week": 56,
- "Cases_Last_Week_Per_100000": 69.7,
- "Cases_Last_Week_Per_Million": 697,
- "Cases_New": 10,
- "Cases_Per_Million": 4943,
+ "Cases": 424,
+ "Cases_Last_Week": 72,
+ "Cases_Last_Week_Per_100000": 89.6,
+ "Cases_Last_Week_Per_Million": 896,
+ "Cases_New": 27,
+ "Cases_Per_Million": 5279,
  "DIVI_Intensivstationen_Betten_belegt_Prozent": 33.3,
  "DIVI_Intensivstationen_Covid_Prozent": 16.7,
- "Date_Latest": "2020-11-18",
+ "Date_Latest": "2020-11-19",
  "Deaths": 13,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Saale-Orla-Kreis (Landkreis)",
  "Population": 80312,
- "Slope_Cases_New_Per_Million": 2.09,
- "Slope_Deaths_New_Per_Million": -1.34
+ "Slope_Cases_New_Per_Million": 11.37,
+ "Slope_Deaths_New_Per_Million": -1.31
 }

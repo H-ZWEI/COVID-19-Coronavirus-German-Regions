@@ -1,15 +1,15 @@
 {
  "BL_Code": "RP",
  "Bundesland": "Rheinland-Pfalz",
- "Cases": 1144,
- "Cases_Last_Week": 203,
- "Cases_Last_Week_Per_100000": 156.0,
- "Cases_Last_Week_Per_Million": 1560,
- "Cases_New": 47,
- "Cases_Per_Million": 8794,
+ "Cases": 1176,
+ "Cases_Last_Week": 207,
+ "Cases_Last_Week_Per_100000": 159.1,
+ "Cases_Last_Week_Per_Million": 1591,
+ "Cases_New": 30,
+ "Cases_Per_Million": 9040,
  "DIVI_Intensivstationen_Betten_belegt_Prozent": 78.9,
  "DIVI_Intensivstationen_Covid_Prozent": 10.5,
- "Date_Latest": "2020-11-18",
+ "Date_Latest": "2020-11-19",
  "Deaths": 14,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Ahrweiler (Landkreis)",
  "Population": 130086,
- "Slope_Cases_New_Per_Million": -3.31,
- "Slope_Deaths_New_Per_Million": -4.93
+ "Slope_Cases_New_Per_Million": -10.48,
+ "Slope_Deaths_New_Per_Million": -5.47
 }

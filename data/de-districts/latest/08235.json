@@ -1,15 +1,15 @@
 {
  "BL_Code": "BW",
  "Bundesland": "Baden-Württemberg",
- "Cases": 1940,
- "Cases_Last_Week": 188,
- "Cases_Last_Week_Per_100000": 118.0,
- "Cases_Last_Week_Per_Million": 1180,
- "Cases_New": 34,
- "Cases_Per_Million": 12185,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 60.0,
- "DIVI_Intensivstationen_Covid_Prozent": 13.3,
- "Date_Latest": "2020-11-18",
+ "Cases": 1975,
+ "Cases_Last_Week": 190,
+ "Cases_Last_Week_Per_100000": 119.3,
+ "Cases_Last_Week_Per_Million": 1193,
+ "Cases_New": 21,
+ "Cases_Per_Million": 12405,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 80.0,
+ "DIVI_Intensivstationen_Covid_Prozent": 16.7,
+ "Date_Latest": "2020-11-19",
  "Deaths": 31,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Calw (Landkreis)",
  "Population": 159201,
- "Slope_Cases_New_Per_Million": -16.95,
- "Slope_Deaths_New_Per_Million": -0.66
+ "Slope_Cases_New_Per_Million": -27.2,
+ "Slope_Deaths_New_Per_Million": -0.62
 }
