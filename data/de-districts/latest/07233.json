@@ -1,15 +1,15 @@
 {
  "BL_Code": "RP",
  "Bundesland": "Rheinland-Pfalz",
- "Cases": 527,
- "Cases_Last_Week": 84,
- "Cases_Last_Week_Per_100000": 138.5,
- "Cases_Last_Week_Per_Million": 1385,
- "Cases_New": 10,
- "Cases_Per_Million": 8689,
+ "Cases": 542,
+ "Cases_Last_Week": 83,
+ "Cases_Last_Week_Per_100000": 136.8,
+ "Cases_Last_Week_Per_Million": 1368,
+ "Cases_New": 13,
+ "Cases_Per_Million": 8937,
  "DIVI_Intensivstationen_Betten_belegt_Prozent": 57.1,
  "DIVI_Intensivstationen_Covid_Prozent": 9.5,
- "Date_Latest": "2020-11-19",
+ "Date_Latest": "2020-11-20",
  "Deaths": 8,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Vulkaneifel (Landkreis)",
  "Population": 60646,
- "Slope_Cases_New_Per_Million": 69.6,
- "Slope_Deaths_New_Per_Million": -0.76
+ "Slope_Cases_New_Per_Million": 44.19,
+ "Slope_Deaths_New_Per_Million": -1.27
 }

@@ -1,15 +1,15 @@
 {
  "BL_Code": "BY",
  "Bundesland": "Bayern",
- "Cases": 5017,
- "Cases_Last_Week": 546,
- "Cases_Last_Week_Per_100000": 155.7,
- "Cases_Last_Week_Per_Million": 1557,
- "Cases_New": 29,
- "Cases_Per_Million": 14314,
+ "Cases": 5156,
+ "Cases_Last_Week": 592,
+ "Cases_Last_Week_Per_100000": 168.9,
+ "Cases_Last_Week_Per_Million": 1689,
+ "Cases_New": 46,
+ "Cases_Per_Million": 14711,
  "DIVI_Intensivstationen_Betten_belegt_Prozent": 46.2,
  "DIVI_Intensivstationen_Covid_Prozent": 0.0,
- "Date_Latest": "2020-11-19",
+ "Date_Latest": "2020-11-20",
  "Deaths": 100,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "München (Landkreis)",
  "Population": 350473,
- "Slope_Cases_New_Per_Million": -12.27,
- "Slope_Deaths_New_Per_Million": -0.31
+ "Slope_Cases_New_Per_Million": -10.73,
+ "Slope_Deaths_New_Per_Million": -0.3
 }

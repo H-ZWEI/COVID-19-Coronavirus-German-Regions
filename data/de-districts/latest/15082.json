@@ -1,15 +1,15 @@
 {
  "BL_Code": "ST",
  "Bundesland": "Sachsen-Anhalt",
- "Cases": 457,
- "Cases_Last_Week": 99,
- "Cases_Last_Week_Per_100000": 62.4,
- "Cases_Last_Week_Per_Million": 624,
- "Cases_New": 14,
- "Cases_Per_Million": 2883,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 56.1,
+ "Cases": 473,
+ "Cases_Last_Week": 93,
+ "Cases_Last_Week_Per_100000": 58.6,
+ "Cases_Last_Week_Per_Million": 586,
+ "Cases_New": 13,
+ "Cases_Per_Million": 2984,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 47.4,
  "DIVI_Intensivstationen_Covid_Prozent": 7.0,
- "Date_Latest": "2020-11-19",
+ "Date_Latest": "2020-11-20",
  "Deaths": 5,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Anhalt-Bitterfeld (Landkreis)",
  "Population": 158486,
- "Slope_Cases_New_Per_Million": 3.16,
- "Slope_Deaths_New_Per_Million": -0.92
+ "Slope_Cases_New_Per_Million": 2.46,
+ "Slope_Deaths_New_Per_Million": -0.67
 }

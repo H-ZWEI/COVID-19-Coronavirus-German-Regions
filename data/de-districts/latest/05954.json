@@ -1,15 +1,15 @@
 {
  "BL_Code": "NW",
  "Bundesland": "Nordrhein-Westfalen",
- "Cases": 3271,
- "Cases_Last_Week": 390,
- "Cases_Last_Week_Per_100000": 120.3,
- "Cases_Last_Week_Per_Million": 1203,
- "Cases_New": 72,
- "Cases_Per_Million": 10092,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 82.9,
- "DIVI_Intensivstationen_Covid_Prozent": 8.1,
- "Date_Latest": "2020-11-19",
+ "Cases": 3359,
+ "Cases_Last_Week": 411,
+ "Cases_Last_Week_Per_100000": 126.8,
+ "Cases_Last_Week_Per_Million": 1268,
+ "Cases_New": 92,
+ "Cases_Per_Million": 10363,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 81.3,
+ "DIVI_Intensivstationen_Covid_Prozent": 8.9,
+ "Date_Latest": "2020-11-20",
  "Deaths": 48,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Kreis",
  "Landkreis": "Ennepe-Ruhr-Kreis (Kreis)",
  "Population": 324106,
- "Slope_Cases_New_Per_Million": -40.86,
- "Slope_Deaths_New_Per_Million": -0.28
+ "Slope_Cases_New_Per_Million": -43.22,
+ "Slope_Deaths_New_Per_Million": -0.54
 }

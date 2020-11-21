@@ -1,15 +1,15 @@
 {
  "BL_Code": "RP",
  "Bundesland": "Rheinland-Pfalz",
- "Cases": 557,
- "Cases_Last_Week": 93,
- "Cases_Last_Week_Per_100000": 98.0,
- "Cases_Last_Week_Per_Million": 980,
- "Cases_New": 9,
- "Cases_Per_Million": 5873,
+ "Cases": 594,
+ "Cases_Last_Week": 112,
+ "Cases_Last_Week_Per_100000": 118.1,
+ "Cases_Last_Week_Per_Million": 1181,
+ "Cases_New": 28,
+ "Cases_Per_Million": 6263,
  "DIVI_Intensivstationen_Betten_belegt_Prozent": 33.3,
  "DIVI_Intensivstationen_Covid_Prozent": 11.1,
- "Date_Latest": "2020-11-19",
+ "Date_Latest": "2020-11-20",
  "Deaths": 4,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Südwestpfalz (Landkreis)",
  "Population": 94831,
- "Slope_Cases_New_Per_Million": -1.8,
- "Slope_Deaths_New_Per_Million": 0.16
+ "Slope_Cases_New_Per_Million": 4.33,
+ "Slope_Deaths_New_Per_Million": -0.16
 }

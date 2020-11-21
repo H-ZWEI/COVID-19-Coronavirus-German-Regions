@@ -1,15 +1,15 @@
 {
  "BL_Code": "BY",
  "Bundesland": "Bayern",
- "Cases": 1605,
- "Cases_Last_Week": 123,
- "Cases_Last_Week_Per_100000": 96.1,
- "Cases_Last_Week_Per_Million": 961,
- "Cases_New": 27,
- "Cases_Per_Million": 12545,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 84.8,
- "DIVI_Intensivstationen_Covid_Prozent": 12.4,
- "Date_Latest": "2020-11-19",
+ "Cases": 1625,
+ "Cases_Last_Week": 128,
+ "Cases_Last_Week_Per_100000": 100.0,
+ "Cases_Last_Week_Per_Million": 1000,
+ "Cases_New": 20,
+ "Cases_Per_Million": 12701,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 76.0,
+ "DIVI_Intensivstationen_Covid_Prozent": 9.6,
+ "Date_Latest": "2020-11-20",
  "Deaths": 53,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Kreisfreie Stadt",
  "Landkreis": "Würzburg (Kreisfreie Stadt)",
  "Population": 127934,
- "Slope_Cases_New_Per_Million": -27.77,
- "Slope_Deaths_New_Per_Million": -0.82
+ "Slope_Cases_New_Per_Million": -32.65,
+ "Slope_Deaths_New_Per_Million": -0.77
 }

@@ -1,15 +1,15 @@
 {
  "BL_Code": "BY",
  "Bundesland": "Bayern",
- "Cases": 1146,
- "Cases_Last_Week": 110,
- "Cases_Last_Week_Per_100000": 113.0,
- "Cases_Last_Week_Per_Million": 1130,
- "Cases_New": 0,
- "Cases_Per_Million": 11777,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 48.8,
+ "Cases": 1196,
+ "Cases_Last_Week": 134,
+ "Cases_Last_Week_Per_100000": 137.7,
+ "Cases_Last_Week_Per_Million": 1377,
+ "Cases_New": 21,
+ "Cases_Per_Million": 12291,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 68.3,
  "DIVI_Intensivstationen_Covid_Prozent": 0.0,
- "Date_Latest": "2020-11-19",
+ "Date_Latest": "2020-11-20",
  "Deaths": 34,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Neuburg-Schrobenhausen (Landkreis)",
  "Population": 97303,
- "Slope_Cases_New_Per_Million": -37.27,
- "Slope_Deaths_New_Per_Million": -1.97
+ "Slope_Cases_New_Per_Million": -24.6,
+ "Slope_Deaths_New_Per_Million": -2.67
 }

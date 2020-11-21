@@ -1,15 +1,15 @@
 {
  "BL_Code": "SH",
  "Bundesland": "Schleswig-Holstein",
- "Cases": 543,
- "Cases_Last_Week": 57,
- "Cases_Last_Week_Per_100000": 42.7,
- "Cases_Last_Week_Per_Million": 427,
- "Cases_New": 12,
- "Cases_Per_Million": 4076,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 75.0,
- "DIVI_Intensivstationen_Covid_Prozent": 2.3,
- "Date_Latest": "2020-11-19",
+ "Cases": 549,
+ "Cases_Last_Week": 55,
+ "Cases_Last_Week_Per_100000": 41.2,
+ "Cases_Last_Week_Per_Million": 412,
+ "Cases_New": 6,
+ "Cases_Per_Million": 4121,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 84.1,
+ "DIVI_Intensivstationen_Covid_Prozent": 0.0,
+ "Date_Latest": "2020-11-20",
  "Deaths": 14,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Kreis",
  "Landkreis": "Dithmarschen (Kreis)",
  "Population": 133193,
- "Slope_Cases_New_Per_Million": 1.27,
- "Slope_Deaths_New_Per_Million": -2.08
+ "Slope_Cases_New_Per_Million": 2.51,
+ "Slope_Deaths_New_Per_Million": -1.8
 }

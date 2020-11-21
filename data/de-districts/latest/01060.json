@@ -1,15 +1,15 @@
 {
  "BL_Code": "SH",
  "Bundesland": "Schleswig-Holstein",
- "Cases": 1394,
- "Cases_Last_Week": 182,
- "Cases_Last_Week_Per_100000": 65.6,
- "Cases_Last_Week_Per_Million": 656,
- "Cases_New": 24,
- "Cases_Per_Million": 5029,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 63.2,
- "DIVI_Intensivstationen_Covid_Prozent": 1.7,
- "Date_Latest": "2020-11-19",
+ "Cases": 1435,
+ "Cases_Last_Week": 166,
+ "Cases_Last_Week_Per_100000": 59.8,
+ "Cases_Last_Week_Per_Million": 598,
+ "Cases_New": 41,
+ "Cases_Per_Million": 5177,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 60.2,
+ "DIVI_Intensivstationen_Covid_Prozent": 0.0,
+ "Date_Latest": "2020-11-20",
  "Deaths": 31,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Kreis",
  "Landkreis": "Segeberg (Kreis)",
  "Population": 277175,
- "Slope_Cases_New_Per_Million": -7.86,
- "Slope_Deaths_New_Per_Million": -1.56
+ "Slope_Cases_New_Per_Million": -8.75,
+ "Slope_Deaths_New_Per_Million": -1.16
 }

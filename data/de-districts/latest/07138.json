@@ -1,15 +1,15 @@
 {
  "BL_Code": "RP",
  "Bundesland": "Rheinland-Pfalz",
- "Cases": 1616,
- "Cases_Last_Week": 237,
- "Cases_Last_Week_Per_100000": 129.6,
- "Cases_Last_Week_Per_Million": 1296,
- "Cases_New": 29,
- "Cases_Per_Million": 8839,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 66.7,
- "DIVI_Intensivstationen_Covid_Prozent": 6.4,
- "Date_Latest": "2020-11-19",
+ "Cases": 1648,
+ "Cases_Last_Week": 176,
+ "Cases_Last_Week_Per_100000": 96.2,
+ "Cases_Last_Week_Per_Million": 962,
+ "Cases_New": 32,
+ "Cases_Per_Million": 9014,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 65.4,
+ "DIVI_Intensivstationen_Covid_Prozent": 7.7,
+ "Date_Latest": "2020-11-20",
  "Deaths": 10,
  "Deaths_Last_Week": 2,
  "Deaths_Last_Week_Per_Million": 10.94,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Neuwied (Landkreis)",
  "Population": 182811,
- "Slope_Cases_New_Per_Million": 7.4,
- "Slope_Deaths_New_Per_Million": 0.55
+ "Slope_Cases_New_Per_Million": -7.48,
+ "Slope_Deaths_New_Per_Million": 0.48
 }

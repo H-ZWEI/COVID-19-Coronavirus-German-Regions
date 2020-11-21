@@ -1,15 +1,15 @@
 {
  "BL_Code": "NI",
  "Bundesland": "Niedersachsen",
- "Cases": 831,
- "Cases_Last_Week": 74,
- "Cases_Last_Week_Per_100000": 36.1,
- "Cases_Last_Week_Per_Million": 361,
+ "Cases": 860,
+ "Cases_Last_Week": 81,
+ "Cases_Last_Week_Per_100000": 39.6,
+ "Cases_Last_Week_Per_Million": 396,
  "Cases_New": 0,
- "Cases_Per_Million": 4063,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 82.9,
- "DIVI_Intensivstationen_Covid_Prozent": 5.7,
- "Date_Latest": "2020-11-19",
+ "Cases_Per_Million": 4205,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 81.8,
+ "DIVI_Intensivstationen_Covid_Prozent": 6.1,
+ "Date_Latest": "2020-11-20",
  "Deaths": 11,
  "Deaths_Last_Week": 1,
  "Deaths_Last_Week_Per_Million": 4.89,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Stade (Landkreis)",
  "Population": 204512,
- "Slope_Cases_New_Per_Million": -15.6,
- "Slope_Deaths_New_Per_Million": 0.08
+ "Slope_Cases_New_Per_Million": -13.66,
+ "Slope_Deaths_New_Per_Million": 0.23
 }

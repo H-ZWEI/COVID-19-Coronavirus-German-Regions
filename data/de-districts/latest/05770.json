@@ -1,15 +1,15 @@
 {
  "BL_Code": "NW",
  "Bundesland": "Nordrhein-Westfalen",
- "Cases": 3366,
- "Cases_Last_Week": 569,
- "Cases_Last_Week_Per_100000": 183.3,
- "Cases_Last_Week_Per_Million": 1833,
- "Cases_New": 104,
- "Cases_Per_Million": 10843,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 87.3,
+ "Cases": 3451,
+ "Cases_Last_Week": 567,
+ "Cases_Last_Week_Per_100000": 182.6,
+ "Cases_Last_Week_Per_Million": 1826,
+ "Cases_New": 85,
+ "Cases_Per_Million": 11117,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 88.1,
  "DIVI_Intensivstationen_Covid_Prozent": 4.4,
- "Date_Latest": "2020-11-19",
+ "Date_Latest": "2020-11-20",
  "Deaths": 27,
  "Deaths_Last_Week": 3,
  "Deaths_Last_Week_Per_Million": 9.66,
@@ -20,6 +20,6 @@
  "LK_Typ": "Kreis",
  "Landkreis": "Minden-Lübbecke (Kreis)",
  "Population": 310409,
- "Slope_Cases_New_Per_Million": -14.8,
- "Slope_Deaths_New_Per_Million": 0.93
+ "Slope_Cases_New_Per_Million": -22.81,
+ "Slope_Deaths_New_Per_Million": 0.79
 }
