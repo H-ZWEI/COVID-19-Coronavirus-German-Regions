@@ -1,15 +1,15 @@
 {
  "BL_Code": "RP",
  "Bundesland": "Rheinland-Pfalz",
- "Cases": 2092,
- "Cases_Last_Week": 263,
- "Cases_Last_Week_Per_100000": 124.3,
- "Cases_Last_Week_Per_Million": 1243,
- "Cases_New": 41,
- "Cases_Per_Million": 9895,
+ "Cases": 2116,
+ "Cases_Last_Week": 253,
+ "Cases_Last_Week_Per_100000": 119.6,
+ "Cases_Last_Week_Per_Million": 1196,
+ "Cases_New": 12,
+ "Cases_Per_Million": 10008,
  "DIVI_Intensivstationen_Betten_belegt_Prozent": 90.9,
- "DIVI_Intensivstationen_Covid_Prozent": 27.3,
- "Date_Latest": "2020-11-20",
+ "DIVI_Intensivstationen_Covid_Prozent": 36.4,
+ "Date_Latest": "2020-11-21",
  "Deaths": 44,
  "Deaths_Last_Week": 1,
  "Deaths_Last_Week_Per_Million": 4.73,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Mainz-Bingen (Landkreis)",
  "Population": 211417,
- "Slope_Cases_New_Per_Million": -22.75,
- "Slope_Deaths_New_Per_Million": -1.11
+ "Slope_Cases_New_Per_Million": -31.19,
+ "Slope_Deaths_New_Per_Million": -1.41
 }

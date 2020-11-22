@@ -1,15 +1,15 @@
 {
  "BL_Code": "NW",
  "Bundesland": "Nordrhein-Westfalen",
- "Cases": 6422,
- "Cases_Last_Week": 796,
- "Cases_Last_Week_Per_100000": 163.9,
- "Cases_Last_Week_Per_Million": 1639,
- "Cases_New": 103,
- "Cases_Per_Million": 13225,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 78.7,
+ "Cases": 6509,
+ "Cases_Last_Week": 774,
+ "Cases_Last_Week_Per_100000": 159.4,
+ "Cases_Last_Week_Per_Million": 1594,
+ "Cases_New": 66,
+ "Cases_Per_Million": 13404,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 80.3,
  "DIVI_Intensivstationen_Covid_Prozent": 26.2,
- "Date_Latest": "2020-11-20",
+ "Date_Latest": "2020-11-21",
  "Deaths": 129,
  "Deaths_Last_Week": 4,
  "Deaths_Last_Week_Per_Million": 8.24,
@@ -20,6 +20,6 @@
  "LK_Typ": "Kreis",
  "Landkreis": "Mettmann (Kreis)",
  "Population": 485570,
- "Slope_Cases_New_Per_Million": 2.16,
- "Slope_Deaths_New_Per_Million": -0.09
+ "Slope_Cases_New_Per_Million": -0.47,
+ "Slope_Deaths_New_Per_Million": -0.05
 }

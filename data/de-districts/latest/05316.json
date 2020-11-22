@@ -1,15 +1,15 @@
 {
  "BL_Code": "NW",
  "Bundesland": "Nordrhein-Westfalen",
- "Cases": 2007,
- "Cases_Last_Week": 239,
- "Cases_Last_Week_Per_100000": 145.9,
- "Cases_Last_Week_Per_Million": 1459,
- "Cases_New": 41,
- "Cases_Per_Million": 12258,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 71.6,
+ "Cases": 2019,
+ "Cases_Last_Week": 214,
+ "Cases_Last_Week_Per_100000": 130.7,
+ "Cases_Last_Week_Per_Million": 1307,
+ "Cases_New": 12,
+ "Cases_Per_Million": 12331,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 70.6,
  "DIVI_Intensivstationen_Covid_Prozent": 8.8,
- "Date_Latest": "2020-11-20",
+ "Date_Latest": "2020-11-21",
  "Deaths": 18,
  "Deaths_Last_Week": 2,
  "Deaths_Last_Week_Per_Million": 12.22,
@@ -20,6 +20,6 @@
  "LK_Typ": "Kreisfreie Stadt",
  "Landkreis": "Leverkusen (Kreisfreie Stadt)",
  "Population": 163729,
- "Slope_Cases_New_Per_Million": -7.38,
- "Slope_Deaths_New_Per_Million": -1.07
+ "Slope_Cases_New_Per_Million": -16.12,
+ "Slope_Deaths_New_Per_Million": -0.82
 }

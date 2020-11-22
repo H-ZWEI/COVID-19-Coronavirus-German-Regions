@@ -5,11 +5,11 @@
  "Cases_Last_Week": 530,
  "Cases_Last_Week_Per_100000": 209.0,
  "Cases_Last_Week_Per_Million": 2090,
- "Cases_New": 80,
+ "Cases_New": 0,
  "Cases_Per_Million": 13248,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 92.3,
- "DIVI_Intensivstationen_Covid_Prozent": 23.1,
- "Date_Latest": "2020-11-20",
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 100.0,
+ "DIVI_Intensivstationen_Covid_Prozent": 16.7,
+ "Date_Latest": "2020-11-21",
  "Deaths": 25,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Augsburg (Landkreis)",
  "Population": 253468,
- "Slope_Cases_New_Per_Million": -34.14,
- "Slope_Deaths_New_Per_Million": -1.73
+ "Slope_Cases_New_Per_Million": -36.54,
+ "Slope_Deaths_New_Per_Million": -1.58
 }

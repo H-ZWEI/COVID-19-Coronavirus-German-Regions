@@ -1,15 +1,15 @@
 {
  "BL_Code": "NW",
  "Bundesland": "Nordrhein-Westfalen",
- "Cases": 8639,
- "Cases_Last_Week": 1233,
- "Cases_Last_Week_Per_100000": 200.7,
- "Cases_Last_Week_Per_Million": 2007,
- "Cases_New": 227,
- "Cases_Per_Million": 14066,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 80.4,
- "DIVI_Intensivstationen_Covid_Prozent": 9.4,
- "Date_Latest": "2020-11-20",
+ "Cases": 8692,
+ "Cases_Last_Week": 1162,
+ "Cases_Last_Week_Per_100000": 189.2,
+ "Cases_Last_Week_Per_Million": 1892,
+ "Cases_New": 33,
+ "Cases_Per_Million": 14153,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 81.6,
+ "DIVI_Intensivstationen_Covid_Prozent": 11.1,
+ "Date_Latest": "2020-11-21",
  "Deaths": 85,
  "Deaths_Last_Week": 2,
  "Deaths_Last_Week_Per_Million": 3.26,
@@ -20,6 +20,6 @@
  "LK_Typ": "Kreis",
  "Landkreis": "Recklinghausen (Kreis)",
  "Population": 614137,
- "Slope_Cases_New_Per_Million": -47.69,
- "Slope_Deaths_New_Per_Million": -0.59
+ "Slope_Cases_New_Per_Million": -45.85,
+ "Slope_Deaths_New_Per_Million": -0.68
 }

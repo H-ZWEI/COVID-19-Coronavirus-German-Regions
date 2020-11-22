@@ -1,15 +1,15 @@
 {
  "BL_Code": "NW",
  "Bundesland": "Nordrhein-Westfalen",
- "Cases": 7277,
- "Cases_Last_Week": 909,
- "Cases_Last_Week_Per_100000": 155.9,
- "Cases_Last_Week_Per_Million": 1559,
- "Cases_New": 131,
- "Cases_Per_Million": 12487,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 85.2,
- "DIVI_Intensivstationen_Covid_Prozent": 14.8,
- "Date_Latest": "2020-11-20",
+ "Cases": 7417,
+ "Cases_Last_Week": 928,
+ "Cases_Last_Week_Per_100000": 159.2,
+ "Cases_Last_Week_Per_Million": 1592,
+ "Cases_New": 127,
+ "Cases_Per_Million": 12727,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 83.4,
+ "DIVI_Intensivstationen_Covid_Prozent": 14.5,
+ "Date_Latest": "2020-11-21",
  "Deaths": 76,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Kreisfreie Stadt",
  "Landkreis": "Essen (Kreisfreie Stadt)",
  "Population": 582760,
- "Slope_Cases_New_Per_Million": -26.46,
- "Slope_Deaths_New_Per_Million": -0.89
+ "Slope_Cases_New_Per_Million": -22.66,
+ "Slope_Deaths_New_Per_Million": -0.94
 }

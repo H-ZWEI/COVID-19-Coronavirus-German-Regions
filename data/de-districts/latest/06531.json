@@ -1,15 +1,15 @@
 {
  "BL_Code": "HE",
  "Bundesland": "Hessen",
- "Cases": 2856,
- "Cases_Last_Week": 453,
- "Cases_Last_Week_Per_100000": 167.3,
- "Cases_Last_Week_Per_Million": 1673,
- "Cases_New": 56,
- "Cases_Per_Million": 10550,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 88.1,
- "DIVI_Intensivstationen_Covid_Prozent": 13.2,
- "Date_Latest": "2020-11-20",
+ "Cases": 2949,
+ "Cases_Last_Week": 473,
+ "Cases_Last_Week_Per_100000": 174.7,
+ "Cases_Last_Week_Per_Million": 1747,
+ "Cases_New": 75,
+ "Cases_Per_Million": 10894,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 88.0,
+ "DIVI_Intensivstationen_Covid_Prozent": 15.3,
+ "Date_Latest": "2020-11-21",
  "Deaths": 11,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Gießen (Landkreis)",
  "Population": 270688,
- "Slope_Cases_New_Per_Million": -51.31,
- "Slope_Deaths_New_Per_Million": -0.34
+ "Slope_Cases_New_Per_Million": -54.72,
+ "Slope_Deaths_New_Per_Million": -0.8
 }

@@ -1,15 +1,15 @@
 {
  "BL_Code": "BY",
  "Bundesland": "Bayern",
- "Cases": 856,
- "Cases_Last_Week": 64,
- "Cases_Last_Week_Per_100000": 149.7,
- "Cases_Last_Week_Per_Million": 1497,
- "Cases_New": 4,
- "Cases_Per_Million": 20026,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 89.3,
- "DIVI_Intensivstationen_Covid_Prozent": 10.7,
- "Date_Latest": "2020-11-20",
+ "Cases": 861,
+ "Cases_Last_Week": 66,
+ "Cases_Last_Week_Per_100000": 154.4,
+ "Cases_Last_Week_Per_Million": 1544,
+ "Cases_New": 3,
+ "Cases_Per_Million": 20143,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 85.7,
+ "DIVI_Intensivstationen_Covid_Prozent": 12.5,
+ "Date_Latest": "2020-11-21",
  "Deaths": 21,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Kreisfreie Stadt",
  "Landkreis": "Weiden i.d. OPf. (Kreisfreie Stadt)",
  "Population": 42743,
- "Slope_Cases_New_Per_Million": -49.39,
- "Slope_Deaths_New_Per_Million": -0.67
+ "Slope_Cases_New_Per_Million": -84.54,
+ "Slope_Deaths_New_Per_Million": 0.0
 }

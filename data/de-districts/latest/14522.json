@@ -1,15 +1,15 @@
 {
  "BL_Code": "SN",
  "Bundesland": "Sachsen",
- "Cases": 3037,
- "Cases_Last_Week": 641,
- "Cases_Last_Week_Per_100000": 210.7,
- "Cases_Last_Week_Per_Million": 2107,
- "Cases_New": 62,
- "Cases_Per_Million": 9986,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 77.6,
- "DIVI_Intensivstationen_Covid_Prozent": 20.4,
- "Date_Latest": "2020-11-20",
+ "Cases": 3171,
+ "Cases_Last_Week": 695,
+ "Cases_Last_Week_Per_100000": 228.5,
+ "Cases_Last_Week_Per_Million": 2285,
+ "Cases_New": 97,
+ "Cases_Per_Million": 10427,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 79.6,
+ "DIVI_Intensivstationen_Covid_Prozent": 22.4,
+ "Date_Latest": "2020-11-21",
  "Deaths": 13,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Mittelsachsen (Landkreis)",
  "Population": 304099,
- "Slope_Cases_New_Per_Million": 12.86,
- "Slope_Deaths_New_Per_Million": -0.33
+ "Slope_Cases_New_Per_Million": 22.61,
+ "Slope_Deaths_New_Per_Million": -0.29
 }

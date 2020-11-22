@@ -1,15 +1,15 @@
 {
  "BL_Code": "BY",
  "Bundesland": "Bayern",
- "Cases": 1083,
- "Cases_Last_Week": 144,
- "Cases_Last_Week_Per_100000": 127.9,
- "Cases_Last_Week_Per_Million": 1279,
- "Cases_New": 29,
- "Cases_Per_Million": 9624,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 87.2,
- "DIVI_Intensivstationen_Covid_Prozent": 12.8,
- "Date_Latest": "2020-11-20",
+ "Cases": 1104,
+ "Cases_Last_Week": 153,
+ "Cases_Last_Week_Per_100000": 135.9,
+ "Cases_Last_Week_Per_Million": 1359,
+ "Cases_New": 8,
+ "Cases_Per_Million": 9810,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 90.7,
+ "DIVI_Intensivstationen_Covid_Prozent": 15.3,
+ "Date_Latest": "2020-11-21",
  "Deaths": 15,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Kreisfreie Stadt",
  "Landkreis": "Erlangen (Kreisfreie Stadt)",
  "Population": 112528,
- "Slope_Cases_New_Per_Million": -13.92,
- "Slope_Deaths_New_Per_Million": -0.27
+ "Slope_Cases_New_Per_Million": -12.67,
+ "Slope_Deaths_New_Per_Million": -0.82
 }

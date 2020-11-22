@@ -1,15 +1,15 @@
 {
  "BL_Code": "SH",
  "Bundesland": "Schleswig-Holstein",
- "Cases": 858,
- "Cases_Last_Week": 65,
- "Cases_Last_Week_Per_100000": 23.7,
- "Cases_Last_Week_Per_Million": 237,
+ "Cases": 869,
+ "Cases_Last_Week": 63,
+ "Cases_Last_Week_Per_100000": 22.9,
+ "Cases_Last_Week_Per_Million": 229,
  "Cases_New": 11,
- "Cases_Per_Million": 3130,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 66.7,
+ "Cases_Per_Million": 3170,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 64.3,
  "DIVI_Intensivstationen_Covid_Prozent": 2.4,
- "Date_Latest": "2020-11-20",
+ "Date_Latest": "2020-11-21",
  "Deaths": 17,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Kreis",
  "Landkreis": "Rendsburg-Eckernförde (Kreis)",
  "Population": 274098,
- "Slope_Cases_New_Per_Million": -16.85,
- "Slope_Deaths_New_Per_Million": -0.39
+ "Slope_Cases_New_Per_Million": -20.63,
+ "Slope_Deaths_New_Per_Million": -0.36
 }

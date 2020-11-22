@@ -1,15 +1,15 @@
 {
  "BL_Code": "BY",
  "Bundesland": "Bayern",
- "Cases": 420,
- "Cases_Last_Week": 54,
- "Cases_Last_Week_Per_100000": 131.7,
- "Cases_Last_Week_Per_Million": 1317,
+ "Cases": 423,
+ "Cases_Last_Week": 48,
+ "Cases_Last_Week_Per_100000": 117.1,
+ "Cases_Last_Week_Per_Million": 1171,
  "Cases_New": 0,
- "Cases_Per_Million": 10248,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 28.6,
- "DIVI_Intensivstationen_Covid_Prozent": 14.3,
- "Date_Latest": "2020-11-20",
+ "Cases_Per_Million": 10321,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 57.1,
+ "DIVI_Intensivstationen_Covid_Prozent": 28.6,
+ "Date_Latest": "2020-11-21",
  "Deaths": 4,
  "Deaths_Last_Week": 1,
  "Deaths_Last_Week_Per_Million": 24.4,
@@ -20,6 +20,6 @@
  "LK_Typ": "Kreisfreie Stadt",
  "Landkreis": "Schwabach (Kreisfreie Stadt)",
  "Population": 40981,
- "Slope_Cases_New_Per_Million": -10.27,
- "Slope_Deaths_New_Per_Million": 0.48
+ "Slope_Cases_New_Per_Million": -33.91,
+ "Slope_Deaths_New_Per_Million": 1.45
 }

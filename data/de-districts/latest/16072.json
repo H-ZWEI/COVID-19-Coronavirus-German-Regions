@@ -1,15 +1,15 @@
 {
  "BL_Code": "TH",
  "Bundesland": "Thüringen",
- "Cases": 622,
- "Cases_Last_Week": 75,
- "Cases_Last_Week_Per_100000": 129.9,
- "Cases_Last_Week_Per_Million": 1299,
- "Cases_New": 0,
- "Cases_Per_Million": 10776,
+ "Cases": 647,
+ "Cases_Last_Week": 80,
+ "Cases_Last_Week_Per_100000": 138.6,
+ "Cases_Last_Week_Per_Million": 1386,
+ "Cases_New": 2,
+ "Cases_Per_Million": 11209,
  "DIVI_Intensivstationen_Betten_belegt_Prozent": 66.7,
  "DIVI_Intensivstationen_Covid_Prozent": 0.0,
- "Date_Latest": "2020-11-20",
+ "Date_Latest": "2020-11-21",
  "Deaths": 32,
  "Deaths_Last_Week": 1,
  "Deaths_Last_Week_Per_Million": 17.33,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Sonneberg (Landkreis)",
  "Population": 57717,
- "Slope_Cases_New_Per_Million": 75.43,
- "Slope_Deaths_New_Per_Million": 1.14
+ "Slope_Cases_New_Per_Million": 63.64,
+ "Slope_Deaths_New_Per_Million": 0.53
 }

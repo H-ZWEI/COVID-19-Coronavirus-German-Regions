@@ -1,15 +1,15 @@
 {
  "BL_Code": "BW",
  "Bundesland": "Baden-Württemberg",
- "Cases": 3268,
- "Cases_Last_Week": 336,
- "Cases_Last_Week_Per_100000": 130.1,
- "Cases_Last_Week_Per_Million": 1301,
- "Cases_New": 0,
- "Cases_Per_Million": 12659,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 63.0,
- "DIVI_Intensivstationen_Covid_Prozent": 23.9,
- "Date_Latest": "2020-11-20",
+ "Cases": 3360,
+ "Cases_Last_Week": 388,
+ "Cases_Last_Week_Per_100000": 150.3,
+ "Cases_Last_Week_Per_Million": 1503,
+ "Cases_New": 1,
+ "Cases_Per_Million": 13015,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 60.9,
+ "DIVI_Intensivstationen_Covid_Prozent": 26.1,
+ "Date_Latest": "2020-11-21",
  "Deaths": 54,
  "Deaths_Last_Week": 3,
  "Deaths_Last_Week_Per_Million": 11.62,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Göppingen (Landkreis)",
  "Population": 258145,
- "Slope_Cases_New_Per_Million": -26.25,
- "Slope_Deaths_New_Per_Million": 0.08
+ "Slope_Cases_New_Per_Million": -18.4,
+ "Slope_Deaths_New_Per_Million": -0.08
 }
