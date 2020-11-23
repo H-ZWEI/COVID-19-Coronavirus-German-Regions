@@ -1,15 +1,15 @@
 {
  "BL_Code": "NW",
  "Bundesland": "Nordrhein-Westfalen",
- "Cases": 4445,
- "Cases_Last_Week": 630,
- "Cases_Last_Week_Per_100000": 153.5,
- "Cases_Last_Week_Per_Million": 1535,
- "Cases_New": 84,
- "Cases_Per_Million": 10835,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 76.7,
- "DIVI_Intensivstationen_Covid_Prozent": 21.7,
- "Date_Latest": "2020-11-21",
+ "Cases": 4481,
+ "Cases_Last_Week": 642,
+ "Cases_Last_Week_Per_100000": 156.5,
+ "Cases_Last_Week_Per_Million": 1565,
+ "Cases_New": 39,
+ "Cases_Per_Million": 10923,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 77.5,
+ "DIVI_Intensivstationen_Covid_Prozent": 22.5,
+ "Date_Latest": "2020-11-22",
  "Deaths": 46,
  "Deaths_Last_Week": 1,
  "Deaths_Last_Week_Per_Million": 2.44,
@@ -20,6 +20,6 @@
  "LK_Typ": "Kreis",
  "Landkreis": "Märkischer Kreis (Kreis)",
  "Population": 410222,
- "Slope_Cases_New_Per_Million": -37.9,
- "Slope_Deaths_New_Per_Million": -0.27
+ "Slope_Cases_New_Per_Million": -36.0,
+ "Slope_Deaths_New_Per_Million": -0.47
 }

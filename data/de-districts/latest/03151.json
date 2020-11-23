@@ -9,7 +9,7 @@
  "Cases_Per_Million": 5013,
  "DIVI_Intensivstationen_Betten_belegt_Prozent": 56.5,
  "DIVI_Intensivstationen_Covid_Prozent": 17.4,
- "Date_Latest": "2020-11-21",
+ "Date_Latest": "2020-11-22",
  "Deaths": 8,
  "Deaths_Last_Week": 1,
  "Deaths_Last_Week_Per_Million": 5.66,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Gifhorn (Landkreis)",
  "Population": 176523,
- "Slope_Cases_New_Per_Million": -17.89,
- "Slope_Deaths_New_Per_Million": 0.5
+ "Slope_Cases_New_Per_Million": -22.08,
+ "Slope_Deaths_New_Per_Million": 0.56
 }

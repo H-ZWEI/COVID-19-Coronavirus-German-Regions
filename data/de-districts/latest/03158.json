@@ -9,7 +9,7 @@
  "Cases_Per_Million": 5333,
  "DIVI_Intensivstationen_Betten_belegt_Prozent": 81.2,
  "DIVI_Intensivstationen_Covid_Prozent": 6.2,
- "Date_Latest": "2020-11-21",
+ "Date_Latest": "2020-11-22",
  "Deaths": 25,
  "Deaths_Last_Week": 2,
  "Deaths_Last_Week_Per_Million": 16.72,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Wolfenbüttel (Landkreis)",
  "Population": 119622,
- "Slope_Cases_New_Per_Million": -12.21,
- "Slope_Deaths_New_Per_Million": -2.79
+ "Slope_Cases_New_Per_Million": -24.53,
+ "Slope_Deaths_New_Per_Million": -2.0
 }

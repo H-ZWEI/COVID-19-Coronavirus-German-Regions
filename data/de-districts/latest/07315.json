@@ -1,15 +1,15 @@
 {
  "BL_Code": "RP",
  "Bundesland": "Rheinland-Pfalz",
- "Cases": 3425,
- "Cases_Last_Week": 482,
- "Cases_Last_Week_Per_100000": 220.5,
- "Cases_Last_Week_Per_Million": 2205,
- "Cases_New": 16,
- "Cases_Per_Million": 15669,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 85.8,
- "DIVI_Intensivstationen_Covid_Prozent": 21.2,
- "Date_Latest": "2020-11-21",
+ "Cases": 3494,
+ "Cases_Last_Week": 551,
+ "Cases_Last_Week_Per_100000": 252.0,
+ "Cases_Last_Week_Per_Million": 2520,
+ "Cases_New": 71,
+ "Cases_Per_Million": 15985,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 86.7,
+ "DIVI_Intensivstationen_Covid_Prozent": 20.4,
+ "Date_Latest": "2020-11-22",
  "Deaths": 35,
  "Deaths_Last_Week": 1,
  "Deaths_Last_Week_Per_Million": 4.58,
@@ -20,6 +20,6 @@
  "LK_Typ": "Kreisfreie Stadt",
  "Landkreis": "Mainz (Kreisfreie Stadt)",
  "Population": 218578,
- "Slope_Cases_New_Per_Million": -21.4,
- "Slope_Deaths_New_Per_Million": 0.06
+ "Slope_Cases_New_Per_Million": -18.03,
+ "Slope_Deaths_New_Per_Million": -0.21
 }

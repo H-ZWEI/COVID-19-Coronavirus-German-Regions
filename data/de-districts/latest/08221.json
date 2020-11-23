@@ -1,15 +1,15 @@
 {
  "BL_Code": "BW",
  "Bundesland": "Baden-Württemberg",
- "Cases": 1640,
- "Cases_Last_Week": 190,
- "Cases_Last_Week_Per_100000": 117.6,
- "Cases_Last_Week_Per_Million": 1176,
- "Cases_New": 6,
- "Cases_Per_Million": 10155,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 67.0,
- "DIVI_Intensivstationen_Covid_Prozent": 8.0,
- "Date_Latest": "2020-11-21",
+ "Cases": 1662,
+ "Cases_Last_Week": 181,
+ "Cases_Last_Week_Per_100000": 112.0,
+ "Cases_Last_Week_Per_Million": 1120,
+ "Cases_New": 5,
+ "Cases_Per_Million": 10291,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 69.7,
+ "DIVI_Intensivstationen_Covid_Prozent": 8.7,
+ "Date_Latest": "2020-11-22",
  "Deaths": 14,
  "Deaths_Last_Week": 1,
  "Deaths_Last_Week_Per_Million": 6.19,
@@ -20,6 +20,6 @@
  "LK_Typ": "Stadtkreis",
  "Landkreis": "Heidelberg (Stadtkreis)",
  "Population": 161485,
- "Slope_Cases_New_Per_Million": -41.29,
- "Slope_Deaths_New_Per_Million": -0.33
+ "Slope_Cases_New_Per_Million": -42.68,
+ "Slope_Deaths_New_Per_Million": -0.67
 }

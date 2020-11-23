@@ -1,15 +1,15 @@
 {
  "BL_Code": "SN",
  "Bundesland": "Sachsen",
- "Cases": 2319,
- "Cases_Last_Week": 425,
- "Cases_Last_Week_Per_100000": 172.5,
- "Cases_Last_Week_Per_Million": 1725,
- "Cases_New": 38,
- "Cases_Per_Million": 9414,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 83.1,
- "DIVI_Intensivstationen_Covid_Prozent": 15.7,
- "Date_Latest": "2020-11-21",
+ "Cases": 2416,
+ "Cases_Last_Week": 484,
+ "Cases_Last_Week_Per_100000": 196.4,
+ "Cases_Last_Week_Per_Million": 1964,
+ "Cases_New": 73,
+ "Cases_Per_Million": 9807,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 84.3,
+ "DIVI_Intensivstationen_Covid_Prozent": 18.5,
+ "Date_Latest": "2020-11-22",
  "Deaths": 16,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Kreisfreie Stadt",
  "Landkreis": "Chemnitz (Kreisfreie Stadt)",
  "Population": 246334,
- "Slope_Cases_New_Per_Million": 0.75,
- "Slope_Deaths_New_Per_Million": -1.1
+ "Slope_Cases_New_Per_Million": 14.12,
+ "Slope_Deaths_New_Per_Million": -1.13
 }

@@ -1,15 +1,15 @@
 {
  "BL_Code": "BW",
  "Bundesland": "Baden-Württemberg",
- "Cases": 1584,
- "Cases_Last_Week": 191,
- "Cases_Last_Week_Per_100000": 143.8,
- "Cases_Last_Week_Per_Million": 1438,
- "Cases_New": 17,
- "Cases_Per_Million": 11929,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 63.6,
+ "Cases": 1613,
+ "Cases_Last_Week": 213,
+ "Cases_Last_Week_Per_100000": 160.4,
+ "Cases_Last_Week_Per_Million": 1604,
+ "Cases_New": 7,
+ "Cases_Per_Million": 12148,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 50.0,
  "DIVI_Intensivstationen_Covid_Prozent": 4.5,
- "Date_Latest": "2020-11-21",
+ "Date_Latest": "2020-11-22",
  "Deaths": 45,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Heidenheim (Landkreis)",
  "Population": 132777,
- "Slope_Cases_New_Per_Million": 15.15,
- "Slope_Deaths_New_Per_Million": -0.33
+ "Slope_Cases_New_Per_Million": 7.86,
+ "Slope_Deaths_New_Per_Million": -0.74
 }
