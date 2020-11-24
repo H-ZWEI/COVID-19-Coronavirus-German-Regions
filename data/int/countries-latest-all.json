@@ -629,12 +629,12 @@
   "Slope_Deaths_New_Per_Million": -0.01
  },
  {
-  "Cases": 333808,
-  "Cases_Last_Week": 34386,
-  "Cases_Last_Week_Per_100000": 92.7,
-  "Cases_Last_Week_Per_Million": 927,
-  "Cases_New": 4724,
-  "Cases_Per_Million": 9007,
+  "Cases": 333936,
+  "Cases_Last_Week": 34496,
+  "Cases_Last_Week_Per_100000": 93.0,
+  "Cases_Last_Week_Per_Million": 930,
+  "Cases_New": 4745,
+  "Cases_Per_Million": 9010,
   "Code": "CA",
   "Continent": "North America",
   "Country": "Canada",
@@ -644,9 +644,9 @@
   "Deaths_Last_Week_Per_Million": 13.52,
   "Deaths_New": 47,
   "Deaths_Per_Million": 310,
-  "DoublingTime_Cases_Last_Week_Per_100000": 55.6,
+  "DoublingTime_Cases_Last_Week_Per_100000": 54.4,
   "Population": 37058856,
-  "Slope_Cases_New_Per_Million": 11.03,
+  "Slope_Cases_New_Per_Million": 11.25,
   "Slope_Deaths_New_Per_Million": 0.36
  },
  {
@@ -2217,7 +2217,7 @@
   "Cases_Last_Week": 35353,
   "Cases_Last_Week_Per_100000": 28.0,
   "Cases_Last_Week_Per_Million": 280,
-  "Cases_New": 15906,
+  "Cases_New": 9187,
   "Cases_Per_Million": 8256,
   "Code": "MX",
   "Continent": "North America",
@@ -2226,11 +2226,11 @@
   "Deaths": 101676,
   "Deaths_Last_Week": 3134,
   "Deaths_Last_Week_Per_Million": 24.84,
-  "Deaths_New": 853,
+  "Deaths_New": 303,
   "Deaths_Per_Million": 805,
   "Population": 126190788,
-  "Slope_Cases_New_Per_Million": -9.95,
-  "Slope_Deaths_New_Per_Million": -0.19
+  "Slope_Cases_New_Per_Million": -8.67,
+  "Slope_Deaths_New_Per_Million": -0.08
  },
  {
   "Cases": 97941,

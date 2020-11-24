@@ -1,15 +1,15 @@
 {
  "BL_Code": "NI",
  "Bundesland": "Niedersachsen",
- "Cases": 801,
- "Cases_Last_Week": 77,
- "Cases_Last_Week_Per_100000": 45.0,
- "Cases_Last_Week_Per_Million": 450,
+ "Cases": 808,
+ "Cases_Last_Week": 81,
+ "Cases_Last_Week_Per_100000": 47.4,
+ "Cases_Last_Week_Per_Million": 474,
  "Cases_New": 0,
- "Cases_Per_Million": 4690,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 42.4,
- "DIVI_Intensivstationen_Covid_Prozent": 6.1,
- "Date_Latest": "2020-11-22",
+ "Cases_Per_Million": 4731,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 50.0,
+ "DIVI_Intensivstationen_Covid_Prozent": 6.2,
+ "Date_Latest": "2020-11-23",
  "Deaths": 12,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Leer (Landkreis)",
  "Population": 170756,
- "Slope_Cases_New_Per_Million": -13.96,
- "Slope_Deaths_New_Per_Million": -1.15
+ "Slope_Cases_New_Per_Million": -19.85,
+ "Slope_Deaths_New_Per_Million": -1.04
 }
