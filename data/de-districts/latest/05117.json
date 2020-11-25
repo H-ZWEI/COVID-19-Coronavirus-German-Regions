@@ -1,15 +1,15 @@
 {
  "BL_Code": "NW",
  "Bundesland": "Nordrhein-Westfalen",
- "Cases": 2452,
- "Cases_Last_Week": 285,
- "Cases_Last_Week_Per_100000": 167.0,
- "Cases_Last_Week_Per_Million": 1670,
- "Cases_New": 11,
- "Cases_Per_Million": 14370,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 80.6,
- "DIVI_Intensivstationen_Covid_Prozent": 19.4,
- "Date_Latest": "2020-11-23",
+ "Cases": 2480,
+ "Cases_Last_Week": 259,
+ "Cases_Last_Week_Per_100000": 151.7,
+ "Cases_Last_Week_Per_Million": 1517,
+ "Cases_New": 7,
+ "Cases_Per_Million": 14534,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 81.2,
+ "DIVI_Intensivstationen_Covid_Prozent": 18.8,
+ "Date_Latest": "2020-11-24",
  "Deaths": 30,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Kreisfreie Stadt",
  "Landkreis": "Mülheim an der Ruhr (Kreisfreie Stadt)",
  "Population": 170632,
- "Slope_Cases_New_Per_Million": -46.29,
- "Slope_Deaths_New_Per_Million": -3.25
+ "Slope_Cases_New_Per_Million": -43.89,
+ "Slope_Deaths_New_Per_Million": -3.16
 }

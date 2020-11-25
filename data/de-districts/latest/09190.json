@@ -1,15 +1,15 @@
 {
  "BL_Code": "BY",
  "Bundesland": "Bayern",
- "Cases": 1525,
- "Cases_Last_Week": 127,
- "Cases_Last_Week_Per_100000": 93.7,
- "Cases_Last_Week_Per_Million": 937,
- "Cases_New": 4,
- "Cases_Per_Million": 11256,
+ "Cases": 1546,
+ "Cases_Last_Week": 121,
+ "Cases_Last_Week_Per_100000": 89.3,
+ "Cases_Last_Week_Per_Million": 893,
+ "Cases_New": 11,
+ "Cases_Per_Million": 11411,
  "DIVI_Intensivstationen_Betten_belegt_Prozent": 58.3,
- "DIVI_Intensivstationen_Covid_Prozent": 20.8,
- "Date_Latest": "2020-11-23",
+ "DIVI_Intensivstationen_Covid_Prozent": 16.7,
+ "Date_Latest": "2020-11-24",
  "Deaths": 16,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Weilheim-Schongau (Landkreis)",
  "Population": 135478,
- "Slope_Cases_New_Per_Million": -58.69,
- "Slope_Deaths_New_Per_Million": -1.28
+ "Slope_Cases_New_Per_Million": -51.95,
+ "Slope_Deaths_New_Per_Million": -1.35
 }

@@ -1,15 +1,15 @@
 {
  "BL_Code": "BY",
  "Bundesland": "Bayern",
- "Cases": 2049,
- "Cases_Last_Week": 198,
- "Cases_Last_Week_Per_100000": 144.1,
- "Cases_Last_Week_Per_Million": 1441,
- "Cases_New": 13,
- "Cases_Per_Million": 14913,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 78.7,
+ "Cases": 2069,
+ "Cases_Last_Week": 207,
+ "Cases_Last_Week_Per_100000": 150.6,
+ "Cases_Last_Week_Per_Million": 1506,
+ "Cases_New": 18,
+ "Cases_Per_Million": 15059,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 85.1,
  "DIVI_Intensivstationen_Covid_Prozent": 12.8,
- "Date_Latest": "2020-11-23",
+ "Date_Latest": "2020-11-24",
  "Deaths": 46,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Kreisfreie Stadt",
  "Landkreis": "Ingolstadt (Kreisfreie Stadt)",
  "Population": 137392,
- "Slope_Cases_New_Per_Million": -35.99,
- "Slope_Deaths_New_Per_Million": -1.92
+ "Slope_Cases_New_Per_Million": -62.73,
+ "Slope_Deaths_New_Per_Million": -1.65
 }

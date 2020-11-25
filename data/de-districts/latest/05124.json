@@ -1,15 +1,15 @@
 {
  "BL_Code": "NW",
  "Bundesland": "Nordrhein-Westfalen",
- "Cases": 5774,
- "Cases_Last_Week": 692,
- "Cases_Last_Week_Per_100000": 194.8,
- "Cases_Last_Week_Per_Million": 1948,
- "Cases_New": 131,
- "Cases_Per_Million": 16260,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 82.7,
- "DIVI_Intensivstationen_Covid_Prozent": 14.0,
- "Date_Latest": "2020-11-23",
+ "Cases": 5888,
+ "Cases_Last_Week": 700,
+ "Cases_Last_Week_Per_100000": 197.1,
+ "Cases_Last_Week_Per_Million": 1971,
+ "Cases_New": 117,
+ "Cases_Per_Million": 16581,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 83.3,
+ "DIVI_Intensivstationen_Covid_Prozent": 13.3,
+ "Date_Latest": "2020-11-24",
  "Deaths": 106,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Kreisfreie Stadt",
  "Landkreis": "Wuppertal (Kreisfreie Stadt)",
  "Population": 355100,
- "Slope_Cases_New_Per_Million": 7.6,
- "Slope_Deaths_New_Per_Million": -0.22
+ "Slope_Cases_New_Per_Million": 9.95,
+ "Slope_Deaths_New_Per_Million": -0.48
 }

@@ -1,15 +1,15 @@
 {
  "BL_Code": "BY",
  "Bundesland": "Bayern",
- "Cases": 2784,
- "Cases_Last_Week": 260,
- "Cases_Last_Week_Per_100000": 144.4,
- "Cases_Last_Week_Per_Million": 1444,
- "Cases_New": 101,
- "Cases_Per_Million": 15466,
+ "Cases": 2831,
+ "Cases_Last_Week": 291,
+ "Cases_Last_Week_Per_100000": 161.6,
+ "Cases_Last_Week_Per_Million": 1616,
+ "Cases_New": 44,
+ "Cases_Per_Million": 15727,
  "DIVI_Intensivstationen_Betten_belegt_Prozent": 92.9,
  "DIVI_Intensivstationen_Covid_Prozent": 35.7,
- "Date_Latest": "2020-11-23",
+ "Date_Latest": "2020-11-24",
  "Deaths": 50,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Freising (Landkreis)",
  "Population": 180007,
- "Slope_Cases_New_Per_Million": -55.2,
- "Slope_Deaths_New_Per_Million": -0.59
+ "Slope_Cases_New_Per_Million": -47.97,
+ "Slope_Deaths_New_Per_Million": -0.55
 }
