@@ -1,15 +1,15 @@
 {
  "BL_Code": "RP",
  "Bundesland": "Rheinland-Pfalz",
- "Cases": 849,
- "Cases_Last_Week": 71,
- "Cases_Last_Week_Per_100000": 63.6,
- "Cases_Last_Week_Per_Million": 636,
- "Cases_New": 12,
- "Cases_Per_Million": 7612,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 70.5,
- "DIVI_Intensivstationen_Covid_Prozent": 6.7,
- "Date_Latest": "2020-11-24",
+ "Cases": 864,
+ "Cases_Last_Week": 64,
+ "Cases_Last_Week_Per_100000": 57.3,
+ "Cases_Last_Week_Per_Million": 573,
+ "Cases_New": 9,
+ "Cases_Per_Million": 7746,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 76.2,
+ "DIVI_Intensivstationen_Covid_Prozent": 7.6,
+ "Date_Latest": "2020-11-25",
  "Deaths": 4,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Kreisfreie Stadt",
  "Landkreis": "Trier (Kreisfreie Stadt)",
  "Population": 111528,
- "Slope_Cases_New_Per_Million": -12.31,
- "Slope_Deaths_New_Per_Million": 0.22
+ "Slope_Cases_New_Per_Million": -12.32,
+ "Slope_Deaths_New_Per_Million": 0.16
 }

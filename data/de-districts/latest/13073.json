@@ -1,15 +1,15 @@
 {
  "BL_Code": "MV",
  "Bundesland": "Mecklenburg-Vorpommern",
- "Cases": 674,
- "Cases_Last_Week": 45,
- "Cases_Last_Week_Per_100000": 20.0,
- "Cases_Last_Week_Per_Million": 200,
- "Cases_New": 5,
- "Cases_Per_Million": 2999,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 77.2,
- "DIVI_Intensivstationen_Covid_Prozent": 5.3,
- "Date_Latest": "2020-11-24",
+ "Cases": 677,
+ "Cases_Last_Week": 36,
+ "Cases_Last_Week_Per_100000": 16.0,
+ "Cases_Last_Week_Per_Million": 160,
+ "Cases_New": 2,
+ "Cases_Per_Million": 3012,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 78.6,
+ "DIVI_Intensivstationen_Covid_Prozent": 5.4,
+ "Date_Latest": "2020-11-25",
  "Deaths": 8,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Vorpommern-Rügen (Landkreis)",
  "Population": 224702,
- "Slope_Cases_New_Per_Million": -21.24,
- "Slope_Deaths_New_Per_Million": -0.43
+ "Slope_Cases_New_Per_Million": -21.36,
+ "Slope_Deaths_New_Per_Million": -0.33
 }

@@ -1,15 +1,15 @@
 {
  "BL_Code": "RP",
  "Bundesland": "Rheinland-Pfalz",
- "Cases": 621,
- "Cases_Last_Week": 71,
- "Cases_Last_Week_Per_100000": 115.6,
- "Cases_Last_Week_Per_Million": 1156,
- "Cases_New": 12,
- "Cases_Per_Million": 10118,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 46.2,
- "DIVI_Intensivstationen_Covid_Prozent": 7.7,
- "Date_Latest": "2020-11-24",
+ "Cases": 637,
+ "Cases_Last_Week": 75,
+ "Cases_Last_Week_Per_100000": 122.1,
+ "Cases_Last_Week_Per_Million": 1221,
+ "Cases_New": 13,
+ "Cases_Per_Million": 10378,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 53.8,
+ "DIVI_Intensivstationen_Covid_Prozent": 0.0,
+ "Date_Latest": "2020-11-25",
  "Deaths": 5,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Cochem-Zell (Landkreis)",
  "Population": 61375,
- "Slope_Cases_New_Per_Million": -32.35,
- "Slope_Deaths_New_Per_Million": -0.25
+ "Slope_Cases_New_Per_Million": -52.83,
+ "Slope_Deaths_New_Per_Million": -1.75
 }

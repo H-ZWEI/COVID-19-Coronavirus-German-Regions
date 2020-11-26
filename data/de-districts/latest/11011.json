@@ -1,15 +1,15 @@
 {
  "BL_Code": "BE",
  "Bundesland": "Berlin",
- "Cases": 3010,
- "Cases_Last_Week": 347,
- "Cases_Last_Week_Per_100000": 121.1,
- "Cases_Last_Week_Per_Million": 1211,
- "Cases_New": 34,
- "Cases_Per_Million": 10505,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 84.6,
- "DIVI_Intensivstationen_Covid_Prozent": 24.0,
- "Date_Latest": "2020-11-24",
+ "Cases": 3091,
+ "Cases_Last_Week": 386,
+ "Cases_Last_Week_Per_100000": 134.7,
+ "Cases_Last_Week_Per_Million": 1347,
+ "Cases_New": 16,
+ "Cases_Per_Million": 10788,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 85.6,
+ "DIVI_Intensivstationen_Covid_Prozent": 23.3,
+ "Date_Latest": "2020-11-25",
  "Deaths": 37,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Bezirk",
  "Landkreis": "Berlin Lichtenberg (Bezirk)",
  "Population": 286522,
- "Slope_Cases_New_Per_Million": -20.41,
- "Slope_Deaths_New_Per_Million": -0.78
+ "Slope_Cases_New_Per_Million": -21.42,
+ "Slope_Deaths_New_Per_Million": -0.74
 }

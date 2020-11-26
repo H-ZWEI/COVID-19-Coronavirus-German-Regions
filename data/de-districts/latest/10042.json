@@ -1,15 +1,15 @@
 {
  "BL_Code": "SL",
  "Bundesland": "Saarland",
- "Cases": 1209,
- "Cases_Last_Week": 103,
- "Cases_Last_Week_Per_100000": 99.7,
- "Cases_Last_Week_Per_Million": 997,
- "Cases_New": 21,
- "Cases_Per_Million": 11710,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 38.9,
+ "Cases": 1226,
+ "Cases_Last_Week": 94,
+ "Cases_Last_Week_Per_100000": 91.0,
+ "Cases_Last_Week_Per_Million": 910,
+ "Cases_New": 15,
+ "Cases_Per_Million": 11874,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 44.4,
  "DIVI_Intensivstationen_Covid_Prozent": 0.0,
- "Date_Latest": "2020-11-24",
+ "Date_Latest": "2020-11-25",
  "Deaths": 22,
  "Deaths_Last_Week": 1,
  "Deaths_Last_Week_Per_Million": 9.69,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Merzig-Wadern (Landkreis)",
  "Population": 103243,
- "Slope_Cases_New_Per_Million": -130.34,
- "Slope_Deaths_New_Per_Million": -2.87
+ "Slope_Cases_New_Per_Million": -145.65,
+ "Slope_Deaths_New_Per_Million": -3.66
 }

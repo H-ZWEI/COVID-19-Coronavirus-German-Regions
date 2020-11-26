@@ -1,15 +1,15 @@
 {
  "BL_Code": "RP",
  "Bundesland": "Rheinland-Pfalz",
- "Cases": 427,
- "Cases_Last_Week": 74,
- "Cases_Last_Week_Per_100000": 151.7,
- "Cases_Last_Week_Per_Million": 1517,
- "Cases_New": 1,
- "Cases_Per_Million": 8756,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 66.7,
- "DIVI_Intensivstationen_Covid_Prozent": 26.7,
- "Date_Latest": "2020-11-24",
+ "Cases": 441,
+ "Cases_Last_Week": 81,
+ "Cases_Last_Week_Per_100000": 166.1,
+ "Cases_Last_Week_Per_Million": 1661,
+ "Cases_New": 7,
+ "Cases_Per_Million": 9043,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 73.3,
+ "DIVI_Intensivstationen_Covid_Prozent": 33.3,
+ "Date_Latest": "2020-11-25",
  "Deaths": 4,
  "Deaths_Last_Week": 1,
  "Deaths_Last_Week_Per_Million": 20.51,
@@ -20,6 +20,6 @@
  "LK_Typ": "Kreisfreie Stadt",
  "Landkreis": "Frankenthal (Pfalz) (Kreisfreie Stadt)",
  "Population": 48762,
- "Slope_Cases_New_Per_Million": 7.8,
- "Slope_Deaths_New_Per_Million": 2.16
+ "Slope_Cases_New_Per_Million": -0.18,
+ "Slope_Deaths_New_Per_Million": 2.21
 }

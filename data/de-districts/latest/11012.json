@@ -1,15 +1,15 @@
 {
  "BL_Code": "BE",
  "Bundesland": "Berlin",
- "Cases": 4445,
- "Cases_Last_Week": 559,
- "Cases_Last_Week_Per_100000": 215.2,
- "Cases_Last_Week_Per_Million": 2152,
- "Cases_New": 69,
- "Cases_Per_Million": 17116,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 84.6,
- "DIVI_Intensivstationen_Covid_Prozent": 24.0,
- "Date_Latest": "2020-11-24",
+ "Cases": 4579,
+ "Cases_Last_Week": 594,
+ "Cases_Last_Week_Per_100000": 228.7,
+ "Cases_Last_Week_Per_Million": 2287,
+ "Cases_New": 76,
+ "Cases_Per_Million": 17632,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 85.6,
+ "DIVI_Intensivstationen_Covid_Prozent": 23.3,
+ "Date_Latest": "2020-11-25",
  "Deaths": 43,
  "Deaths_Last_Week": 1,
  "Deaths_Last_Week_Per_Million": 3.85,
@@ -20,6 +20,6 @@
  "LK_Typ": "Bezirk",
  "Landkreis": "Berlin Reinickendorf (Bezirk)",
  "Population": 259689,
- "Slope_Cases_New_Per_Million": -37.4,
- "Slope_Deaths_New_Per_Million": -1.46
+ "Slope_Cases_New_Per_Million": -35.03,
+ "Slope_Deaths_New_Per_Million": -1.98
 }

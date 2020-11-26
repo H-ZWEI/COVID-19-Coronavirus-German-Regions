@@ -1,15 +1,15 @@
 {
  "BL_Code": "HH",
  "Bundesland": "Hamburg",
- "Cases": 23331,
- "Cases_Last_Week": 1827,
- "Cases_Last_Week_Per_100000": 98.9,
- "Cases_Last_Week_Per_Million": 989,
- "Cases_New": 1,
- "Cases_Per_Million": 12630,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 79.1,
- "DIVI_Intensivstationen_Covid_Prozent": 12.3,
- "Date_Latest": "2020-11-24",
+ "Cases": 23330,
+ "Cases_Last_Week": 1330,
+ "Cases_Last_Week_Per_100000": 71.9,
+ "Cases_Last_Week_Per_Million": 719,
+ "Cases_New": 0,
+ "Cases_Per_Million": 12629,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 77.4,
+ "DIVI_Intensivstationen_Covid_Prozent": 11.1,
+ "Date_Latest": "2020-11-25",
  "Deaths": 347,
  "Deaths_Last_Week": 1,
  "Deaths_Last_Week_Per_Million": 0.54,
@@ -20,6 +20,6 @@
  "LK_Typ": "Kreisfreie Stadt",
  "Landkreis": "Hamburg (Kreisfreie Stadt)",
  "Population": 1847253,
- "Slope_Cases_New_Per_Million": -40.49,
- "Slope_Deaths_New_Per_Million": -0.68
+ "Slope_Cases_New_Per_Million": -52.62,
+ "Slope_Deaths_New_Per_Million": -0.7
 }
