@@ -1,15 +1,15 @@
 {
  "BL_Code": "BY",
  "Bundesland": "Bayern",
- "Cases": 1608,
- "Cases_Last_Week": 218,
- "Cases_Last_Week_Per_100000": 139.7,
- "Cases_Last_Week_Per_Million": 1397,
- "Cases_New": 38,
- "Cases_Per_Million": 10307,
+ "Cases": 1632,
+ "Cases_Last_Week": 202,
+ "Cases_Last_Week_Per_100000": 129.4,
+ "Cases_Last_Week_Per_Million": 1294,
+ "Cases_New": 24,
+ "Cases_Per_Million": 10461,
  "DIVI_Intensivstationen_Betten_belegt_Prozent": 81.2,
  "DIVI_Intensivstationen_Covid_Prozent": 37.5,
- "Date_Latest": "2020-11-25",
+ "Date_Latest": "2020-11-26",
  "Deaths": 14,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Oberallgäu (Landkreis)",
  "Population": 156008,
- "Slope_Cases_New_Per_Million": -19.53,
- "Slope_Deaths_New_Per_Million": 0.59
+ "Slope_Cases_New_Per_Million": -26.19,
+ "Slope_Deaths_New_Per_Million": 0.2
 }

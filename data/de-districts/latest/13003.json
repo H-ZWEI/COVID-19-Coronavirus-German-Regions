@@ -1,15 +1,15 @@
 {
  "BL_Code": "MV",
  "Bundesland": "Mecklenburg-Vorpommern",
- "Cases": 625,
- "Cases_Last_Week": 68,
- "Cases_Last_Week_Per_100000": 32.5,
- "Cases_Last_Week_Per_Million": 325,
- "Cases_New": 11,
- "Cases_Per_Million": 2987,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 79.2,
- "DIVI_Intensivstationen_Covid_Prozent": 1.9,
- "Date_Latest": "2020-11-25",
+ "Cases": 635,
+ "Cases_Last_Week": 67,
+ "Cases_Last_Week_Per_100000": 32.0,
+ "Cases_Last_Week_Per_Million": 320,
+ "Cases_New": 10,
+ "Cases_Per_Million": 3035,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 83.0,
+ "DIVI_Intensivstationen_Covid_Prozent": 0.9,
+ "Date_Latest": "2020-11-26",
  "Deaths": 6,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Kreisfreie Stadt",
  "Landkreis": "Rostock (Kreisfreie Stadt)",
  "Population": 209191,
- "Slope_Cases_New_Per_Million": 5.02,
- "Slope_Deaths_New_Per_Million": -0.22
+ "Slope_Cases_New_Per_Million": 8.06,
+ "Slope_Deaths_New_Per_Million": -0.37
 }

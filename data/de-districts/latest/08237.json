@@ -1,15 +1,15 @@
 {
  "BL_Code": "BW",
  "Bundesland": "Baden-Württemberg",
- "Cases": 1450,
- "Cases_Last_Week": 141,
- "Cases_Last_Week_Per_100000": 119.2,
- "Cases_Last_Week_Per_Million": 1192,
- "Cases_New": 12,
- "Cases_Per_Million": 12262,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 85.7,
- "DIVI_Intensivstationen_Covid_Prozent": 14.3,
- "Date_Latest": "2020-11-25",
+ "Cases": 1468,
+ "Cases_Last_Week": 137,
+ "Cases_Last_Week_Per_100000": 115.8,
+ "Cases_Last_Week_Per_Million": 1158,
+ "Cases_New": 2,
+ "Cases_Per_Million": 12415,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 71.4,
+ "DIVI_Intensivstationen_Covid_Prozent": 21.4,
+ "Date_Latest": "2020-11-26",
  "Deaths": 43,
  "Deaths_Last_Week": 1,
  "Deaths_Last_Week_Per_Million": 8.46,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Freudenstadt (Landkreis)",
  "Population": 118243,
- "Slope_Cases_New_Per_Million": -4.2,
- "Slope_Deaths_New_Per_Million": -0.71
+ "Slope_Cases_New_Per_Million": 0.58,
+ "Slope_Deaths_New_Per_Million": -0.15
 }

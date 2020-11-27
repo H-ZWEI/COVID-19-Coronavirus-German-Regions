@@ -1,15 +1,15 @@
 {
  "BL_Code": "ST",
  "Bundesland": "Sachsen-Anhalt",
- "Cases": 289,
- "Cases_Last_Week": 66,
- "Cases_Last_Week_Per_100000": 82.3,
- "Cases_Last_Week_Per_Million": 823,
- "Cases_New": 24,
- "Cases_Per_Million": 3607,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 57.7,
+ "Cases": 306,
+ "Cases_Last_Week": 76,
+ "Cases_Last_Week_Per_100000": 94.8,
+ "Cases_Last_Week_Per_Million": 948,
+ "Cases_New": 15,
+ "Cases_Per_Million": 3820,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 48.1,
  "DIVI_Intensivstationen_Covid_Prozent": 3.8,
- "Date_Latest": "2020-11-25",
+ "Date_Latest": "2020-11-26",
  "Deaths": 5,
  "Deaths_Last_Week": 1,
  "Deaths_Last_Week_Per_Million": 12.48,
@@ -20,6 +20,6 @@
  "LK_Typ": "Kreisfreie Stadt",
  "Landkreis": "Dessau-Roßlau (Kreisfreie Stadt)",
  "Population": 80103,
- "Slope_Cases_New_Per_Million": 48.52,
- "Slope_Deaths_New_Per_Million": 1.32
+ "Slope_Cases_New_Per_Million": 62.83,
+ "Slope_Deaths_New_Per_Million": 1.34
 }

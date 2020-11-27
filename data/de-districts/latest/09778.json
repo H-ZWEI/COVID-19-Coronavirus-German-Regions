@@ -1,15 +1,15 @@
 {
  "BL_Code": "BY",
  "Bundesland": "Bayern",
- "Cases": 1719,
- "Cases_Last_Week": 171,
- "Cases_Last_Week_Per_100000": 117.6,
- "Cases_Last_Week_Per_Million": 1176,
- "Cases_New": 26,
- "Cases_Per_Million": 11827,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 71.4,
- "DIVI_Intensivstationen_Covid_Prozent": 7.1,
- "Date_Latest": "2020-11-25",
+ "Cases": 1750,
+ "Cases_Last_Week": 156,
+ "Cases_Last_Week_Per_100000": 107.3,
+ "Cases_Last_Week_Per_Million": 1073,
+ "Cases_New": 22,
+ "Cases_Per_Million": 12040,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 100.0,
+ "DIVI_Intensivstationen_Covid_Prozent": 14.3,
+ "Date_Latest": "2020-11-26",
  "Deaths": 40,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Unterallgäu (Landkreis)",
  "Population": 145341,
- "Slope_Cases_New_Per_Million": -36.75,
- "Slope_Deaths_New_Per_Million": -1.38
+ "Slope_Cases_New_Per_Million": -39.48,
+ "Slope_Deaths_New_Per_Million": -1.51
 }

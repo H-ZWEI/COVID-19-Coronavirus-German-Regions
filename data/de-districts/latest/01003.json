@@ -1,15 +1,15 @@
 {
  "BL_Code": "SH",
  "Bundesland": "Schleswig-Holstein",
- "Cases": 1133,
- "Cases_Last_Week": 85,
- "Cases_Last_Week_Per_100000": 39.2,
- "Cases_Last_Week_Per_Million": 392,
- "Cases_New": 3,
- "Cases_Per_Million": 5232,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 83.3,
+ "Cases": 1159,
+ "Cases_Last_Week": 91,
+ "Cases_Last_Week_Per_100000": 42.0,
+ "Cases_Last_Week_Per_Million": 420,
+ "Cases_New": 6,
+ "Cases_Per_Million": 5352,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 79.7,
  "DIVI_Intensivstationen_Covid_Prozent": 1.4,
- "Date_Latest": "2020-11-25",
+ "Date_Latest": "2020-11-26",
  "Deaths": 6,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Kreisfreie Stadt",
  "Landkreis": "Lübeck (Kreisfreie Stadt)",
  "Population": 216530,
- "Slope_Cases_New_Per_Million": -33.78,
- "Slope_Deaths_New_Per_Million": -0.5
+ "Slope_Cases_New_Per_Million": -34.65,
+ "Slope_Deaths_New_Per_Million": -0.49
 }

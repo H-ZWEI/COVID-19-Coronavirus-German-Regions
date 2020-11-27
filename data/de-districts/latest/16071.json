@@ -1,15 +1,15 @@
 {
  "BL_Code": "TH",
  "Bundesland": "Thüringen",
- "Cases": 498,
- "Cases_Last_Week": 67,
- "Cases_Last_Week_Per_100000": 81.5,
- "Cases_Last_Week_Per_Million": 815,
- "Cases_New": 9,
- "Cases_Per_Million": 6061,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 79.2,
- "DIVI_Intensivstationen_Covid_Prozent": 7.9,
- "Date_Latest": "2020-11-25",
+ "Cases": 519,
+ "Cases_Last_Week": 71,
+ "Cases_Last_Week_Per_100000": 86.4,
+ "Cases_Last_Week_Per_Million": 864,
+ "Cases_New": 21,
+ "Cases_Per_Million": 6317,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 76.2,
+ "DIVI_Intensivstationen_Covid_Prozent": 8.9,
+ "Date_Latest": "2020-11-26",
  "Deaths": 8,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Weimarer Land (Landkreis)",
  "Population": 82156,
- "Slope_Cases_New_Per_Million": -6.8,
- "Slope_Deaths_New_Per_Million": -0.35
+ "Slope_Cases_New_Per_Million": 6.87,
+ "Slope_Deaths_New_Per_Million": 0.0
 }

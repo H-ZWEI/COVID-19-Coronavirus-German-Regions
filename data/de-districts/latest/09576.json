@@ -1,15 +1,15 @@
 {
  "BL_Code": "BY",
  "Bundesland": "Bayern",
- "Cases": 1312,
- "Cases_Last_Week": 198,
- "Cases_Last_Week_Per_100000": 156.2,
- "Cases_Last_Week_Per_Million": 1562,
- "Cases_New": 15,
- "Cases_Per_Million": 10351,
+ "Cases": 1351,
+ "Cases_Last_Week": 197,
+ "Cases_Last_Week_Per_100000": 155.4,
+ "Cases_Last_Week_Per_Million": 1554,
+ "Cases_New": 39,
+ "Cases_Per_Million": 10658,
  "DIVI_Intensivstationen_Betten_belegt_Prozent": 75.0,
  "DIVI_Intensivstationen_Covid_Prozent": 0.0,
- "Date_Latest": "2020-11-25",
+ "Date_Latest": "2020-11-26",
  "Deaths": 15,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Roth (Landkreis)",
  "Population": 126749,
- "Slope_Cases_New_Per_Million": -5.74,
- "Slope_Deaths_New_Per_Million": 0.49
+ "Slope_Cases_New_Per_Million": -9.25,
+ "Slope_Deaths_New_Per_Million": -0.49
 }
