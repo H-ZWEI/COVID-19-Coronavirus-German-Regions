@@ -1,15 +1,15 @@
 {
  "BL_Code": "BB",
  "Bundesland": "Brandenburg",
- "Cases": 1378,
- "Cases_Last_Week": 133,
- "Cases_Last_Week_Per_100000": 62.4,
- "Cases_Last_Week_Per_Million": 624,
+ "Cases": 1429,
+ "Cases_Last_Week": 123,
+ "Cases_Last_Week_Per_100000": 57.7,
+ "Cases_Last_Week_Per_Million": 577,
  "Cases_New": 0,
- "Cases_Per_Million": 6472,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 65.9,
+ "Cases_Per_Million": 6711,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 61.0,
  "DIVI_Intensivstationen_Covid_Prozent": 4.9,
- "Date_Latest": "2020-11-26",
+ "Date_Latest": "2020-11-27",
  "Deaths": 15,
  "Deaths_Last_Week": 1,
  "Deaths_Last_Week_Per_Million": 4.7,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Oberhavel (Landkreis)",
  "Population": 212914,
- "Slope_Cases_New_Per_Million": 0.22,
- "Slope_Deaths_New_Per_Million": 0.79
+ "Slope_Cases_New_Per_Million": -0.57,
+ "Slope_Deaths_New_Per_Million": 0.49
 }

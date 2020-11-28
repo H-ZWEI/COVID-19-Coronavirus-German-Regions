@@ -1,15 +1,15 @@
 {
  "BL_Code": "NI",
  "Bundesland": "Niedersachsen",
- "Cases": 2273,
- "Cases_Last_Week": 226,
- "Cases_Last_Week_Per_100000": 104.1,
- "Cases_Last_Week_Per_Million": 1041,
- "Cases_New": 24,
- "Cases_Per_Million": 10470,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 47.4,
- "DIVI_Intensivstationen_Covid_Prozent": 10.5,
- "Date_Latest": "2020-11-26",
+ "Cases": 2327,
+ "Cases_Last_Week": 231,
+ "Cases_Last_Week_Per_100000": 106.4,
+ "Cases_Last_Week_Per_Million": 1064,
+ "Cases_New": 35,
+ "Cases_Per_Million": 10719,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 57.9,
+ "DIVI_Intensivstationen_Covid_Prozent": 15.8,
+ "Date_Latest": "2020-11-27",
  "Deaths": 41,
  "Deaths_Last_Week": 1,
  "Deaths_Last_Week_Per_Million": 4.61,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Diepholz (Landkreis)",
  "Population": 217089,
- "Slope_Cases_New_Per_Million": -35.15,
- "Slope_Deaths_New_Per_Million": 0.28
+ "Slope_Cases_New_Per_Million": -38.55,
+ "Slope_Deaths_New_Per_Million": 0.12
 }

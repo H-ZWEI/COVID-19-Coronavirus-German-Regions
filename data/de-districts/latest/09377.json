@@ -1,15 +1,15 @@
 {
  "BL_Code": "BY",
  "Bundesland": "Bayern",
- "Cases": 1798,
- "Cases_Last_Week": 91,
- "Cases_Last_Week_Per_100000": 126.3,
- "Cases_Last_Week_Per_Million": 1263,
- "Cases_New": 11,
- "Cases_Per_Million": 24956,
+ "Cases": 1812,
+ "Cases_Last_Week": 93,
+ "Cases_Last_Week_Per_100000": 129.0,
+ "Cases_Last_Week_Per_Million": 1290,
+ "Cases_New": 14,
+ "Cases_Per_Million": 25150,
  "DIVI_Intensivstationen_Betten_belegt_Prozent": 82.4,
  "DIVI_Intensivstationen_Covid_Prozent": 41.2,
- "Date_Latest": "2020-11-26",
+ "Date_Latest": "2020-11-27",
  "Deaths": 148,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Tirschenreuth (Landkreis)",
  "Population": 72046,
- "Slope_Cases_New_Per_Million": -4.99,
- "Slope_Deaths_New_Per_Million": -1.68
+ "Slope_Cases_New_Per_Million": -2.69,
+ "Slope_Deaths_New_Per_Million": -2.01
 }

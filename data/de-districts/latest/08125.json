@@ -1,15 +1,15 @@
 {
  "BL_Code": "BW",
  "Bundesland": "Baden-Württemberg",
- "Cases": 4125,
- "Cases_Last_Week": 432,
- "Cases_Last_Week_Per_100000": 125.4,
- "Cases_Last_Week_Per_Million": 1254,
- "Cases_New": 70,
- "Cases_Per_Million": 11975,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 88.0,
- "DIVI_Intensivstationen_Covid_Prozent": 12.0,
- "Date_Latest": "2020-11-26",
+ "Cases": 4187,
+ "Cases_Last_Week": 416,
+ "Cases_Last_Week_Per_100000": 120.7,
+ "Cases_Last_Week_Per_Million": 1207,
+ "Cases_New": 26,
+ "Cases_Per_Million": 12155,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 90.0,
+ "DIVI_Intensivstationen_Covid_Prozent": 10.0,
+ "Date_Latest": "2020-11-27",
  "Deaths": 58,
  "Deaths_Last_Week": 2,
  "Deaths_Last_Week_Per_Million": 5.81,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Heilbronn (Landkreis)",
  "Population": 344456,
- "Slope_Cases_New_Per_Million": -28.4,
- "Slope_Deaths_New_Per_Million": -0.15
+ "Slope_Cases_New_Per_Million": -25.13,
+ "Slope_Deaths_New_Per_Million": -0.24
 }

@@ -1,15 +1,15 @@
 {
  "BL_Code": "BY",
  "Bundesland": "Bayern",
- "Cases": 1126,
- "Cases_Last_Week": 187,
- "Cases_Last_Week_Per_100000": 160.9,
- "Cases_Last_Week_Per_Million": 1609,
- "Cases_New": 31,
- "Cases_Per_Million": 9689,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 92.9,
+ "Cases": 1149,
+ "Cases_Last_Week": 171,
+ "Cases_Last_Week_Per_100000": 147.1,
+ "Cases_Last_Week_Per_Million": 1471,
+ "Cases_New": 17,
+ "Cases_Per_Million": 9887,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 100.0,
  "DIVI_Intensivstationen_Covid_Prozent": 28.6,
- "Date_Latest": "2020-11-26",
+ "Date_Latest": "2020-11-27",
  "Deaths": 12,
  "Deaths_Last_Week": 1,
  "Deaths_Last_Week_Per_Million": 8.61,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Forchheim (Landkreis)",
  "Population": 116203,
- "Slope_Cases_New_Per_Million": 5.93,
- "Slope_Deaths_New_Per_Million": -2.17
+ "Slope_Cases_New_Per_Million": 12.88,
+ "Slope_Deaths_New_Per_Million": -1.97
 }

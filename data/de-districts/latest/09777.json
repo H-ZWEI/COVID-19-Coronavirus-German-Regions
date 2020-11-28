@@ -1,15 +1,15 @@
 {
  "BL_Code": "BY",
  "Bundesland": "Bayern",
- "Cases": 1963,
- "Cases_Last_Week": 144,
- "Cases_Last_Week_Per_100000": 101.9,
- "Cases_Last_Week_Per_Million": 1019,
- "Cases_New": 6,
- "Cases_Per_Million": 13904,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 50.0,
- "DIVI_Intensivstationen_Covid_Prozent": 4.5,
- "Date_Latest": "2020-11-26",
+ "Cases": 1981,
+ "Cases_Last_Week": 116,
+ "Cases_Last_Week_Per_100000": 82.1,
+ "Cases_Last_Week_Per_Million": 821,
+ "Cases_New": 5,
+ "Cases_Per_Million": 14031,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 63.6,
+ "DIVI_Intensivstationen_Covid_Prozent": 9.1,
+ "Date_Latest": "2020-11-27",
  "Deaths": 48,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Ostallgäu (Landkreis)",
  "Population": 141182,
- "Slope_Cases_New_Per_Million": -34.0,
- "Slope_Deaths_New_Per_Million": -0.22
+ "Slope_Cases_New_Per_Million": -45.68,
+ "Slope_Deaths_New_Per_Million": -0.65
 }

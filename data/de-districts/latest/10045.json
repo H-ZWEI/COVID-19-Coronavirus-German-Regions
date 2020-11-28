@@ -1,15 +1,15 @@
 {
  "BL_Code": "SL",
  "Bundesland": "Saarland",
- "Cases": 1467,
- "Cases_Last_Week": 162,
- "Cases_Last_Week_Per_100000": 113.9,
- "Cases_Last_Week_Per_Million": 1139,
+ "Cases": 1491,
+ "Cases_Last_Week": 156,
+ "Cases_Last_Week_Per_100000": 109.7,
+ "Cases_Last_Week_Per_Million": 1097,
  "Cases_New": 15,
- "Cases_Per_Million": 10316,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 92.8,
- "DIVI_Intensivstationen_Covid_Prozent": 12.6,
- "Date_Latest": "2020-11-26",
+ "Cases_Per_Million": 10485,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 88.4,
+ "DIVI_Intensivstationen_Covid_Prozent": 12.1,
+ "Date_Latest": "2020-11-27",
  "Deaths": 23,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Saarpfalz-Kreis (Landkreis)",
  "Population": 142196,
- "Slope_Cases_New_Per_Million": -1.65,
- "Slope_Deaths_New_Per_Million": -0.97
+ "Slope_Cases_New_Per_Million": -0.37,
+ "Slope_Deaths_New_Per_Million": -1.39
 }

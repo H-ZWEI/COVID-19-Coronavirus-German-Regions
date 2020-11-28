@@ -1,15 +1,15 @@
 {
  "BL_Code": "BY",
  "Bundesland": "Bayern",
- "Cases": 1960,
- "Cases_Last_Week": 243,
- "Cases_Last_Week_Per_100000": 142.2,
- "Cases_Last_Week_Per_Million": 1422,
- "Cases_New": 47,
- "Cases_Per_Million": 11475,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 92.0,
- "DIVI_Intensivstationen_Covid_Prozent": 24.0,
- "Date_Latest": "2020-11-26",
+ "Cases": 1986,
+ "Cases_Last_Week": 234,
+ "Cases_Last_Week_Per_100000": 137.0,
+ "Cases_Last_Week_Per_Million": 1370,
+ "Cases_New": 25,
+ "Cases_Per_Million": 11628,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 92.3,
+ "DIVI_Intensivstationen_Covid_Prozent": 23.1,
+ "Date_Latest": "2020-11-27",
  "Deaths": 52,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Nürnberger Land (Landkreis)",
  "Population": 170792,
- "Slope_Cases_New_Per_Million": 7.98,
- "Slope_Deaths_New_Per_Million": -2.2
+ "Slope_Cases_New_Per_Million": 4.57,
+ "Slope_Deaths_New_Per_Million": -2.23
 }

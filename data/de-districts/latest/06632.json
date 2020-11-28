@@ -1,15 +1,15 @@
 {
  "BL_Code": "HE",
  "Bundesland": "Hessen",
- "Cases": 954,
- "Cases_Last_Week": 108,
- "Cases_Last_Week_Per_100000": 89.4,
- "Cases_Last_Week_Per_Million": 894,
- "Cases_New": 26,
- "Cases_Per_Million": 7902,
+ "Cases": 973,
+ "Cases_Last_Week": 112,
+ "Cases_Last_Week_Per_100000": 92.7,
+ "Cases_Last_Week_Per_Million": 927,
+ "Cases_New": 19,
+ "Cases_Per_Million": 8060,
  "DIVI_Intensivstationen_Betten_belegt_Prozent": 85.0,
- "DIVI_Intensivstationen_Covid_Prozent": 21.7,
- "Date_Latest": "2020-11-26",
+ "DIVI_Intensivstationen_Covid_Prozent": 18.3,
+ "Date_Latest": "2020-11-27",
  "Deaths": 28,
  "Deaths_Last_Week": 1,
  "Deaths_Last_Week_Per_Million": 8.28,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Hersfeld-Rotenburg (Landkreis)",
  "Population": 120719,
- "Slope_Cases_New_Per_Million": 2.17,
- "Slope_Deaths_New_Per_Million": -0.44
+ "Slope_Cases_New_Per_Million": 3.19,
+ "Slope_Deaths_New_Per_Million": -0.22
 }

@@ -1,15 +1,15 @@
 {
  "BL_Code": "HE",
  "Bundesland": "Hessen",
- "Cases": 3052,
- "Cases_Last_Week": 330,
- "Cases_Last_Week_Per_100000": 138.3,
- "Cases_Last_Week_Per_Million": 1383,
+ "Cases": 3105,
+ "Cases_Last_Week": 327,
+ "Cases_Last_Week_Per_100000": 137.0,
+ "Cases_Last_Week_Per_Million": 1370,
  "Cases_New": 53,
- "Cases_Per_Million": 12793,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 89.7,
- "DIVI_Intensivstationen_Covid_Prozent": 27.6,
- "Date_Latest": "2020-11-26",
+ "Cases_Per_Million": 13015,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 75.9,
+ "DIVI_Intensivstationen_Covid_Prozent": 20.7,
+ "Date_Latest": "2020-11-27",
  "Deaths": 43,
  "Deaths_Last_Week": 1,
  "Deaths_Last_Week_Per_Million": 4.19,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Main-Taunus-Kreis (Landkreis)",
  "Population": 238558,
- "Slope_Cases_New_Per_Million": -31.96,
- "Slope_Deaths_New_Per_Million": -2.67
+ "Slope_Cases_New_Per_Million": -32.15,
+ "Slope_Deaths_New_Per_Million": -2.54
 }

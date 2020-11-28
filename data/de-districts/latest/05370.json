@@ -1,15 +1,15 @@
 {
  "BL_Code": "NW",
  "Bundesland": "Nordrhein-Westfalen",
- "Cases": 4437,
- "Cases_Last_Week": 442,
- "Cases_Last_Week_Per_100000": 172.9,
- "Cases_Last_Week_Per_Million": 1729,
- "Cases_New": 51,
- "Cases_Per_Million": 17362,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 91.7,
+ "Cases": 4513,
+ "Cases_Last_Week": 438,
+ "Cases_Last_Week_Per_100000": 171.3,
+ "Cases_Last_Week_Per_Million": 1713,
+ "Cases_New": 77,
+ "Cases_Per_Million": 17659,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 83.3,
  "DIVI_Intensivstationen_Covid_Prozent": 13.9,
- "Date_Latest": "2020-11-26",
+ "Date_Latest": "2020-11-27",
  "Deaths": 117,
  "Deaths_Last_Week": 2,
  "Deaths_Last_Week_Per_Million": 7.83,
@@ -20,6 +20,6 @@
  "LK_Typ": "Kreis",
  "Landkreis": "Heinsberg (Kreis)",
  "Population": 255555,
- "Slope_Cases_New_Per_Million": 15.67,
- "Slope_Deaths_New_Per_Million": -0.61
+ "Slope_Cases_New_Per_Million": 1.99,
+ "Slope_Deaths_New_Per_Million": -0.78
 }
