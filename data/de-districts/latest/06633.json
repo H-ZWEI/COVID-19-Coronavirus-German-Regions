@@ -1,15 +1,15 @@
 {
  "BL_Code": "HE",
  "Bundesland": "Hessen",
- "Cases": 2027,
- "Cases_Last_Week": 264,
- "Cases_Last_Week_Per_100000": 111.5,
- "Cases_Last_Week_Per_Million": 1115,
- "Cases_New": 49,
- "Cases_Per_Million": 8561,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 56.7,
+ "Cases": 2074,
+ "Cases_Last_Week": 266,
+ "Cases_Last_Week_Per_100000": 112.3,
+ "Cases_Last_Week_Per_Million": 1123,
+ "Cases_New": 47,
+ "Cases_Per_Million": 8759,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 66.7,
  "DIVI_Intensivstationen_Covid_Prozent": 6.7,
- "Date_Latest": "2020-11-27",
+ "Date_Latest": "2020-11-28",
  "Deaths": 55,
  "Deaths_Last_Week": 3,
  "Deaths_Last_Week_Per_Million": 12.67,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Kassel (Landkreis)",
  "Population": 236764,
- "Slope_Cases_New_Per_Million": -2.49,
- "Slope_Deaths_New_Per_Million": -0.42
+ "Slope_Cases_New_Per_Million": 0.36,
+ "Slope_Deaths_New_Per_Million": -0.23
 }

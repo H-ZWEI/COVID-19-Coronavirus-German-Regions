@@ -1,15 +1,15 @@
 {
  "BL_Code": "HE",
  "Bundesland": "Hessen",
- "Cases": 3331,
- "Cases_Last_Week": 408,
- "Cases_Last_Week_Per_100000": 136.9,
- "Cases_Last_Week_Per_Million": 1369,
- "Cases_New": 63,
- "Cases_Per_Million": 11183,
+ "Cases": 3414,
+ "Cases_Last_Week": 427,
+ "Cases_Last_Week_Per_100000": 143.3,
+ "Cases_Last_Week_Per_Million": 1433,
+ "Cases_New": 64,
+ "Cases_Per_Million": 11462,
  "DIVI_Intensivstationen_Betten_belegt_Prozent": 100.0,
- "DIVI_Intensivstationen_Covid_Prozent": 45.8,
- "Date_Latest": "2020-11-27",
+ "DIVI_Intensivstationen_Covid_Prozent": 43.5,
+ "Date_Latest": "2020-11-28",
  "Deaths": 41,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Darmstadt-Dieburg (Landkreis)",
  "Population": 297844,
- "Slope_Cases_New_Per_Million": -15.22,
- "Slope_Deaths_New_Per_Million": -1.2
+ "Slope_Cases_New_Per_Million": -12.48,
+ "Slope_Deaths_New_Per_Million": -1.05
 }

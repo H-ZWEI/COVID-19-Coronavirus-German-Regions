@@ -1,15 +1,15 @@
 {
  "BL_Code": "BY",
  "Bundesland": "Bayern",
- "Cases": 2104,
- "Cases_Last_Week": 211,
- "Cases_Last_Week_Per_100000": 142.6,
- "Cases_Last_Week_Per_Million": 1426,
+ "Cases": 2145,
+ "Cases_Last_Week": 224,
+ "Cases_Last_Week_Per_100000": 151.4,
+ "Cases_Last_Week_Per_Million": 1514,
  "Cases_New": 0,
- "Cases_Per_Million": 14228,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 66.7,
- "DIVI_Intensivstationen_Covid_Prozent": 18.2,
- "Date_Latest": "2020-11-27",
+ "Cases_Per_Million": 14505,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 63.6,
+ "DIVI_Intensivstationen_Covid_Prozent": 21.2,
+ "Date_Latest": "2020-11-28",
  "Deaths": 25,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Schwandorf (Landkreis)",
  "Population": 147872,
- "Slope_Cases_New_Per_Million": -93.89,
- "Slope_Deaths_New_Per_Million": -0.49
+ "Slope_Cases_New_Per_Million": -91.13,
+ "Slope_Deaths_New_Per_Million": -0.36
 }

@@ -1,15 +1,15 @@
 {
  "BL_Code": "RP",
  "Bundesland": "Rheinland-Pfalz",
- "Cases": 1262,
- "Cases_Last_Week": 153,
- "Cases_Last_Week_Per_100000": 115.3,
- "Cases_Last_Week_Per_Million": 1153,
- "Cases_New": 23,
- "Cases_Per_Million": 9512,
+ "Cases": 1270,
+ "Cases_Last_Week": 146,
+ "Cases_Last_Week_Per_100000": 110.0,
+ "Cases_Last_Week_Per_Million": 1100,
+ "Cases_New": 0,
+ "Cases_Per_Million": 9572,
  "DIVI_Intensivstationen_Betten_belegt_Prozent": 94.1,
  "DIVI_Intensivstationen_Covid_Prozent": 35.3,
- "Date_Latest": "2020-11-27",
+ "Date_Latest": "2020-11-28",
  "Deaths": 25,
  "Deaths_Last_Week": 2,
  "Deaths_Last_Week_Per_Million": 15.07,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Bad Dürkheim (Landkreis)",
  "Population": 132671,
- "Slope_Cases_New_Per_Million": 11.58,
- "Slope_Deaths_New_Per_Million": -1.18
+ "Slope_Cases_New_Per_Million": 3.42,
+ "Slope_Deaths_New_Per_Million": -1.09
 }

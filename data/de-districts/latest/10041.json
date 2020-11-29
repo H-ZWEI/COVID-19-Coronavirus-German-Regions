@@ -1,15 +1,15 @@
 {
  "BL_Code": "SL",
  "Bundesland": "Saarland",
- "Cases": 4519,
- "Cases_Last_Week": 371,
- "Cases_Last_Week_Per_100000": 112.8,
- "Cases_Last_Week_Per_Million": 1128,
- "Cases_New": 0,
- "Cases_Per_Million": 13747,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 86.3,
- "DIVI_Intensivstationen_Covid_Prozent": 14.9,
- "Date_Latest": "2020-11-27",
+ "Cases": 4642,
+ "Cases_Last_Week": 457,
+ "Cases_Last_Week_Per_100000": 139.0,
+ "Cases_Last_Week_Per_Million": 1390,
+ "Cases_New": 72,
+ "Cases_Per_Million": 14121,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 85.4,
+ "DIVI_Intensivstationen_Covid_Prozent": 18.1,
+ "Date_Latest": "2020-11-28",
  "Deaths": 133,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Regionalverband Saarbrücken (Landkreis)",
  "Population": 328714,
- "Slope_Cases_New_Per_Million": -30.17,
- "Slope_Deaths_New_Per_Million": -0.7
+ "Slope_Cases_New_Per_Million": -19.0,
+ "Slope_Deaths_New_Per_Million": -0.43
 }

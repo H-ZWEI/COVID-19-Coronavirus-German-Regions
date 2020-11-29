@@ -1,15 +1,15 @@
 {
  "BL_Code": "TH",
  "Bundesland": "Thüringen",
- "Cases": 613,
- "Cases_Last_Week": 75,
- "Cases_Last_Week_Per_100000": 90.4,
- "Cases_Last_Week_Per_Million": 904,
- "Cases_New": 14,
- "Cases_Per_Million": 7389,
+ "Cases": 631,
+ "Cases_Last_Week": 74,
+ "Cases_Last_Week_Per_100000": 89.2,
+ "Cases_Last_Week_Per_Million": 892,
+ "Cases_New": 18,
+ "Cases_Per_Million": 7606,
  "DIVI_Intensivstationen_Betten_belegt_Prozent": 75.0,
- "DIVI_Intensivstationen_Covid_Prozent": 0.0,
- "Date_Latest": "2020-11-27",
+ "DIVI_Intensivstationen_Covid_Prozent": 25.0,
+ "Date_Latest": "2020-11-28",
  "Deaths": 13,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Saale-Holzland-Kreis (Landkreis)",
  "Population": 82950,
- "Slope_Cases_New_Per_Million": -20.55,
- "Slope_Deaths_New_Per_Million": -0.32
+ "Slope_Cases_New_Per_Million": -26.79,
+ "Slope_Deaths_New_Per_Million": -0.45
 }
