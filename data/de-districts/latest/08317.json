@@ -1,15 +1,15 @@
 {
  "BL_Code": "BW",
  "Bundesland": "Baden-Württemberg",
- "Cases": 5598,
- "Cases_Last_Week": 508,
- "Cases_Last_Week_Per_100000": 117.8,
- "Cases_Last_Week_Per_Million": 1178,
- "Cases_New": 46,
- "Cases_Per_Million": 12989,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 83.5,
- "DIVI_Intensivstationen_Covid_Prozent": 14.4,
- "Date_Latest": "2020-11-28",
+ "Cases": 5666,
+ "Cases_Last_Week": 538,
+ "Cases_Last_Week_Per_100000": 124.8,
+ "Cases_Last_Week_Per_Million": 1248,
+ "Cases_New": 8,
+ "Cases_Per_Million": 13147,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 77.3,
+ "DIVI_Intensivstationen_Covid_Prozent": 12.4,
+ "Date_Latest": "2020-11-29",
  "Deaths": 158,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Ortenaukreis (Landkreis)",
  "Population": 430953,
- "Slope_Cases_New_Per_Million": -43.8,
- "Slope_Deaths_New_Per_Million": -1.15
+ "Slope_Cases_New_Per_Million": -40.32,
+ "Slope_Deaths_New_Per_Million": -1.17
 }

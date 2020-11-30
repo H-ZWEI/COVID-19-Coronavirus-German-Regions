@@ -1,15 +1,15 @@
 {
  "BL_Code": "BY",
  "Bundesland": "Bayern",
- "Cases": 2573,
+ "Cases": 2592,
  "Cases_Last_Week": 288,
  "Cases_Last_Week_Per_100000": 148.4,
  "Cases_Last_Week_Per_Million": 1484,
- "Cases_New": 17,
- "Cases_Per_Million": 13258,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 85.7,
- "DIVI_Intensivstationen_Covid_Prozent": 21.4,
- "Date_Latest": "2020-11-28",
+ "Cases_New": 7,
+ "Cases_Per_Million": 13356,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 71.4,
+ "DIVI_Intensivstationen_Covid_Prozent": 14.3,
+ "Date_Latest": "2020-11-29",
  "Deaths": 26,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Regensburg (Landkreis)",
  "Population": 194070,
- "Slope_Cases_New_Per_Million": -57.52,
- "Slope_Deaths_New_Per_Million": -1.29
+ "Slope_Cases_New_Per_Million": -69.15,
+ "Slope_Deaths_New_Per_Million": -1.45
 }

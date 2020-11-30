@@ -1,15 +1,15 @@
 {
  "BL_Code": "BE",
  "Bundesland": "Berlin",
- "Cases": 9037,
- "Cases_Last_Week": 731,
- "Cases_Last_Week_Per_100000": 194.8,
- "Cases_Last_Week_Per_Million": 1948,
+ "Cases": 9134,
+ "Cases_Last_Week": 828,
+ "Cases_Last_Week_Per_100000": 220.6,
+ "Cases_Last_Week_Per_Million": 2206,
  "Cases_New": 0,
- "Cases_Per_Million": 24083,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 88.4,
- "DIVI_Intensivstationen_Covid_Prozent": 23.7,
- "Date_Latest": "2020-11-28",
+ "Cases_Per_Million": 24341,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 87.9,
+ "DIVI_Intensivstationen_Covid_Prozent": 24.0,
+ "Date_Latest": "2020-11-29",
  "Deaths": 44,
  "Deaths_Last_Week": 4,
  "Deaths_Last_Week_Per_Million": 10.66,
@@ -20,6 +20,6 @@
  "LK_Typ": "Bezirk",
  "Landkreis": "Berlin Mitte (Bezirk)",
  "Population": 375238,
- "Slope_Cases_New_Per_Million": -154.93,
- "Slope_Deaths_New_Per_Million": -0.37
+ "Slope_Cases_New_Per_Million": -136.47,
+ "Slope_Deaths_New_Per_Million": 0.01
 }

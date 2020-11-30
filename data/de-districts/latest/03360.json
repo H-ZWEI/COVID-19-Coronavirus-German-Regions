@@ -1,15 +1,15 @@
 {
  "BL_Code": "NI",
  "Bundesland": "Niedersachsen",
- "Cases": 368,
- "Cases_Last_Week": 25,
- "Cases_Last_Week_Per_100000": 27.0,
- "Cases_Last_Week_Per_Million": 270,
- "Cases_New": 2,
- "Cases_Per_Million": 3983,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 75.6,
+ "Cases": 369,
+ "Cases_Last_Week": 24,
+ "Cases_Last_Week_Per_100000": 25.9,
+ "Cases_Last_Week_Per_Million": 259,
+ "Cases_New": 1,
+ "Cases_Per_Million": 3993,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 74.4,
  "DIVI_Intensivstationen_Covid_Prozent": 3.7,
- "Date_Latest": "2020-11-28",
+ "Date_Latest": "2020-11-29",
  "Deaths": 6,
  "Deaths_Last_Week": 1,
  "Deaths_Last_Week_Per_Million": 10.82,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Uelzen (Landkreis)",
  "Population": 92389,
- "Slope_Cases_New_Per_Million": -22.14,
- "Slope_Deaths_New_Per_Million": -1.09
+ "Slope_Cases_New_Per_Million": -47.11,
+ "Slope_Deaths_New_Per_Million": -1.86
 }

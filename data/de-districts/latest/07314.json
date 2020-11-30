@@ -1,15 +1,15 @@
 {
  "BL_Code": "RP",
  "Bundesland": "Rheinland-Pfalz",
- "Cases": 2530,
- "Cases_Last_Week": 236,
- "Cases_Last_Week_Per_100000": 137.0,
- "Cases_Last_Week_Per_Million": 1370,
- "Cases_New": 1,
- "Cases_Per_Million": 14687,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 83.6,
- "DIVI_Intensivstationen_Covid_Prozent": 27.9,
- "Date_Latest": "2020-11-28",
+ "Cases": 2552,
+ "Cases_Last_Week": 245,
+ "Cases_Last_Week_Per_100000": 142.2,
+ "Cases_Last_Week_Per_Million": 1422,
+ "Cases_New": 0,
+ "Cases_Per_Million": 14815,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 82.9,
+ "DIVI_Intensivstationen_Covid_Prozent": 27.6,
+ "Date_Latest": "2020-11-29",
  "Deaths": 13,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Kreisfreie Stadt",
  "Landkreis": "Ludwigshafen am Rhein (Kreisfreie Stadt)",
  "Population": 172253,
- "Slope_Cases_New_Per_Million": -114.16,
- "Slope_Deaths_New_Per_Million": -0.64
+ "Slope_Cases_New_Per_Million": -99.13,
+ "Slope_Deaths_New_Per_Million": -0.56
 }

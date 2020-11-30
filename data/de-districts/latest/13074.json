@@ -1,15 +1,15 @@
 {
  "BL_Code": "MV",
  "Bundesland": "Mecklenburg-Vorpommern",
- "Cases": 667,
- "Cases_Last_Week": 95,
- "Cases_Last_Week_Per_100000": 60.3,
- "Cases_Last_Week_Per_Million": 603,
- "Cases_New": 10,
- "Cases_Per_Million": 4239,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 62.5,
+ "Cases": 671,
+ "Cases_Last_Week": 97,
+ "Cases_Last_Week_Per_100000": 61.6,
+ "Cases_Last_Week_Per_Million": 616,
+ "Cases_New": 3,
+ "Cases_Per_Million": 4265,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 56.2,
  "DIVI_Intensivstationen_Covid_Prozent": 12.5,
- "Date_Latest": "2020-11-28",
+ "Date_Latest": "2020-11-29",
  "Deaths": 5,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Nordwestmecklenburg (Landkreis)",
  "Population": 157322,
- "Slope_Cases_New_Per_Million": -2.81,
- "Slope_Deaths_New_Per_Million": -0.85
+ "Slope_Cases_New_Per_Million": -9.96,
+ "Slope_Deaths_New_Per_Million": -1.12
 }

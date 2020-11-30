@@ -1,15 +1,15 @@
 {
  "BL_Code": "BW",
  "Bundesland": "Baden-Württemberg",
- "Cases": 4386,
- "Cases_Last_Week": 462,
- "Cases_Last_Week_Per_100000": 160.9,
- "Cases_Last_Week_Per_Million": 1609,
- "Cases_New": 50,
- "Cases_Per_Million": 15280,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 79.5,
+ "Cases": 4432,
+ "Cases_Last_Week": 484,
+ "Cases_Last_Week_Per_100000": 168.6,
+ "Cases_Last_Week_Per_Million": 1686,
+ "Cases_New": 31,
+ "Cases_Per_Million": 15440,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 75.0,
  "DIVI_Intensivstationen_Covid_Prozent": 13.6,
- "Date_Latest": "2020-11-28",
+ "Date_Latest": "2020-11-29",
  "Deaths": 94,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Reutlingen (Landkreis)",
  "Population": 287034,
- "Slope_Cases_New_Per_Million": 10.72,
- "Slope_Deaths_New_Per_Million": -0.27
+ "Slope_Cases_New_Per_Million": 15.93,
+ "Slope_Deaths_New_Per_Million": -0.37
 }

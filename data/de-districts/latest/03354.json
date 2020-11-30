@@ -1,15 +1,15 @@
 {
  "BL_Code": "NI",
  "Bundesland": "Niedersachsen",
- "Cases": 197,
+ "Cases": 198,
  "Cases_Last_Week": 26,
  "Cases_Last_Week_Per_100000": 53.7,
  "Cases_Last_Week_Per_Million": 537,
- "Cases_New": 4,
- "Cases_Per_Million": 4069,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 100.0,
+ "Cases_New": 0,
+ "Cases_Per_Million": 4089,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 66.7,
  "DIVI_Intensivstationen_Covid_Prozent": 0.0,
- "Date_Latest": "2020-11-28",
+ "Date_Latest": "2020-11-29",
  "Deaths": 5,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Lüchow-Dannenberg (Landkreis)",
  "Population": 48412,
- "Slope_Cases_New_Per_Million": 3.66,
+ "Slope_Cases_New_Per_Million": 5.6,
  "Slope_Deaths_New_Per_Million": 0.0
 }

@@ -1,15 +1,15 @@
 {
  "BL_Code": "BW",
  "Bundesland": "Baden-Württemberg",
- "Cases": 6311,
- "Cases_Last_Week": 737,
- "Cases_Last_Week_Per_100000": 134.4,
- "Cases_Last_Week_Per_Million": 1344,
- "Cases_New": 52,
- "Cases_Per_Million": 11508,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 79.1,
+ "Cases": 6364,
+ "Cases_Last_Week": 695,
+ "Cases_Last_Week_Per_100000": 126.7,
+ "Cases_Last_Week_Per_Million": 1267,
+ "Cases_New": 32,
+ "Cases_Per_Million": 11605,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 74.4,
  "DIVI_Intensivstationen_Covid_Prozent": 20.9,
- "Date_Latest": "2020-11-28",
+ "Date_Latest": "2020-11-29",
  "Deaths": 91,
  "Deaths_Last_Week": 3,
  "Deaths_Last_Week_Per_Million": 5.47,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Rhein-Neckar-Kreis (Landkreis)",
  "Population": 548355,
- "Slope_Cases_New_Per_Million": -14.06,
- "Slope_Deaths_New_Per_Million": -0.77
+ "Slope_Cases_New_Per_Million": -23.17,
+ "Slope_Deaths_New_Per_Million": -0.97
 }

@@ -7,9 +7,9 @@
  "Cases_Last_Week_Per_Million": 1089,
  "Cases_New": 0,
  "Cases_Per_Million": 13015,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 82.8,
- "DIVI_Intensivstationen_Covid_Prozent": 20.7,
- "Date_Latest": "2020-11-28",
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 86.2,
+ "DIVI_Intensivstationen_Covid_Prozent": 27.6,
+ "Date_Latest": "2020-11-29",
  "Deaths": 43,
  "Deaths_Last_Week": 1,
  "Deaths_Last_Week_Per_Million": 4.19,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Main-Taunus-Kreis (Landkreis)",
  "Population": 238558,
- "Slope_Cases_New_Per_Million": -38.31,
- "Slope_Deaths_New_Per_Million": -2.3
+ "Slope_Cases_New_Per_Million": -41.2,
+ "Slope_Deaths_New_Per_Million": -1.95
 }

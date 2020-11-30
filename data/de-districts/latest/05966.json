@@ -1,15 +1,15 @@
 {
  "BL_Code": "NW",
  "Bundesland": "Nordrhein-Westfalen",
- "Cases": 1889,
- "Cases_Last_Week": 99,
- "Cases_Last_Week_Per_100000": 73.9,
- "Cases_Last_Week_Per_Million": 739,
- "Cases_New": 16,
- "Cases_Per_Million": 14101,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 31.2,
- "DIVI_Intensivstationen_Covid_Prozent": 6.2,
- "Date_Latest": "2020-11-28",
+ "Cases": 1896,
+ "Cases_Last_Week": 101,
+ "Cases_Last_Week_Per_100000": 75.3,
+ "Cases_Last_Week_Per_Million": 753,
+ "Cases_New": 7,
+ "Cases_Per_Million": 14154,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 53.1,
+ "DIVI_Intensivstationen_Covid_Prozent": 9.4,
+ "Date_Latest": "2020-11-29",
  "Deaths": 67,
  "Deaths_Last_Week": 1,
  "Deaths_Last_Week_Per_Million": 7.47,
@@ -20,6 +20,6 @@
  "LK_Typ": "Kreis",
  "Landkreis": "Olpe (Kreis)",
  "Population": 133955,
- "Slope_Cases_New_Per_Million": -42.16,
- "Slope_Deaths_New_Per_Million": -2.51
+ "Slope_Cases_New_Per_Million": -50.88,
+ "Slope_Deaths_New_Per_Million": -1.82
 }

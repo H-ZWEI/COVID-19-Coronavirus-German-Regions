@@ -1,15 +1,15 @@
 {
  "BL_Code": "BY",
  "Bundesland": "Bayern",
- "Cases": 2001,
- "Cases_Last_Week": 147,
- "Cases_Last_Week_Per_100000": 127.3,
- "Cases_Last_Week_Per_Million": 1273,
- "Cases_New": 15,
- "Cases_Per_Million": 17332,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 66.7,
- "DIVI_Intensivstationen_Covid_Prozent": 16.7,
- "Date_Latest": "2020-11-28",
+ "Cases": 2008,
+ "Cases_Last_Week": 132,
+ "Cases_Last_Week_Per_100000": 114.3,
+ "Cases_Last_Week_Per_Million": 1143,
+ "Cases_New": 7,
+ "Cases_Per_Million": 17393,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 16.7,
+ "DIVI_Intensivstationen_Covid_Prozent": 0.0,
+ "Date_Latest": "2020-11-29",
  "Deaths": 39,
  "Deaths_Last_Week": 1,
  "Deaths_Last_Week_Per_Million": 8.66,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Schweinfurt (Landkreis)",
  "Population": 115445,
- "Slope_Cases_New_Per_Million": -18.23,
- "Slope_Deaths_New_Per_Million": -0.93
+ "Slope_Cases_New_Per_Million": -34.82,
+ "Slope_Deaths_New_Per_Million": -1.2
 }

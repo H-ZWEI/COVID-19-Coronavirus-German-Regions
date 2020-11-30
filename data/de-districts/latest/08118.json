@@ -1,15 +1,15 @@
 {
  "BL_Code": "BW",
  "Bundesland": "Baden-Württemberg",
- "Cases": 8976,
- "Cases_Last_Week": 603,
- "Cases_Last_Week_Per_100000": 110.5,
- "Cases_Last_Week_Per_Million": 1105,
- "Cases_New": 52,
- "Cases_Per_Million": 16456,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 94.4,
- "DIVI_Intensivstationen_Covid_Prozent": 22.4,
- "Date_Latest": "2020-11-28",
+ "Cases": 8989,
+ "Cases_Last_Week": 586,
+ "Cases_Last_Week_Per_100000": 107.4,
+ "Cases_Last_Week_Per_Million": 1074,
+ "Cases_New": 1,
+ "Cases_Per_Million": 16480,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 90.6,
+ "DIVI_Intensivstationen_Covid_Prozent": 23.6,
+ "Date_Latest": "2020-11-29",
  "Deaths": 136,
  "Deaths_Last_Week": 3,
  "Deaths_Last_Week_Per_Million": 5.5,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Ludwigsburg (Landkreis)",
  "Population": 545423,
- "Slope_Cases_New_Per_Million": -44.21,
- "Slope_Deaths_New_Per_Million": -0.26
+ "Slope_Cases_New_Per_Million": -50.17,
+ "Slope_Deaths_New_Per_Million": -0.18
 }
