@@ -1,13 +1,13 @@
 {
  "BL_Code": "BY",
  "Bundesland": "Bayern",
- "Cases": 1835,
- "Cases_Last_Week": 190,
- "Cases_Last_Week_Per_100000": 161.2,
- "Cases_Last_Week_Per_Million": 1612,
- "Cases_New": 13,
- "Cases_Per_Million": 15570,
- "Date_Latest": "2020-11-29",
+ "Cases": 1883,
+ "Cases_Last_Week": 171,
+ "Cases_Last_Week_Per_100000": 145.0,
+ "Cases_Last_Week_Per_Million": 1450,
+ "Cases_New": 4,
+ "Cases_Per_Million": 15977,
+ "Date_Latest": "2020-11-30",
  "Deaths": 76,
  "Deaths_Last_Week": 2,
  "Deaths_Last_Week_Per_Million": 16.97,
@@ -18,6 +18,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Fürth (Landkreis)",
  "Population": 117853,
- "Slope_Cases_New_Per_Million": -39.65,
- "Slope_Deaths_New_Per_Million": 0.32
+ "Slope_Cases_New_Per_Million": -32.62,
+ "Slope_Deaths_New_Per_Million": 0.65
 }

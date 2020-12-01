@@ -1,15 +1,15 @@
 {
  "BL_Code": "NI",
  "Bundesland": "Niedersachsen",
- "Cases": 1115,
- "Cases_Last_Week": 113,
- "Cases_Last_Week_Per_100000": 68.9,
- "Cases_Last_Week_Per_Million": 689,
- "Cases_New": 8,
- "Cases_Per_Million": 6807,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 76.5,
+ "Cases": 1121,
+ "Cases_Last_Week": 117,
+ "Cases_Last_Week_Per_100000": 71.4,
+ "Cases_Last_Week_Per_Million": 714,
+ "Cases_New": 3,
+ "Cases_Per_Million": 6844,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 79.4,
  "DIVI_Intensivstationen_Covid_Prozent": 14.7,
- "Date_Latest": "2020-11-29",
+ "Date_Latest": "2020-11-30",
  "Deaths": 10,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Rotenburg (Wümme) (Landkreis)",
  "Population": 163782,
- "Slope_Cases_New_Per_Million": -10.64,
- "Slope_Deaths_New_Per_Million": -0.89
+ "Slope_Cases_New_Per_Million": -11.32,
+ "Slope_Deaths_New_Per_Million": -0.64
 }
