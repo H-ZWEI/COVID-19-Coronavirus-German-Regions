@@ -1,15 +1,15 @@
 {
  "BL_Code": "RP",
  "Bundesland": "Rheinland-Pfalz",
- "Cases": 495,
- "Cases_Last_Week": 66,
- "Cases_Last_Week_Per_100000": 123.9,
- "Cases_Last_Week_Per_Million": 1239,
- "Cases_New": 7,
- "Cases_Per_Million": 9293,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 62.5,
+ "Cases": 503,
+ "Cases_Last_Week": 67,
+ "Cases_Last_Week_Per_100000": 125.7,
+ "Cases_Last_Week_Per_Million": 1257,
+ "Cases_New": 6,
+ "Cases_Per_Million": 9443,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 93.8,
  "DIVI_Intensivstationen_Covid_Prozent": 6.2,
- "Date_Latest": "2020-11-30",
+ "Date_Latest": "2020-12-01",
  "Deaths": 3,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Kreisfreie Stadt",
  "Landkreis": "Neustadt an der Weinstraße (Kreisfreie Stadt)",
  "Population": 53264,
- "Slope_Cases_New_Per_Million": 33.75,
- "Slope_Deaths_New_Per_Million": 0.29
+ "Slope_Cases_New_Per_Million": 26.65,
+ "Slope_Deaths_New_Per_Million": -0.29
 }

@@ -1,15 +1,15 @@
 {
  "BL_Code": "NW",
  "Bundesland": "Nordrhein-Westfalen",
- "Cases": 3523,
- "Cases_Last_Week": 385,
- "Cases_Last_Week_Per_100000": 128.8,
- "Cases_Last_Week_Per_Million": 1288,
- "Cases_New": 50,
- "Cases_Per_Million": 11788,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 78.4,
- "DIVI_Intensivstationen_Covid_Prozent": 18.9,
- "Date_Latest": "2020-11-30",
+ "Cases": 3587,
+ "Cases_Last_Week": 376,
+ "Cases_Last_Week_Per_100000": 125.8,
+ "Cases_Last_Week_Per_Million": 1258,
+ "Cases_New": 64,
+ "Cases_Per_Million": 12002,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 83.8,
+ "DIVI_Intensivstationen_Covid_Prozent": 27.0,
+ "Date_Latest": "2020-12-01",
  "Deaths": 49,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Kreis",
  "Landkreis": "Viersen (Kreis)",
  "Population": 298863,
- "Slope_Cases_New_Per_Million": -16.78,
- "Slope_Deaths_New_Per_Million": -0.75
+ "Slope_Cases_New_Per_Million": -12.9,
+ "Slope_Deaths_New_Per_Million": -0.6
 }

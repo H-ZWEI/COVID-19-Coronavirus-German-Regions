@@ -1,15 +1,15 @@
 {
  "BL_Code": "SN",
  "Bundesland": "Sachsen",
- "Cases": 4406,
- "Cases_Last_Week": 940,
- "Cases_Last_Week_Per_100000": 382.7,
- "Cases_Last_Week_Per_Million": 3827,
- "Cases_New": 56,
- "Cases_Per_Million": 17940,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 52.5,
- "DIVI_Intensivstationen_Covid_Prozent": 41.9,
- "Date_Latest": "2020-11-30",
+ "Cases": 4551,
+ "Cases_Last_Week": 1081,
+ "Cases_Last_Week_Per_100000": 440.1,
+ "Cases_Last_Week_Per_Million": 4401,
+ "Cases_New": 89,
+ "Cases_Per_Million": 18531,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 54.7,
+ "DIVI_Intensivstationen_Covid_Prozent": 44.1,
+ "Date_Latest": "2020-12-01",
  "Deaths": 70,
  "Deaths_Last_Week": 6,
  "Deaths_Last_Week_Per_Million": 24.43,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Sächsische Schweiz-Osterzgebirge (Landkreis)",
  "Population": 245586,
- "Slope_Cases_New_Per_Million": 36.25,
- "Slope_Deaths_New_Per_Million": -5.41
+ "Slope_Cases_New_Per_Million": 29.74,
+ "Slope_Deaths_New_Per_Million": -5.83
 }

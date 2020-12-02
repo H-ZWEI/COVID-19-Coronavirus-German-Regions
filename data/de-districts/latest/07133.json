@@ -1,15 +1,15 @@
 {
  "BL_Code": "RP",
  "Bundesland": "Rheinland-Pfalz",
- "Cases": 1524,
- "Cases_Last_Week": 222,
- "Cases_Last_Week_Per_100000": 140.2,
- "Cases_Last_Week_Per_Million": 1402,
- "Cases_New": 20,
- "Cases_Per_Million": 9624,
+ "Cases": 1557,
+ "Cases_Last_Week": 197,
+ "Cases_Last_Week_Per_100000": 124.4,
+ "Cases_Last_Week_Per_Million": 1244,
+ "Cases_New": 24,
+ "Cases_Per_Million": 9832,
  "DIVI_Intensivstationen_Betten_belegt_Prozent": 74.5,
  "DIVI_Intensivstationen_Covid_Prozent": 19.6,
- "Date_Latest": "2020-11-30",
+ "Date_Latest": "2020-12-01",
  "Deaths": 12,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Bad Kreuznach (Landkreis)",
  "Population": 158345,
- "Slope_Cases_New_Per_Million": -17.93,
- "Slope_Deaths_New_Per_Million": -0.97
+ "Slope_Cases_New_Per_Million": -35.03,
+ "Slope_Deaths_New_Per_Million": -1.15
 }

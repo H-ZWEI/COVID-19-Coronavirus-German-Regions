@@ -1,15 +1,15 @@
 {
  "BL_Code": "BY",
  "Bundesland": "Bayern",
- "Cases": 1099,
- "Cases_Last_Week": 83,
- "Cases_Last_Week_Per_100000": 101.2,
- "Cases_Last_Week_Per_Million": 1012,
- "Cases_New": 12,
- "Cases_Per_Million": 13405,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 76.9,
- "DIVI_Intensivstationen_Covid_Prozent": 15.4,
- "Date_Latest": "2020-11-30",
+ "Cases": 1121,
+ "Cases_Last_Week": 95,
+ "Cases_Last_Week_Per_100000": 115.8,
+ "Cases_Last_Week_Per_Million": 1158,
+ "Cases_New": 19,
+ "Cases_Per_Million": 13673,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 61.5,
+ "DIVI_Intensivstationen_Covid_Prozent": 23.1,
+ "Date_Latest": "2020-12-01",
  "Deaths": 12,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Lindau (Bodensee) (Landkreis)",
  "Population": 81981,
- "Slope_Cases_New_Per_Million": -71.8,
- "Slope_Deaths_New_Per_Million": -0.64
+ "Slope_Cases_New_Per_Million": -49.9,
+ "Slope_Deaths_New_Per_Million": -0.35
 }

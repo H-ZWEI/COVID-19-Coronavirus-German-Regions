@@ -1,15 +1,15 @@
 {
  "BL_Code": "BY",
  "Bundesland": "Bayern",
- "Cases": 778,
- "Cases_Last_Week": 82,
- "Cases_Last_Week_Per_100000": 115.4,
- "Cases_Last_Week_Per_Million": 1154,
- "Cases_New": 5,
- "Cases_Per_Million": 10957,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 87.7,
- "DIVI_Intensivstationen_Covid_Prozent": 15.8,
- "Date_Latest": "2020-11-30",
+ "Cases": 788,
+ "Cases_Last_Week": 75,
+ "Cases_Last_Week_Per_100000": 105.6,
+ "Cases_Last_Week_Per_Million": 1056,
+ "Cases_New": 6,
+ "Cases_Per_Million": 11098,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 93.0,
+ "DIVI_Intensivstationen_Covid_Prozent": 17.5,
+ "Date_Latest": "2020-12-01",
  "Deaths": 5,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Kreisfreie Stadt",
  "Landkreis": "Aschaffenburg (Kreisfreie Stadt)",
  "Population": 71002,
- "Slope_Cases_New_Per_Million": -25.76,
- "Slope_Deaths_New_Per_Million": 0.22
+ "Slope_Cases_New_Per_Million": -24.21,
+ "Slope_Deaths_New_Per_Million": -0.22
 }

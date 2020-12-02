@@ -1,15 +1,15 @@
 {
  "BL_Code": "BY",
  "Bundesland": "Bayern",
- "Cases": 1466,
- "Cases_Last_Week": 267,
- "Cases_Last_Week_Per_100000": 340.7,
- "Cases_Last_Week_Per_Million": 3407,
- "Cases_New": 44,
- "Cases_Per_Million": 18708,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 83.3,
- "DIVI_Intensivstationen_Covid_Prozent": 33.3,
- "Date_Latest": "2020-11-30",
+ "Cases": 1503,
+ "Cases_Last_Week": 286,
+ "Cases_Last_Week_Per_100000": 364.9,
+ "Cases_Last_Week_Per_Million": 3649,
+ "Cases_New": 22,
+ "Cases_Per_Million": 19180,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 94.4,
+ "DIVI_Intensivstationen_Covid_Prozent": 50.0,
+ "Date_Latest": "2020-12-01",
  "Deaths": 28,
  "Deaths_Last_Week": 1,
  "Deaths_Last_Week_Per_Million": 12.76,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Freyung-Grafenau (Landkreis)",
  "Population": 78362,
- "Slope_Cases_New_Per_Million": -21.25,
- "Slope_Deaths_New_Per_Million": -2.41
+ "Slope_Cases_New_Per_Million": 14.94,
+ "Slope_Deaths_New_Per_Million": -4.24
 }

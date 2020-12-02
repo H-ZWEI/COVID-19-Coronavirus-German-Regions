@@ -1,15 +1,15 @@
 {
  "BL_Code": "TH",
  "Bundesland": "Thüringen",
- "Cases": 1425,
- "Cases_Last_Week": 162,
- "Cases_Last_Week_Per_100000": 75.7,
- "Cases_Last_Week_Per_Million": 757,
- "Cases_New": 2,
- "Cases_Per_Million": 6659,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 86.9,
- "DIVI_Intensivstationen_Covid_Prozent": 13.1,
- "Date_Latest": "2020-11-30",
+ "Cases": 1468,
+ "Cases_Last_Week": 181,
+ "Cases_Last_Week_Per_100000": 84.5,
+ "Cases_Last_Week_Per_Million": 845,
+ "Cases_New": 32,
+ "Cases_Per_Million": 6860,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 91.7,
+ "DIVI_Intensivstationen_Covid_Prozent": 14.3,
+ "Date_Latest": "2020-12-01",
  "Deaths": 26,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Kreisfreie Stadt",
  "Landkreis": "Erfurt (Kreisfreie Stadt)",
  "Population": 213981,
- "Slope_Cases_New_Per_Million": -16.55,
- "Slope_Deaths_New_Per_Million": -3.99
+ "Slope_Cases_New_Per_Million": -25.09,
+ "Slope_Deaths_New_Per_Million": -5.16
 }
