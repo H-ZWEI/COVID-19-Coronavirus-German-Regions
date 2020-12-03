@@ -1,15 +1,15 @@
 {
  "BL_Code": "BY",
  "Bundesland": "Bayern",
- "Cases": 849,
- "Cases_Last_Week": 87,
- "Cases_Last_Week_Per_100000": 125.8,
- "Cases_Last_Week_Per_Million": 1258,
- "Cases_New": 10,
- "Cases_Per_Million": 12277,
+ "Cases": 852,
+ "Cases_Last_Week": 68,
+ "Cases_Last_Week_Per_100000": 98.3,
+ "Cases_Last_Week_Per_Million": 983,
+ "Cases_New": 3,
+ "Cases_Per_Million": 12320,
  "DIVI_Intensivstationen_Betten_belegt_Prozent": 86.4,
  "DIVI_Intensivstationen_Covid_Prozent": 11.4,
- "Date_Latest": "2020-12-01",
+ "Date_Latest": "2020-12-02",
  "Deaths": 15,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Kreisfreie Stadt",
  "Landkreis": "Kempten (Allgäu) (Kreisfreie Stadt)",
  "Population": 69151,
- "Slope_Cases_New_Per_Million": -26.04,
- "Slope_Deaths_New_Per_Million": -2.38
+ "Slope_Cases_New_Per_Million": -38.5,
+ "Slope_Deaths_New_Per_Million": -2.61
 }

@@ -2,14 +2,14 @@
  "BL_Code": "SH",
  "Bundesland": "Schleswig-Holstein",
  "Cases": 463,
- "Cases_Last_Week": 30,
- "Cases_Last_Week_Per_100000": 37.4,
- "Cases_Last_Week_Per_Million": 374,
- "Cases_New": 2,
+ "Cases_Last_Week": 24,
+ "Cases_Last_Week_Per_100000": 29.9,
+ "Cases_Last_Week_Per_Million": 299,
+ "Cases_New": 0,
  "Cases_Per_Million": 5773,
  "DIVI_Intensivstationen_Betten_belegt_Prozent": 76.0,
  "DIVI_Intensivstationen_Covid_Prozent": 0.0,
- "Date_Latest": "2020-12-01",
+ "Date_Latest": "2020-12-02",
  "Deaths": 6,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Kreisfreie Stadt",
  "Landkreis": "Neumünster (Kreisfreie Stadt)",
  "Population": 80196,
- "Slope_Cases_New_Per_Million": -18.23,
- "Slope_Deaths_New_Per_Million": -1.23
+ "Slope_Cases_New_Per_Million": -19.42,
+ "Slope_Deaths_New_Per_Million": -1.1
 }

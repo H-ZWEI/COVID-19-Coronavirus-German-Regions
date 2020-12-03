@@ -1,15 +1,15 @@
 {
  "BL_Code": "RP",
  "Bundesland": "Rheinland-Pfalz",
- "Cases": 984,
- "Cases_Last_Week": 99,
- "Cases_Last_Week_Per_100000": 122.2,
- "Cases_Last_Week_Per_Million": 1222,
- "Cases_New": 14,
- "Cases_Per_Million": 12155,
+ "Cases": 1006,
+ "Cases_Last_Week": 115,
+ "Cases_Last_Week_Per_100000": 142.0,
+ "Cases_Last_Week_Per_Million": 1420,
+ "Cases_New": 16,
+ "Cases_Per_Million": 12427,
  "DIVI_Intensivstationen_Betten_belegt_Prozent": 72.7,
  "DIVI_Intensivstationen_Covid_Prozent": 4.5,
- "Date_Latest": "2020-12-01",
+ "Date_Latest": "2020-12-02",
  "Deaths": 23,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Birkenfeld (Landkreis)",
  "Population": 80951,
- "Slope_Cases_New_Per_Million": -62.07,
- "Slope_Deaths_New_Per_Million": -4.43
+ "Slope_Cases_New_Per_Million": -40.91,
+ "Slope_Deaths_New_Per_Million": -2.91
 }

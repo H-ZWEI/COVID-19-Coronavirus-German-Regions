@@ -1,15 +1,15 @@
 {
  "BL_Code": "BY",
  "Bundesland": "Bayern",
- "Cases": 1192,
- "Cases_Last_Week": 155,
- "Cases_Last_Week_Per_100000": 153.4,
- "Cases_Last_Week_Per_Million": 1534,
- "Cases_New": 10,
- "Cases_Per_Million": 11800,
+ "Cases": 1202,
+ "Cases_Last_Week": 127,
+ "Cases_Last_Week_Per_100000": 125.7,
+ "Cases_Last_Week_Per_Million": 1257,
+ "Cases_New": 7,
+ "Cases_Per_Million": 11899,
  "DIVI_Intensivstationen_Betten_belegt_Prozent": 83.6,
  "DIVI_Intensivstationen_Covid_Prozent": 7.3,
- "Date_Latest": "2020-12-01",
+ "Date_Latest": "2020-12-02",
  "Deaths": 16,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Neustadt a.d. Aisch-Bad Windsheim (Landkreis)",
  "Population": 101014,
- "Slope_Cases_New_Per_Million": -0.66,
- "Slope_Deaths_New_Per_Million": -3.96
+ "Slope_Cases_New_Per_Million": -21.76,
+ "Slope_Deaths_New_Per_Million": -4.0
 }

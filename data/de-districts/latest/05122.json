@@ -1,15 +1,15 @@
 {
  "BL_Code": "NW",
  "Bundesland": "Nordrhein-Westfalen",
- "Cases": 3290,
- "Cases_Last_Week": 402,
- "Cases_Last_Week_Per_100000": 252.4,
- "Cases_Last_Week_Per_Million": 2524,
- "Cases_New": 31,
- "Cases_Per_Million": 20659,
+ "Cases": 3346,
+ "Cases_Last_Week": 398,
+ "Cases_Last_Week_Per_100000": 249.9,
+ "Cases_Last_Week_Per_Million": 2499,
+ "Cases_New": 56,
+ "Cases_Per_Million": 21011,
  "DIVI_Intensivstationen_Betten_belegt_Prozent": 66.3,
  "DIVI_Intensivstationen_Covid_Prozent": 19.8,
- "Date_Latest": "2020-12-01",
+ "Date_Latest": "2020-12-02",
  "Deaths": 47,
  "Deaths_Last_Week": 1,
  "Deaths_Last_Week_Per_Million": 6.28,
@@ -20,6 +20,6 @@
  "LK_Typ": "Kreisfreie Stadt",
  "Landkreis": "Solingen (Kreisfreie Stadt)",
  "Population": 159245,
- "Slope_Cases_New_Per_Million": -13.55,
- "Slope_Deaths_New_Per_Million": -0.23
+ "Slope_Cases_New_Per_Million": -6.93,
+ "Slope_Deaths_New_Per_Million": -1.33
 }

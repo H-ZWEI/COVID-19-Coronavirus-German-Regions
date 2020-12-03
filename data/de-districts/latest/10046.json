@@ -1,15 +1,15 @@
 {
  "BL_Code": "SL",
  "Bundesland": "Saarland",
- "Cases": 1088,
- "Cases_Last_Week": 85,
- "Cases_Last_Week_Per_100000": 97.6,
- "Cases_Last_Week_Per_Million": 976,
- "Cases_New": 9,
- "Cases_Per_Million": 12504,
+ "Cases": 1097,
+ "Cases_Last_Week": 78,
+ "Cases_Last_Week_Per_100000": 89.6,
+ "Cases_Last_Week_Per_Million": 896,
+ "Cases_New": 10,
+ "Cases_Per_Million": 12608,
  "DIVI_Intensivstationen_Betten_belegt_Prozent": 63.6,
  "DIVI_Intensivstationen_Covid_Prozent": 9.1,
- "Date_Latest": "2020-12-01",
+ "Date_Latest": "2020-12-02",
  "Deaths": 25,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "St. Wendel (Landkreis)",
  "Population": 87007,
- "Slope_Cases_New_Per_Million": -6.22,
- "Slope_Deaths_New_Per_Million": -1.01
+ "Slope_Cases_New_Per_Million": -2.76,
+ "Slope_Deaths_New_Per_Million": -0.83
 }

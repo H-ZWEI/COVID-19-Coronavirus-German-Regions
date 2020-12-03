@@ -1,15 +1,15 @@
 {
  "BL_Code": "NW",
  "Bundesland": "Nordrhein-Westfalen",
- "Cases": 3531,
- "Cases_Last_Week": 381,
- "Cases_Last_Week_Per_100000": 134.5,
- "Cases_Last_Week_Per_Million": 1345,
- "Cases_New": 45,
- "Cases_Per_Million": 12465,
+ "Cases": 3601,
+ "Cases_Last_Week": 376,
+ "Cases_Last_Week_Per_100000": 132.7,
+ "Cases_Last_Week_Per_Million": 1327,
+ "Cases_New": 71,
+ "Cases_Per_Million": 12712,
  "DIVI_Intensivstationen_Betten_belegt_Prozent": 77.8,
  "DIVI_Intensivstationen_Covid_Prozent": 15.6,
- "Date_Latest": "2020-12-01",
+ "Date_Latest": "2020-12-02",
  "Deaths": 31,
  "Deaths_Last_Week": 1,
  "Deaths_Last_Week_Per_Million": 3.53,
@@ -20,6 +20,6 @@
  "LK_Typ": "Kreis",
  "Landkreis": "Rheinisch-Bergischer Kreis (Kreis)",
  "Population": 283271,
- "Slope_Cases_New_Per_Million": 2.39,
- "Slope_Deaths_New_Per_Million": 0.35
+ "Slope_Cases_New_Per_Million": 11.32,
+ "Slope_Deaths_New_Per_Million": 0.37
 }

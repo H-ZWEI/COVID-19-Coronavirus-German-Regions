@@ -1,15 +1,15 @@
 {
  "BL_Code": "NW",
  "Bundesland": "Nordrhein-Westfalen",
- "Cases": 3803,
- "Cases_Last_Week": 296,
- "Cases_Last_Week_Per_100000": 130.1,
- "Cases_Last_Week_Per_Million": 1301,
- "Cases_New": 15,
- "Cases_Per_Million": 16722,
+ "Cases": 3862,
+ "Cases_Last_Week": 251,
+ "Cases_Last_Week_Per_100000": 110.3,
+ "Cases_Last_Week_Per_Million": 1103,
+ "Cases_New": 13,
+ "Cases_Per_Million": 16982,
  "DIVI_Intensivstationen_Betten_belegt_Prozent": 77.7,
  "DIVI_Intensivstationen_Covid_Prozent": 12.6,
- "Date_Latest": "2020-12-01",
+ "Date_Latest": "2020-12-02",
  "Deaths": 39,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Kreisfreie Stadt",
  "Landkreis": "Krefeld (Kreisfreie Stadt)",
  "Population": 227417,
- "Slope_Cases_New_Per_Million": -30.78,
- "Slope_Deaths_New_Per_Million": -0.6
+ "Slope_Cases_New_Per_Million": -40.71,
+ "Slope_Deaths_New_Per_Million": -0.58
 }
