@@ -6311,14 +6311,14 @@
   "Date": "2020-12-02",
   "Days_Past": 0,
   "Days_Since_2nd_Death": 275,
-  "Deaths": 273799,
-  "Deaths_Last_Week": 11577,
-  "Deaths_Last_Week_Per_Million": 35.39,
-  "Deaths_New": 3157,
-  "Deaths_New_Per_Million": 9.649,
+  "Deaths": 273446,
+  "Deaths_Last_Week": 11224,
+  "Deaths_Last_Week_Per_Million": 34.31,
+  "Deaths_New": 2804,
+  "Deaths_New_Per_Million": 8.571,
   "Deaths_Per_Cases": 0.02,
   "Deaths_Per_Cases_Last_Week": 0.01,
-  "Deaths_Per_Million": 836,
+  "Deaths_Per_Million": 835,
   "Population": 328239523
  }
 ]

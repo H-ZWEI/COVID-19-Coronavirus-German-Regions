@@ -1,15 +1,15 @@
 {
  "BL_Code": "BW",
  "Bundesland": "Baden-Württemberg",
- "Cases": 3374,
- "Cases_Last_Week": 227,
- "Cases_Last_Week_Per_100000": 86.1,
- "Cases_Last_Week_Per_Million": 861,
- "Cases_New": 46,
- "Cases_Per_Million": 12799,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 78.8,
- "DIVI_Intensivstationen_Covid_Prozent": 12.1,
- "Date_Latest": "2020-12-02",
+ "Cases": 3418,
+ "Cases_Last_Week": 232,
+ "Cases_Last_Week_Per_100000": 88.0,
+ "Cases_Last_Week_Per_Million": 880,
+ "Cases_New": 25,
+ "Cases_Per_Million": 12966,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 77.3,
+ "DIVI_Intensivstationen_Covid_Prozent": 13.6,
+ "Date_Latest": "2020-12-03",
  "Deaths": 83,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Breisgau-Hochschwarzwald (Landkreis)",
  "Population": 263601,
- "Slope_Cases_New_Per_Million": -9.95,
- "Slope_Deaths_New_Per_Million": 0.35
+ "Slope_Cases_New_Per_Million": -4.81,
+ "Slope_Deaths_New_Per_Million": 0.12
 }

@@ -1,15 +1,15 @@
 {
  "BL_Code": "NW",
  "Bundesland": "Nordrhein-Westfalen",
- "Cases": 3433,
- "Cases_Last_Week": 270,
- "Cases_Last_Week_Per_100000": 86.4,
- "Cases_Last_Week_Per_Million": 864,
- "Cases_New": 41,
- "Cases_Per_Million": 10986,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 68.6,
- "DIVI_Intensivstationen_Covid_Prozent": 10.0,
- "Date_Latest": "2020-12-02",
+ "Cases": 3483,
+ "Cases_Last_Week": 269,
+ "Cases_Last_Week_Per_100000": 86.0,
+ "Cases_Last_Week_Per_Million": 860,
+ "Cases_New": 30,
+ "Cases_Per_Million": 11146,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 74.0,
+ "DIVI_Intensivstationen_Covid_Prozent": 6.8,
+ "Date_Latest": "2020-12-03",
  "Deaths": 70,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Kreis",
  "Landkreis": "Kleve (Kreis)",
  "Population": 312465,
- "Slope_Cases_New_Per_Million": -4.58,
- "Slope_Deaths_New_Per_Million": -0.34
+ "Slope_Cases_New_Per_Million": -0.98,
+ "Slope_Deaths_New_Per_Million": -0.32
 }

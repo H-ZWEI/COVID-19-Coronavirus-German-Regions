@@ -1,15 +1,15 @@
 {
  "BL_Code": "BE",
  "Bundesland": "Berlin",
- "Cases": 2955,
- "Cases_Last_Week": 345,
- "Cases_Last_Week_Per_100000": 131.1,
- "Cases_Last_Week_Per_Million": 1311,
- "Cases_New": 28,
- "Cases_Per_Million": 11237,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 87.8,
- "DIVI_Intensivstationen_Covid_Prozent": 24.1,
- "Date_Latest": "2020-12-02",
+ "Cases": 3010,
+ "Cases_Last_Week": 337,
+ "Cases_Last_Week_Per_100000": 128.1,
+ "Cases_Last_Week_Per_Million": 1281,
+ "Cases_New": 31,
+ "Cases_Per_Million": 11446,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 89.1,
+ "DIVI_Intensivstationen_Covid_Prozent": 25.6,
+ "Date_Latest": "2020-12-03",
  "Deaths": 26,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Bezirk",
  "Landkreis": "Berlin Marzahn-Hellersdorf (Bezirk)",
  "Population": 262967,
- "Slope_Cases_New_Per_Million": -11.28,
- "Slope_Deaths_New_Per_Million": 0.32
+ "Slope_Cases_New_Per_Million": -23.19,
+ "Slope_Deaths_New_Per_Million": -0.1
 }

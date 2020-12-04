@@ -1,15 +1,15 @@
 {
  "BL_Code": "ST",
  "Bundesland": "Sachsen-Anhalt",
- "Cases": 980,
- "Cases_Last_Week": 154,
- "Cases_Last_Week_Per_100000": 90.0,
- "Cases_Last_Week_Per_Million": 900,
- "Cases_New": 42,
- "Cases_Per_Million": 5733,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 60.9,
- "DIVI_Intensivstationen_Covid_Prozent": 13.0,
- "Date_Latest": "2020-12-02",
+ "Cases": 989,
+ "Cases_Last_Week": 157,
+ "Cases_Last_Week_Per_100000": 91.8,
+ "Cases_Last_Week_Per_Million": 918,
+ "Cases_New": 7,
+ "Cases_Per_Million": 5786,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 56.5,
+ "DIVI_Intensivstationen_Covid_Prozent": 8.7,
+ "Date_Latest": "2020-12-03",
  "Deaths": 22,
  "Deaths_Last_Week": 4,
  "Deaths_Last_Week_Per_Million": 23.4,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Börde (Landkreis)",
  "Population": 170923,
- "Slope_Cases_New_Per_Million": -0.67,
- "Slope_Deaths_New_Per_Million": 1.85
+ "Slope_Cases_New_Per_Million": 2.49,
+ "Slope_Deaths_New_Per_Million": 1.63
 }

@@ -1,15 +1,15 @@
 {
  "BL_Code": "BY",
  "Bundesland": "Bayern",
- "Cases": 4123,
- "Cases_Last_Week": 337,
- "Cases_Last_Week_Per_100000": 153.6,
- "Cases_Last_Week_Per_Million": 1536,
- "Cases_New": 46,
- "Cases_Per_Million": 18799,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 90.0,
+ "Cases": 4165,
+ "Cases_Last_Week": 321,
+ "Cases_Last_Week_Per_100000": 146.3,
+ "Cases_Last_Week_Per_Million": 1463,
+ "Cases_New": 42,
+ "Cases_Per_Million": 18991,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 100.0,
  "DIVI_Intensivstationen_Covid_Prozent": 20.0,
- "Date_Latest": "2020-12-02",
+ "Date_Latest": "2020-12-03",
  "Deaths": 65,
  "Deaths_Last_Week": 3,
  "Deaths_Last_Week_Per_Million": 13.68,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Fürstenfeldbruck (Landkreis)",
  "Population": 219311,
- "Slope_Cases_New_Per_Million": -3.65,
- "Slope_Deaths_New_Per_Million": -0.92
+ "Slope_Cases_New_Per_Million": -10.62,
+ "Slope_Deaths_New_Per_Million": -0.76
 }

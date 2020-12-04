@@ -1,15 +1,15 @@
 {
  "BL_Code": "NW",
  "Bundesland": "Nordrhein-Westfalen",
- "Cases": 3632,
- "Cases_Last_Week": 339,
- "Cases_Last_Week_Per_100000": 188.4,
- "Cases_Last_Week_Per_Million": 1884,
- "Cases_New": 33,
- "Cases_Per_Million": 20187,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 77.5,
- "DIVI_Intensivstationen_Covid_Prozent": 13.5,
- "Date_Latest": "2020-12-02",
+ "Cases": 3668,
+ "Cases_Last_Week": 298,
+ "Cases_Last_Week_Per_100000": 165.6,
+ "Cases_Last_Week_Per_Million": 1656,
+ "Cases_New": 36,
+ "Cases_Per_Million": 20387,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 74.2,
+ "DIVI_Intensivstationen_Covid_Prozent": 12.4,
+ "Date_Latest": "2020-12-03",
  "Deaths": 58,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Kreisfreie Stadt",
  "Landkreis": "Hamm (Kreisfreie Stadt)",
  "Population": 179916,
- "Slope_Cases_New_Per_Million": -50.93,
- "Slope_Deaths_New_Per_Million": -1.53
+ "Slope_Cases_New_Per_Million": -68.43,
+ "Slope_Deaths_New_Per_Million": -1.89
 }
